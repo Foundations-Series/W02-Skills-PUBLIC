@@ -1,0 +1,1756 @@
+alife_id_001,c_age_30_june,c_birth_fy,c_death_fy,c_gender,c_sa4_id,c_sa4_name,c_state_id,c_state,c_significant_urban,c_remoteness_area,c_depend_child,ic_adjusted_taxable_income
+6128520290,27,1957,2024,F,506,Coffs Harbour - Grafton,1,NSW,In a significant urban area,Outer regional,0,157
+8938524859,29,1994,2022,F,303,Latrobe - Gippsland,3,VIC,In a significant urban area,Major city,0,48926
+5945912914,39,1997,2026,F,206,Western Australia - Wheat Belt,5,VIC,"","",0,116431
+2630702905,43,2001,2026,F,213,Sydney - Blacktown,2,NSW,In a significant urban area,Major city,0,52896
+6418384500,30,1989,2022,M,112,Melbourne - North West,4,QLD,In a significant urban area,Major city,0,66733
+5810240314,44,1988,2023,M,602,Melbourne - South East,3,VIC,In a significant urban area,Inner regional,0,0
+2565400019,67,1962,2022,F,119,Melbourne - North West,1,VIC,Not in a significant urban area,Major city,0,190751
+3205212873,73,1996,2023,M,601,Melbourne - Inner South,5,QLD,In a significant urban area,Major city,0,0
+9974854595,48,1968,2024,F,309,Melbourne - Inner East,2,QLD,In a significant urban area,"",0,158894
+8214703980,21,1940,2023,M,503,Perth - South East,1,WA,In a significant urban area,Major city,0,18643
+4966880593,55,1967,2025,M,212,Melbourne - North West,2,TAS,"","",0,14879
+9989037453,41,1949,2021,M,213,Central Coast,2,WA,Not in a significant urban area,Major city,1,106646
+2009366634,27,1972,2025,F,125,Sydney - Inner South West,3,VIC,In a significant urban area,Inner regional,0,61150
+8019456506,60,1970,2023,F,128,Melbourne - North West,1,NSW,In a significant urban area,Inner regional,0,49725
+2235403875,36,1995,2021,M,105,Hobart,7,WA,In a significant urban area,Remote area,0,16342
+1053777424,40,1969,2023,F,119,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Major city,4,0
+2957394183,34,1979,2026,M,211,Darwin,5,NSW,In a significant urban area,Major city,0,83162
+7959182537,29,1997,2025,M,309,Sydney - Inner South West,1,VIC,In a significant urban area,"",0,61819
+7459491521,54,1988,2024,M,313,Coffs Harbour - Grafton,3,SA,Not in a significant urban area,Inner regional,0,127796
+8172804172,35,1987,2025,F,308,Bunbury,3,VIC,Not in a significant urban area,Outer regional,0,135996
+7825210690,67,1987,2024,M,801,Ipswich,4,QLD,In a significant urban area,Major city,0,38543
+9536224164,27,1987,2026,M,403,Launceston and North East,2,NSW,In a significant urban area,Inner regional,0,63272
+2673492799,53,1993,2027,F,206,Bunbury,5,NSW,In a significant urban area,Major city,2,0
+1013876008,68,1956,2022,M,111,Riverina,2,VIC,In a significant urban area,Major city,0,72939
+7935882778,25,1990,2024,M,206,Sydney - Sutherland,3,VIC,In a significant urban area,"",0,32925
+2031231003,30,2000,2024,M,204,Sydney - Northern Beaches,1,WA,Not in a significant urban area,Major city,0,60320
+5039294121,41,1939,2024,M,117,Western Australia - Wheat Belt,1,VIC,In a significant urban area,Major city,0,0
+2293430021,47,1945,2023,M,103,Sydney - Parramatta,2,VIC,"","",1,0
+7900704060,54,1997,2019,M,316,Melbourne - North West,3,QLD,In a significant urban area,Major city,0,0
+7781577199,63,1945,2023,F,120,Townsville,2,VIC,In a significant urban area,Major city,1,428469
+2659276993,55,1972,2025,F,208,New England and North West,1,SA,In a significant urban area,"",0,74376
+4998403642,80,1965,2024,M,204,Brisbane - South,2,QLD,Not in a significant urban area,"",0,69891
+5185942180,29,1979,2023,M,312,"",2,WA,In a significant urban area,"",2,68521
+4036161080,30,1964,2026,F,119,Ipswich,3,NSW,"",Major city,2,72605
+2907909627,50,1956,2022,M,206,Melbourne - Outer East,3,SA,In a significant urban area,Major city,2,29516
+5105907288,52,1996,2022,F,201,Richmond - Tweed,1,NSW,In a significant urban area,"",0,422163
+9826063564,43,1945,2023,M,510,Adelaide - Central and Hills,5,NSW,"",Major city,0,20006
+3145748824,24,1987,2026,M,318,Sydney - Inner South West,1,QLD,In a significant urban area,Major city,0,88285
+2581592135,32,1953,2021,M,209,Far West and Orana,1,NSW,In a significant urban area,Major city,1,0
+8727918527,32,1960,2026,F,318,Cairns,1,QLD,"",Major city,0,1525
+1246694795,39,1981,2026,M,302,Perth - North West,2,QLD,In a significant urban area,Major city,0,29539
+9122249695,33,1997,2025,M,217,Brisbane Inner City,1,NSW,In a significant urban area,Major city,1,80099
+7809566188,38,1991,2025,M,302,Sydney - Inner South West,1,NSW,In a significant urban area,"",1,33998
+5625426500,30,1991,2022,F,403,Brisbane - East,2,NSW,In a significant urban area,Inner regional,2,184839
+3740486757,46,1969,2020,F,117,Launceston and North East,2,NSW,In a significant urban area,Major city,2,124692
+1896307422,58,1969,2025,F,119,Perth - North West,1,VIC,In a significant urban area,Major city,0,120409
+9368038903,52,1976,2025,M,120,Sydney - Outer West and Blue Mountains,2,QLD,Not in a significant urban area,Major city,0,
+3623222543,48,1970,2025,F,125,Sydney - North Sydney and Hornsby,2,WA,In a significant urban area,Major city,0,0
+4811218947,32,1997,2025,M,117,Coffs Harbour - Grafton,1,NSW,"",Major city,0,147303
+9326607335,57,1966,2022,F,505,Melbourne - Inner South,5,NSW,In a significant urban area,Major city,0,91782
+5122697525,42,1985,2026,M,212,Moreton Bay - North,2,QLD,In a significant urban area,Major city,0,236693
+1416606969,47,1979,2023,M,204,Melbourne - West,2,WA,In a significant urban area,Inner regional,0,78661
+1192542900,44,2003,2023,M,102,Perth - South East,5,VIC,In a significant urban area,Outer regional,0,0
+2359082838,73,2003,2026,F,111,Brisbane - South,5,VIC,In a significant urban area,Major city,4,102084
+2439436510,46,1983,2026,M,507,Perth - Inner,5,QLD,In a significant urban area,Inner regional,0,0
+5606021682,74,1964,2026,F,310,Sydney - Inner South West,1,WA,In a significant urban area,Major city,0,62752
+1776230118,59,1965,2024,M,801,Australian Capital Territory,1,NSW,In a significant urban area,Major city,2,52611
+8141003094,45,2006,2023,F,215,Cairns,1,NSW,In a significant urban area,Major city,0,85360
+7241114189,50,1996,2026,F,208,Sydney - Inner West,2,VIC,In a significant urban area,Outer regional,1,18454
+3813081100,43,1972,2024,M,305,Hobart,6,VIC,In a significant urban area,Major city,0,45685
+7991819382,54,1983,2025,F,318,Sydney - Northern Beaches,1,QLD,In a significant urban area,Major city,0,101486
+5486882120,71,2000,2022,M,212,Sydney - Baulkham Hills and Hawkesbury,2,NSW,"",Major city,0,80286
+4647840322,22,1958,2023,F,121,Sydney - South West,3,NSW,In a significant urban area,"",0,87045
+8510058002,54,1985,2026,M,407,Sydney - Outer South West,1,NSW,Not in a significant urban area,"",0,59753
+6035730720,28,2000,2025,M,123,Melbourne - West,2,SA,In a significant urban area,Major city,2,200110
+5835110466,28,2004,2026,M,317,Sydney - Blacktown,1,SA,Not in a significant urban area,Major city,0,35178
+2006607945,74,1932,2021,M,114,Melbourne - North East,3,VIC,In a significant urban area,Major city,0,29194
+4790292150,59,1962,2023,M,211,Melbourne - South East,1,TAS,In a significant urban area,Major city,0,16731
+3780637344,30,1954,2023,F,401,Sydney - Inner South West,2,VIC,In a significant urban area,Outer regional,0,0
+9463135417,61,1957,2022,F,119,Melbourne - North East,2,QLD,In a significant urban area,Major city,2,80773
+5691292089,77,1969,2024,M,111,Perth - South East,3,WA,In a significant urban area,"",2,20691
+7726534330,61,1955,2022,F,309,Gold Coast,7,VIC,In a significant urban area,Remote area,0,180950
+6790536412,55,2005,2024,M,309,Sydney - Outer South West,3,WA,In a significant urban area,Major city,1,134165
+5266361024,28,1981,2023,F,119,Sydney - Northern Beaches,1,NSW,In a significant urban area,Outer regional,2,75871
+2425754709,31,1989,2026,M,604,Ipswich,3,VIC,In a significant urban area,Major city,0,90627
+3208726173,80,1971,2026,F,115,Newcastle and Lake Macquarie,5,SA,Not in a significant urban area,Major city,3,40437
+3898992380,37,1996,2025,M,205,"",1,QLD,In a significant urban area,Major city,0,69784
+2793013689,71,1995,2023,F,201,Brisbane - West,7,VIC,In a significant urban area,"",0,66544
+5832840056,49,2000,2025,F,214,South Australia - South East,3,QLD,"",Inner regional,2,0
+9824597559,25,2000,2026,F,115,Southern Highlands and Shoalhaven,1,VIC,In a significant urban area,Major city,3,70883
+1271993684,34,1993,2023,M,217,Sydney - Inner West,2,VIC,"","",5,1856
+3141530380,30,1982,2021,M,310,Melbourne - South East,1,VIC,In a significant urban area,Major city,0,86823
+5669454192,37,1996,2023,M,301,Cairns,2,VIC,In a significant urban area,Inner regional,0,0
+4412172165,39,1976,2024,M,213,Melbourne - Inner,5,VIC,In a significant urban area,Outer regional,0,40745
+1588178536,26,1991,2024,M,103,Sydney - Outer South West,1,NSW,In a significant urban area,"",2,58253
+1524396573,69,1980,2023,M,308,Melbourne - South East,1,QLD,In a significant urban area,Inner regional,0,3460
+1073626098,68,1962,2025,F,701,Brisbane Inner City,1,WA,"",Major city,0,166948
+3505056745,34,1984,2023,M,505,Australian Capital Territory,4,NSW,In a significant urban area,Major city,0,0
+8098716514,74,1971,2025,M,501,Perth - North East,3,NSW,In a significant urban area,Outer regional,0,177
+8856377253,70,1980,2026,M,206,Riverina,1,QLD,In a significant urban area,Inner regional,0,0
+7104226542,59,1962,2023,F,309,Sydney - North Sydney and Hornsby,1,SA,In a significant urban area,Major city,0,49121
+2174963738,72,1960,2022,M,121,Australian Capital Territory,5,QLD,In a significant urban area,Inner regional,0,71740
+7228860030,29,1956,2025,M,127,Adelaide - South,3,VIC,Not in a significant urban area,Inner regional,1,4923
+8828462106,37,2002,2025,F,305,Mornington Peninsula,1,NSW,In a significant urban area,Inner regional,0,43169
+4095933173,54,1968,2021,F,309,Australian Capital Territory,3,VIC,In a significant urban area,Inner regional,0,0
+9563197044,65,1941,2022,M,215,Melbourne - North East,4,VIC,In a significant urban area,Inner regional,1,35305
+6505155921,55,1977,2023,F,308,Mid North Coast,1,VIC,"",Inner regional,2,15715
+8728095472,23,1994,2022,M,210,Adelaide - North,7,NSW,Not in a significant urban area,"",1,272284
+2558774716,35,2002,2026,M,208,Sydney - Outer South West,4,VIC,In a significant urban area,Major city,0,111591
+4275209749,72,1979,2026,M,206,Latrobe - Gippsland,5,ACT,In a significant urban area,Major city,2,123656
+6190819502,76,1965,2021,M,213,Central Coast,3,TAS,In a significant urban area,Major city,0,87387
+5695507892,25,1999,2025,F,316,Sydney - South West,4,QLD,In a significant urban area,Inner regional,0,0
+5096565890,34,1966,2021,M,114,Logan - Beaudesert,2,VIC,In a significant urban area,Major city,0,39340
+2232822965,28,1993,2024,F,602,Richmond - Tweed,1,NSW,In a significant urban area,Inner regional,0,95993
+6597350284,42,1962,2024,F,404,Newcastle and Lake Macquarie,4,VIC,"",Major city,0,
+8992988686,44,1951,2022,M,303,Australian Capital Territory,4,QLD,In a significant urban area,Inner regional,2,52614
+8508437325,76,1952,2021,F,507,Far West and Orana,2,NSW,In a significant urban area,Major city,0,53207
+1600953945,31,1986,2025,M,702,Adelaide - North,4,QLD,In a significant urban area,Inner regional,2,5941
+1306681872,32,1980,2025,F,126,Mornington Peninsula,1,VIC,In a significant urban area,Major city,1,0
+7571321624,35,1974,2023,F,119,Perth - South West,3,NSW,In a significant urban area,Major city,0,0
+1486868409,34,1961,2022,F,216,Gold Coast,3,VIC,In a significant urban area,Major city,1,28343
+1074508343,40,1961,2023,F,125,Perth - South East,1,WA,In a significant urban area,Major city,0,19761
+1169216411,36,1984,2021,M,303,Melbourne - Inner,1,QLD,In a significant urban area,Major city,0,45027
+4473114186,29,1994,2021,M,308,Brisbane - East,4,QLD,In a significant urban area,Major city,0,32037
+8593710027,43,2003,2023,M,316,Geelong,1,NSW,In a significant urban area,Inner regional,0,0
+8133708982,57,1974,2024,M,507,Queensland - Outback,3,VIC,In a significant urban area,"",3,158016
+7262974543,37,2004,2021,F,117,Melbourne - North West,1,NSW,In a significant urban area,"",0,13098
+7932566512,25,1975,2024,M,210,Adelaide - South,1,SA,In a significant urban area,"",0,0
+3695175804,36,1960,2024,F,120,Adelaide - North,1,VIC,In a significant urban area,Major city,0,0
+8650395642,21,1999,2023,M,407,Sydney - Eastern Suburbs,1,QLD,In a significant urban area,Inner regional,0,84990
+7706136933,53,2001,2021,M,111,Melbourne - Inner East,1,NSW,Not in a significant urban area,Inner regional,0,23344
+1935766779,29,1986,2025,M,128,Melbourne - South East,1,NSW,Not in a significant urban area,Major city,0,23621
+9548370296,36,1979,2024,F,310,Perth - South West,3,QLD,In a significant urban area,"",2,0
+9597115501,48,1990,2025,F,604,Wide Bay,1,WA,In a significant urban area,"",0,0
+6537810945,36,1975,2023,F,801,Murray,1,NSW,In a significant urban area,Major city,2,106419
+1055935463,22,2001,2025,F,110,Melbourne - Outer East,2,NSW,Not in a significant urban area,Major city,0,0
+4037545015,51,1979,2023,M,504,Australian Capital Territory,1,NSW,In a significant urban area,"",2,57234
+8621033561,67,1989,2023,F,106,Newcastle and Lake Macquarie,2,VIC,In a significant urban area,Major city,0,5453
+3441738233,68,1975,2022,F,114,Illawarra,1,NSW,In a significant urban area,Outer regional,0,120860
+7473153112,40,1956,2023,M,206,Hunter Valley exc Newcastle,1,VIC,In a significant urban area,Major city,1,67631
+8709833314,24,2006,2022,M,303,"",1,NSW,In a significant urban area,Major city,1,63017
+5513621360,42,1957,2022,M,302,Perth - South East,1,QLD,In a significant urban area,Inner regional,0,24719
+5877902622,61,1998,2025,M,207,Sydney - Eastern Suburbs,1,NSW,In a significant urban area,Major city,0,52019
+3390646568,23,1957,2024,F,212,Brisbane - South,1,QLD,In a significant urban area,Outer regional,2,9670
+8520374856,71,1976,2024,M,302,Darling Downs - Maranoa,1,NSW,In a significant urban area,"",2,61649
+8741981687,26,1979,2023,M,112,Perth - South West,2,WA,In a significant urban area,Inner regional,0,32857
+8388687218,22,1973,2025,F,403,"",5,NSW,In a significant urban area,"",0,102507
+8157336935,31,1971,2025,F,101,Melbourne - South East,2,VIC,In a significant urban area,Inner regional,1,47060
+9494262313,46,1945,2026,M,302,"",1,VIC,In a significant urban area,Major city,1,0
+6481735241,31,1950,2025,M,504,Capital Region,1,VIC,Not in a significant urban area,Major city,0,60216
+8356005931,76,1957,2026,M,403,Newcastle and Lake Macquarie,2,VIC,In a significant urban area,"",0,18605
+2374638656,45,1974,2026,M,211,Sydney - Eastern Suburbs,3,VIC,In a significant urban area,Major city,0,38976
+9911195313,68,1966,2027,F,120,Newcastle and Lake Macquarie,1,ACT,In a significant urban area,Major city,2,251092
+7071878908,34,1965,2026,M,111,Adelaide - North,3,QLD,In a significant urban area,Major city,0,0
+9281350465,52,1979,2025,M,801,Gold Coast,2,VIC,In a significant urban area,Major city,2,58539
+4068336427,57,1953,2024,M,212,Coffs Harbour - Grafton,1,VIC,In a significant urban area,Major city,2,48853
+2548270229,25,1990,2023,M,126,Melbourne - Inner South,1,"",In a significant urban area,Inner regional,3,16807
+6881164759,29,1962,2021,F,210,Richmond - Tweed,1,NSW,In a significant urban area,Major city,1,66713
+8571404295,50,1961,2021,F,206,South Australia - South East,2,NSW,In a significant urban area,Major city,0,92402
+5386665658,15,1972,2022,M,401,Brisbane Inner City,3,NSW,In a significant urban area,Major city,0,0
+6861457200,35,1964,2023,M,318,Brisbane Inner City,1,NSW,In a significant urban area,Major city,3,131009
+2897942598,80,1996,2025,F,309,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Major city,2,84650
+4354073383,36,1992,2026,F,113,Sunshine Coast,5,NSW,In a significant urban area,"",0,246090
+6451437040,79,1969,2023,F,309,Sunshine Coast,2,NSW,In a significant urban area,"",1,0
+9338526630,48,1971,2024,F,212,Adelaide - South,2,VIC,In a significant urban area,Major city,2,126859
+2586127990,42,1998,2026,F,216,Wide Bay,1,TAS,In a significant urban area,"",2,40436
+6948694282,62,1999,2021,F,506,Toowoomba,3,NSW,In a significant urban area,Major city,0,13898
+3204527129,48,1976,2022,F,121,Hunter Valley exc Newcastle,1,WA,In a significant urban area,"",3,74108
+4047322814,22,1967,2023,M,601,Sydney - Outer South West,1,QLD,In a significant urban area,Major city,2,153842
+3979436965,54,1990,2021,F,319,Sydney - Outer West and Blue Mountains,1,QLD,In a significant urban area,Outer regional,0,46297
+9094356668,55,2002,2023,M,204,Sydney - Parramatta,3,QLD,In a significant urban area,Inner regional,0,41993
+1900458345,63,1970,2024,M,122,Australian Capital Territory,3,WA,In a significant urban area,Major city,0,124990
+9840720694,50,1979,2022,F,216,Sydney - Sutherland,1,ACT,In a significant urban area,Major city,1,185509
+1207417335,21,1966,2023,F,205,Melbourne - Inner,2,QLD,Not in a significant urban area,Major city,0,0
+1373307328,23,1998,2022,F,102,"",1,VIC,In a significant urban area,Major city,0,89253
+6222985576,43,1979,2026,F,302,Mackay - Isaac - Whitsunday,1,NSW,In a significant urban area,Major city,0,105536
+6661920084,54,1973,2024,M,118,Melbourne - North East,3,QLD,In a significant urban area,Major city,2,40244
+5740993103,37,1988,2026,F,115,Melbourne - Inner,2,NSW,In a significant urban area,Inner regional,0,283
+5091948449,60,1973,2025,M,206,Newcastle and Lake Macquarie,3,NSW,In a significant urban area,"",0,64186
+9590293505,33,1985,2023,M,113,Melbourne - South East,6,QLD,In a significant urban area,Major city,0,53882
+2915172954,16,1986,2025,F,402,Darwin,2,VIC,In a significant urban area,"",3,57252
+9349543017,17,1992,2024,F,407,Sydney - Inner West,8,ACT,Not in a significant urban area,Major city,0,112725
+1400325887,39,1969,2024,M,507,Melbourne - South East,1,WA,In a significant urban area,Major city,0,96179
+3198669768,17,1951,2025,M,506,Sydney - Northern Beaches,2,NSW,Not in a significant urban area,Major city,0,14248
+2899687730,29,1954,2024,F,101,Brisbane - North,3,NSW,In a significant urban area,Outer regional,0,161285
+8604965300,72,1993,2022,M,509,Melbourne - Inner South,1,VIC,In a significant urban area,Major city,2,82466
+2756657270,61,1948,2026,F,213,Melbourne - West,4,ACT,"",Major city,1,99302
+1280751408,40,1984,2024,M,120,Gold Coast,3,NSW,In a significant urban area,Major city,0,25622
+8977508447,48,1983,2026,M,207,Moreton Bay - North,1,NSW,In a significant urban area,Major city,0,0
+7302025636,47,1959,2025,M,125,Sydney - Blacktown,2,SA,In a significant urban area,"",1,14740
+8791881127,44,1992,2021,F,402,Perth - South East,2,"",In a significant urban area,"",1,
+1176431653,64,1990,2022,M,403,Gold Coast,1,QLD,In a significant urban area,Inner regional,0,34460
+3459111251,26,1955,2024,F,208,Melbourne - South East,1,VIC,Not in a significant urban area,Inner regional,0,61999
+7871517270,40,1978,2024,F,110,Melbourne - North East,4,VIC,In a significant urban area,"",0,102502
+5565586152,41,1970,2025,M,103,Geelong,1,NSW,In a significant urban area,"",0,0
+6663196372,18,1942,2026,M,209,Perth - South East,3,ACT,In a significant urban area,Remote area,0,42851
+2427973540,40,1983,2023,M,128,Melbourne - North East,5,NSW,Not in a significant urban area,Major city,2,17325
+8068202656,25,1961,2023,F,208,Sydney - Blacktown,3,VIC,Not in a significant urban area,Major city,0,29454
+8129300651,29,1941,2022,F,203,Melbourne - North East,1,VIC,Not in a significant urban area,Outer regional,0,337719
+1753511802,34,1971,2024,F,117,Northern Territory - Outback,5,NSW,In a significant urban area,Inner regional,0,83025
+7362658031,78,1974,2022,M,104,Adelaide - South,1,SA,In a significant urban area,"",1,149004
+9267617993,32,1975,2021,F,210,Central Coast,5,NSW,Not in a significant urban area,Major city,3,108888
+2919235911,45,2002,2024,F,401,Sydney - Inner South West,5,QLD,In a significant urban area,Major city,1,63094
+9880878109,46,1953,2023,M,505,Sydney - City and Inner South,5,QLD,"",Major city,0,75625
+7260272388,55,1970,2022,F,208,Wide Bay,3,NSW,In a significant urban area,"",0,90203
+5270936919,38,1985,2025,M,121,Melbourne - North East,1,TAS,In a significant urban area,"",0,68509
+3058283552,65,1977,2020,M,107,Melbourne - North West,4,VIC,In a significant urban area,Major city,0,55655
+8664506936,62,1942,2026,M,119,Melbourne - Inner South,3,VIC,In a significant urban area,"",0,29313
+3891596271,38,1958,2025,F,215,Moreton Bay - South,2,NSW,Not in a significant urban area,Major city,0,19160
+7295788870,53,1983,2023,F,110,Melbourne - North West,3,VIC,In a significant urban area,Major city,0,0
+5623199626,22,1951,2023,M,301,Brisbane - South,1,SA,In a significant urban area,Major city,0,35092
+5914647532,36,1996,2023,M,203,Hobart,1,SA,In a significant urban area,"",2,90135
+8843786989,32,1997,2024,F,211,Adelaide - South,1,TAS,In a significant urban area,Major city,0,107780
+2278819921,60,1975,2025,F,505,Sydney - City and Inner South,3,NSW,In a significant urban area,Major city,0,74901
+9122275686,49,1964,2026,"",105,Logan - Beaudesert,8,SA,In a significant urban area,Major city,1,47888
+5287982475,28,1973,2023,M,212,"",1,WA,In a significant urban area,Major city,2,23338
+4201479968,26,1998,2025,F,126,Geelong,4,VIC,In a significant urban area,Outer regional,0,0
+7654822105,22,1990,2026,F,111,Perth - South West,2,QLD,In a significant urban area,Major city,0,62795
+2110007519,48,1958,2022,M,103,Melbourne - Inner,8,QLD,Not in a significant urban area,Major city,0,22589
+6876785558,33,1976,2023,F,403,Sunshine Coast,1,NSW,In a significant urban area,Major city,0,79757
+3432718552,44,1941,2026,M,313,Melbourne - West,3,NSW,In a significant urban area,Major city,0,75948
+7315032095,53,1953,2025,F,404,Perth - North East,4,QLD,"","",4,15767
+2903226630,57,1961,2023,M,401,Riverina,1,NSW,Not in a significant urban area,Major city,0,278
+8987049698,23,2004,2023,F,212,Adelaide - Central and Hills,3,NSW,"",Major city,0,80392
+4959294003,21,1958,2024,M,115,Melbourne - West,1,QLD,In a significant urban area,Major city,2,10484
+3105776881,35,1979,2022,M,113,Gold Coast,3,QLD,Not in a significant urban area,Inner regional,0,115243
+4605322830,33,1999,2022,F,309,Brisbane Inner City,1,VIC,In a significant urban area,Major city,0,31419
+7709218121,41,1965,2023,M,127,South Australia - South East,3,NSW,In a significant urban area,Major city,0,67376
+1405836335,51,1988,2026,M,511,Sydney - Inner South West,4,SA,In a significant urban area,Major city,0,77743
+2497892152,41,1994,2023,F,503,Sydney - City and Inner South,3,NSW,Not in a significant urban area,Major city,0,216677
+2166503872,62,1986,2025,F,501,Darwin,6,WA,"",Major city,1,33187
+8387007386,62,1973,2026,F,213,Melbourne - Inner South,1,NSW,In a significant urban area,Major city,0,28687
+4505922303,28,1985,2026,F,211,Sydney - Blacktown,3,NSW,Not in a significant urban area,Inner regional,0,5385
+4251647922,66,1959,2026,M,309,Sydney - Inner South West,1,VIC,"",Major city,0,92939
+9095920986,34,1960,2024,F,209,Adelaide - North,1,NSW,In a significant urban area,"",0,19275
+4005401651,73,1976,2023,F,126,Brisbane - East,5,NSW,In a significant urban area,Major city,0,89521
+3014764230,33,1991,2023,F,214,Murray,1,VIC,In a significant urban area,Major city,0,149882
+3810781089,48,1995,2024,M,801,Perth - South East,2,VIC,In a significant urban area,Inner regional,0,151478
+6198279897,41,1966,2025,M,701,Melbourne - Inner South,5,VIC,In a significant urban area,Major city,0,18382
+2516174099,31,1997,2023,M,313,Wide Bay,1,QLD,In a significant urban area,Major city,0,1662
+9387793948,42,1955,2024,F,308,Melbourne - Inner East,1,WA,In a significant urban area,"",0,24691
+4529910286,16,1970,2027,F,316,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,0,50537
+6259147884,30,1961,2024,M,117,Gold Coast,2,QLD,In a significant urban area,Major city,2,51099
+5878309104,56,1959,2026,F,125,Logan - Beaudesert,2,SA,In a significant urban area,"",0,35630
+4265639607,30,2000,2022,M,119,Melbourne - Inner East,3,VIC,Not in a significant urban area,Major city,0,69877
+2681348627,32,1961,2023,F,318,Sunshine Coast,1,NSW,In a significant urban area,Major city,0,37090
+2981335362,51,1960,2023,F,309,Perth - South East,2,NSW,In a significant urban area,Inner regional,1,68283
+2198370577,59,1989,2024,M,207,Melbourne - West,3,NSW,In a significant urban area,Outer regional,1,46381
+8801441336,27,1986,2024,M,121,Hume,5,NSW,In a significant urban area,Major city,4,216763
+5318789574,44,1977,2024,F,119,Sydney - South West,1,NSW,In a significant urban area,Major city,0,85881
+2276250509,39,1992,2022,F,207,Brisbane - North,5,QLD,In a significant urban area,Major city,2,63366
+9191182214,32,1936,2024,M,112,Logan - Beaudesert,4,VIC,In a significant urban area,Major city,6,0
+8538331713,61,1985,2026,F,118,Sydney - Parramatta,1,NSW,In a significant urban area,Major city,0,20887
+2430815912,41,1995,2022,F,311,Central West,3,WA,Not in a significant urban area,Major city,0,0
+4821050478,49,1969,2025,F,302,Hume,6,VIC,In a significant urban area,Inner regional,1,0
+1413845050,30,2002,2021,F,407,New England and North West,3,QLD,"",Major city,0,8857
+7452736285,61,1975,2025,F,309,Melbourne - Inner,1,VIC,"","",0,29897
+5767639771,39,1963,2026,M,114,Perth - North West,4,NSW,In a significant urban area,"",0,48432
+7859942712,86,1995,2022,F,209,"",1,SA,"",Major city,0,0
+8985368591,66,1970,2022,F,206,Melbourne - West,1,VIC,In a significant urban area,"",0,0
+8743148111,18,1987,2025,M,108,New England and North West,5,QLD,In a significant urban area,Major city,0,31541
+8854937972,39,1978,2026,M,314,Melbourne - North West,3,QLD,In a significant urban area,Major city,1,49258
+8980377263,66,1991,2023,F,403,Logan - Beaudesert,2,QLD,In a significant urban area,Major city,0,78320
+8091115278,51,1981,2026,M,119,Adelaide - West,2,QLD,In a significant urban area,Major city,1,87642
+3031550534,37,1966,2024,F,121,Melbourne - North East,2,NSW,In a significant urban area,"",0,69084
+6565668104,31,1970,2024,F,212,Australian Capital Territory,1,VIC,In a significant urban area,"",0,120721
+8477603963,40,1993,2026,M,701,Adelaide - West,2,SA,In a significant urban area,Inner regional,4,75092
+9191594591,36,1980,2026,F,208,Sydney - Inner South West,1,SA,In a significant urban area,Major city,0,57668
+9934542465,59,1978,2024,F,110,Perth - North West,1,WA,In a significant urban area,Inner regional,1,32591
+6932039769,46,1977,2026,M,120,Melbourne - West,3,QLD,In a significant urban area,Major city,1,92657
+2402995246,40,1966,2022,M,306,Sydney - Baulkham Hills and Hawkesbury,1,QLD,In a significant urban area,Major city,0,104541
+2835659234,41,1996,2024,F,205,Latrobe - Gippsland,3,VIC,In a significant urban area,Major city,1,0
+6505483905,25,1993,2026,M,206,Townsville,4,TAS,In a significant urban area,"",2,46164
+7508603162,31,1970,2021,F,309,Brisbane - South,1,QLD,In a significant urban area,"",0,0
+7190517163,83,2002,2025,F,503,Townsville,3,NSW,In a significant urban area,"",2,16385
+2122177474,46,1991,2024,F,402,Perth - North West,5,VIC,Not in a significant urban area,Major city,0,12881
+2429313754,32,1983,2026,M,404,Hume,5,TAS,In a significant urban area,Major city,1,46244
+6578021802,43,1972,2025,F,403,Perth - South West,3,VIC,In a significant urban area,Major city,0,11058
+7962491088,81,1965,2025,M,211,Melbourne - West,2,QLD,In a significant urban area,Major city,0,73485
+3808805179,36,1971,2026,F,203,Sydney - Parramatta,5,QLD,In a significant urban area,"",2,45875
+6423421607,41,1964,2024,F,507,Mornington Peninsula,1,VIC,In a significant urban area,Major city,0,5053
+2094390680,35,1981,2023,M,311,Mornington Peninsula,2,QLD,In a significant urban area,Major city,0,57116
+1732098660,39,1976,2026,F,305,Illawarra,3,NSW,Not in a significant urban area,Outer regional,4,0
+5982107785,56,1960,2025,M,121,Perth - Inner,2,NSW,In a significant urban area,Inner regional,2,80437
+9738919874,31,1969,2019,M,206,Townsville,5,VIC,In a significant urban area,Major city,2,94093
+3671138278,30,1948,2022,M,216,Logan - Beaudesert,2,NSW,In a significant urban area,Inner regional,0,141864
+7094248076,28,1956,2023,F,120,Melbourne - Outer East,2,VIC,"",Major city,0,0
+1607958277,24,2001,2025,M,601,Brisbane - West,1,NSW,"",Major city,0,55664
+3533165306,72,1942,2023,F,108,Barossa - Yorke - Mid North,3,VIC,"",Major city,0,54614
+4607619327,21,1966,2024,F,207,Perth - South East,1,QLD,In a significant urban area,Inner regional,0,0
+2146952522,38,1967,2022,M,206,Perth - North West,6,QLD,In a significant urban area,Major city,0,51230
+2232361751,15,1990,2024,M,404,Melbourne - North West,2,NSW,"",Inner regional,3,13462
+7915443503,53,1988,2020,F,309,Western Australia - Outback (South),1,NSW,In a significant urban area,Inner regional,0,201375
+9746780763,73,1956,2024,F,505,Sydney - Blacktown,1,VIC,In a significant urban area,Inner regional,0,0
+3867271875,87,1982,2020,F,122,Melbourne - South East,8,NSW,In a significant urban area,Major city,1,59717
+1400561533,62,1940,2025,M,504,Launceston and North East,3,VIC,In a significant urban area,Major city,0,0
+1683998603,76,1967,2023,M,118,Melbourne - West,3,QLD,In a significant urban area,Inner regional,0,37436
+2219740033,79,1999,2026,M,214,Sydney - North Sydney and Hornsby,2,QLD,In a significant urban area,Major city,1,121795
+8571830137,28,1989,2024,M,124,Central Coast,2,NSW,In a significant urban area,Major city,0,11780
+6518694563,42,1969,2021,F,111,Sydney - North Sydney and Hornsby,2,WA,In a significant urban area,Outer regional,0,54140
+3051450085,67,1955,2024,M,120,Melbourne - Inner,2,WA,"",Major city,0,48316
+4205797945,58,1985,2025,M,207,Sydney - Outer West and Blue Mountains,5,VIC,In a significant urban area,Major city,1,28956
+3075384276,44,1990,2026,M,117,Adelaide - Central and Hills,2,NT,In a significant urban area,Inner regional,0,40612
+2841436135,62,1949,2025,F,308,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Outer regional,0,53137
+6429688460,27,1964,2022,M,216,Melbourne - Outer East,2,NSW,In a significant urban area,Major city,0,52390
+4868975503,69,1989,2025,F,503,Sydney - North Sydney and Hornsby,8,NSW,In a significant urban area,Major city,3,180014
+6605798334,38,1969,2025,M,316,Sydney - Baulkham Hills and Hawkesbury,5,VIC,Not in a significant urban area,"",1,70374
+3211958975,39,1976,2024,M,107,Melbourne - South East,3,NSW,In a significant urban area,Major city,0,88421
+1026403805,38,1986,2025,M,128,Cairns,2,NSW,In a significant urban area,Major city,0,11232
+8839208458,50,1993,2024,M,309,Melbourne - Inner East,5,SA,In a significant urban area,Major city,2,31763
+6380979220,62,1984,2025,M,116,Newcastle and Lake Macquarie,4,QLD,In a significant urban area,Inner regional,5,41750
+8679278363,41,1968,2025,M,504,Central West,2,VIC,In a significant urban area,Major city,0,182185
+6657200756,59,1960,2023,M,314,Sydney - Northern Beaches,3,SA,In a significant urban area,"",0,117081
+9657955762,47,1973,2025,M,204,Sydney - Blacktown,5,VIC,In a significant urban area,Major city,5,0
+2668658779,44,1996,2023,F,503,Melbourne - North East,2,VIC,In a significant urban area,Major city,0,0
+8298175887,75,1989,2025,F,206,Sydney - Ryde,2,"",In a significant urban area,Major city,0,0
+3482878646,20,1973,2021,F,504,Central Coast,3,NSW,In a significant urban area,Major city,0,52568
+3672974286,35,1984,2021,M,204,Bunbury,2,WA,In a significant urban area,Major city,0,40336
+5513842503,62,1996,2026,M,209,Sydney - Sutherland,7,ACT,In a significant urban area,Major city,0,87860
+4984188630,21,1979,2025,F,110,Melbourne - Inner South,5,VIC,In a significant urban area,Major city,0,8828
+4809730462,43,1980,2026,M,316,Sydney - Baulkham Hills and Hawkesbury,3,QLD,Not in a significant urban area,Inner regional,0,54745
+2924810536,29,1979,2026,F,509,Melbourne - South East,4,VIC,"",Major city,0,101747
+7265255264,26,1976,2024,M,125,Southern Highlands and Shoalhaven,5,QLD,In a significant urban area,Major city,0,8256
+5242576891,39,1997,2023,M,128,Adelaide - Central and Hills,3,WA,In a significant urban area,Major city,0,0
+8613694942,49,1955,2022,M,502,Wide Bay,1,QLD,In a significant urban area,Major city,2,
+6581435063,44,1954,2021,M,304,Sydney - City and Inner South,2,VIC,In a significant urban area,Inner regional,0,79364
+1300867010,72,1996,2026,F,111,Sydney - Baulkham Hills and Hawkesbury,2,QLD,"",Inner regional,0,26397
+5246635534,62,1955,2024,M,301,Logan - Beaudesert,2,NSW,In a significant urban area,Inner regional,0,36044
+5915297125,36,1985,2025,M,107,Perth - South East,1,SA,In a significant urban area,"",0,0
+6280669549,74,1970,2023,F,126,Brisbane - South,1,SA,Not in a significant urban area,"",0,416499
+8817607635,55,1990,2026,M,203,Sydney - Sutherland,5,QLD,In a significant urban area,Major city,0,12476
+4200168619,24,1966,2024,M,111,Logan - Beaudesert,4,NSW,In a significant urban area,Major city,0,55843
+8829936170,92,1984,2022,M,116,Perth - North West,1,WA,"",Major city,0,21432
+5691473828,68,1998,2024,F,504,Australian Capital Territory,1,VIC,Not in a significant urban area,"",2,115869
+9255645854,28,1955,2021,M,506,Toowoomba,1,VIC,In a significant urban area,"",0,54252
+4587293781,59,2007,2025,F,101,Adelaide - North,1,VIC,In a significant urban area,Major city,5,107828
+5445587905,27,1974,2024,F,121,Sunshine Coast,7,WA,In a significant urban area,"",0,83141
+3095798781,27,1961,2025,F,209,Riverina,4,QLD,In a significant urban area,Inner regional,0,54645
+7059559618,57,1970,2025,F,501,Brisbane - North,5,QLD,"",Major city,0,
+4811749718,40,1953,2024,M,403,Sydney - Blacktown,2,NSW,Not in a significant urban area,Major city,0,44886
+7768002225,67,1966,2025,M,311,Sydney - Blacktown,2,VIC,In a significant urban area,Major city,3,36228
+9899932734,73,1966,2023,M,117,Toowoomba,3,WA,In a significant urban area,Major city,0,46646
+9625746211,45,1961,2026,M,309,Melbourne - Inner East,2,NSW,In a significant urban area,"",2,117820
+8676293340,40,1963,2021,M,124,Sunshine Coast,4,VIC,In a significant urban area,Major city,0,19414
+7074994225,20,1958,2026,F,128,Newcastle and Lake Macquarie,2,NSW,In a significant urban area,Major city,1,103635
+2940479753,47,1998,2025,F,402,Queensland - Outback,1,ACT,In a significant urban area,Major city,2,71720
+1108295092,45,1972,2026,M,301,Sydney - North Sydney and Hornsby,5,WA,Not in a significant urban area,Outer regional,0,0
+2720093380,39,1992,2025,M,405,Adelaide - Central and Hills,2,WA,In a significant urban area,Major city,0,0
+3222283598,39,1967,2026,M,211,Perth - South East,4,WA,In a significant urban area,"",0,346
+2129055413,50,1961,2025,M,206,Sydney - South West,2,NSW,In a significant urban area,"",1,52380
+9285203722,49,1956,2025,M,211,Geelong,2,VIC,In a significant urban area,Major city,0,55580
+2530579994,63,1977,2025,M,407,Melbourne - South East,2,VIC,In a significant urban area,Major city,1,153900
+3648470490,23,1948,2024,M,210,Sydney - Sutherland,2,NSW,Not in a significant urban area,"",0,101386
+9855312390,31,1939,2025,M,211,Sydney - Eastern Suburbs,2,NT,In a significant urban area,Major city,2,42800
+8331393036,29,1953,2026,F,504,Sydney - City and Inner South,7,VIC,In a significant urban area,Outer regional,0,29988
+8635887834,28,1965,2021,F,506,Illawarra,8,VIC,In a significant urban area,Major city,0,0
+6718436329,36,1943,2024,M,116,Warrnambool and South West,4,NSW,In a significant urban area,Inner regional,0,138542
+2533240697,32,1987,2024,M,104,Brisbane Inner City,2,NSW,In a significant urban area,Major city,0,0
+7262440052,60,1975,2018,F,312,Sydney - Parramatta,2,NSW,In a significant urban area,Major city,0,0
+4712190414,51,1980,2023,F,112,Adelaide - North,2,WA,In a significant urban area,Very remote area,0,42790
+4372045684,54,1983,2021,F,209,Moreton Bay - South,1,NSW,In a significant urban area,Major city,1,16655
+5753704165,38,1967,2024,M,205,Sydney - Inner South West,1,QLD,In a significant urban area,Major city,0,72742
+2749019405,67,1980,2023,F,310,Central West,2,WA,"",Major city,0,80927
+1625207284,64,1971,2027,M,209,Adelaide - Central and Hills,1,NSW,Not in a significant urban area,Major city,4,80556
+6155050157,56,1991,2023,M,121,Hunter Valley exc Newcastle,1,QLD,In a significant urban area,Major city,1,105640
+5681106314,45,1970,2023,M,204,Ballarat,1,VIC,In a significant urban area,Major city,0,0
+3255414697,45,1993,2025,F,114,Melbourne - South East,1,VIC,"",Major city,1,27769
+2163820332,26,1994,2024,F,318,South Australia - Outback,2,ACT,In a significant urban area,Major city,0,0
+6624407860,27,1988,2024,F,116,Sydney - Northern Beaches,1,SA,In a significant urban area,Major city,0,0
+6470073888,37,1979,2023,F,509,Darwin,1,NSW,In a significant urban area,Major city,2,40157
+6788267078,39,1977,2023,F,210,Perth - South East,1,SA,In a significant urban area,"",0,333829
+5469510837,43,1970,2021,M,211,Melbourne - South East,4,VIC,In a significant urban area,Inner regional,0,129053
+8658486105,48,1997,2025,M,403,Melbourne - West,2,WA,"",Major city,0,0
+9483702505,74,1996,2026,M,504,Logan - Beaudesert,3,VIC,In a significant urban area,"",1,134891
+6032888108,54,1959,2024,M,305,Townsville,1,NSW,In a significant urban area,Inner regional,0,19324
+7120415635,24,1995,2025,M,213,Adelaide - South,3,SA,In a significant urban area,Major city,2,35620
+4402223188,63,1996,2022,M,601,Melbourne - West,1,NSW,In a significant urban area,Outer regional,0,70785
+5110965603,37,1994,2020,M,203,Sydney - Sutherland,4,TAS,In a significant urban area,Major city,0,32992
+4573572494,72,1979,2026,M,207,Latrobe - Gippsland,1,NSW,In a significant urban area,Inner regional,2,0
+5780635506,45,1958,2022,M,103,South Australia - South East,1,NSW,In a significant urban area,Major city,2,32141
+5748470934,18,1951,2025,F,126,Sydney - Eastern Suburbs,1,QLD,In a significant urban area,Major city,0,86532
+4337845019,51,1976,2026,F,215,Melbourne - Inner East,4,NSW,In a significant urban area,Major city,0,102024
+7650623322,35,1973,2020,F,505,Hunter Valley exc Newcastle,1,SA,In a significant urban area,Major city,2,75475
+3137182668,54,2003,2023,F,801,Perth - North West,1,VIC,"",Inner regional,0,97288
+7198884945,30,1954,2025,M,309,Perth - North West,2,QLD,In a significant urban area,Major city,0,68825
+8016583830,22,1991,2024,F,213,New England and North West,2,NSW,Not in a significant urban area,Outer regional,0,25260
+2687573606,55,1994,2021,M,211,Geelong,1,VIC,In a significant urban area,Major city,0,2583
+6214594092,69,1953,2025,F,116,Mid North Coast,3,NSW,In a significant urban area,Major city,0,0
+1772651902,32,1977,2024,F,210,Melbourne - Inner,2,SA,In a significant urban area,Major city,2,53191
+6578065198,31,1963,2020,F,124,Perth - South West,3,NSW,"",Inner regional,4,0
+7961296106,46,1967,2025,M,113,Melbourne - South East,1,NSW,In a significant urban area,Major city,0,4825
+5016672734,63,1976,2021,M,128,Melbourne - South East,1,QLD,In a significant urban area,Major city,1,91769
+4135821857,34,1983,2026,M,122,Adelaide - West,2,NSW,In a significant urban area,"",2,206084
+5256505119,54,1960,2024,M,122,Logan - Beaudesert,1,VIC,In a significant urban area,Major city,2,78254
+2571741290,25,1962,2021,F,212,"",1,SA,In a significant urban area,Major city,0,206772
+4548836697,44,1968,2024,M,208,Logan - Beaudesert,1,VIC,In a significant urban area,Major city,0,34229
+9677264483,42,1986,2025,M,214,Melbourne - South East,2,NSW,In a significant urban area,Major city,0,38564
+3398933907,25,1970,2022,M,302,Melbourne - Outer East,1,SA,In a significant urban area,"",2,51230
+1633440047,47,1958,2026,M,210,Central Coast,2,NSW,Not in a significant urban area,Major city,0,0
+1040829471,16,1985,2023,F,311,Central Queensland,3,VIC,In a significant urban area,Major city,0,67707
+4394275833,31,1969,2023,M,307,Sydney - Outer South West,2,NSW,In a significant urban area,Major city,0,36195
+9740596278,37,1965,2023,F,212,Ipswich,1,QLD,In a significant urban area,Major city,0,95731
+2603480193,30,1977,2024,M,509,Melbourne - Inner East,5,VIC,In a significant urban area,Inner regional,1,0
+4777114256,50,1947,2019,F,316,Melbourne - Inner East,2,VIC,In a significant urban area,Major city,0,47824
+4048636544,52,1993,2025,M,404,Melbourne - South East,3,VIC,In a significant urban area,Major city,0,230657
+8313118758,64,1994,2022,F,106,Melbourne - North East,1,SA,In a significant urban area,"",0,7010
+9478213547,38,2001,2024,F,510,Townsville,3,VIC,In a significant urban area,Major city,0,114222
+6462599347,49,1966,2023,F,102,Capital Region,1,VIC,In a significant urban area,"",0,32756
+8598999860,29,1966,2025,M,404,Moreton Bay - South,1,VIC,In a significant urban area,"",4,103535
+8702288760,63,1946,2027,M,309,Sydney - Baulkham Hills and Hawkesbury,1,NSW,In a significant urban area,Major city,2,55964
+5033356271,68,1988,2021,M,206,Melbourne - West,2,QLD,In a significant urban area,Major city,2,69152
+4602411428,19,1955,2023,F,212,Mornington Peninsula,1,VIC,In a significant urban area,Major city,0,63427
+4459410942,55,1981,2025,F,507,Logan - Beaudesert,8,WA,In a significant urban area,Major city,2,100412
+3611804242,75,1955,2024,M,401,Brisbane - West,1,"",In a significant urban area,Outer regional,1,50902
+3634192986,42,1979,2024,F,304,"",2,NSW,In a significant urban area,Major city,0,41435
+7792981152,62,1956,2024,M,309,Darwin,1,VIC,In a significant urban area,Major city,0,26296
+5743084185,53,1986,2026,M,120,South Australia - South East,1,QLD,Not in a significant urban area,Inner regional,2,123235
+9033611979,47,1967,2026,M,309,Mornington Peninsula,1,NSW,"",Major city,0,0
+4768559255,44,1996,2023,F,127,Melbourne - South East,2,NSW,In a significant urban area,Major city,1,50513
+1735791907,58,1965,2026,M,110,Sydney - Eastern Suburbs,2,VIC,"",Major city,0,0
+3315982905,40,2001,2025,F,208,Melbourne - West,1,VIC,Not in a significant urban area,Outer regional,0,24533
+4284024633,84,1990,2024,F,506,Melbourne - Inner,3,QLD,In a significant urban area,Major city,0,0
+7031590198,51,2002,2023,F,401,Riverina,2,WA,In a significant urban area,Major city,0,51093
+7485104758,46,1967,2024,M,214,Sydney - Parramatta,5,QLD,In a significant urban area,Inner regional,0,0
+6142493986,49,1984,2022,F,120,Mornington Peninsula,1,NSW,In a significant urban area,Major city,2,46385
+6991354467,35,1995,2026,F,313,Melbourne - South East,1,VIC,In a significant urban area,Major city,2,222567
+3294068163,30,1993,2025,M,127,Adelaide - South,6,QLD,In a significant urban area,Major city,1,131444
+2534056508,49,1992,2023,M,125,Brisbane - South,4,VIC,In a significant urban area,Remote area,4,2495
+2974318371,40,1963,2024,M,209,Adelaide - South,1,NSW,In a significant urban area,Inner regional,1,0
+6762512937,68,1948,2023,M,212,Sunshine Coast,2,QLD,In a significant urban area,Major city,0,0
+9201704883,50,1994,2021,F,112,Melbourne - South East,1,SA,In a significant urban area,Major city,0,67155
+8923622290,19,1960,2024,F,309,Richmond - Tweed,3,NSW,In a significant urban area,Major city,2,79037
+8029437033,25,1969,2023,M,119,Townsville,3,NSW,In a significant urban area,Inner regional,2,51801
+5944756535,45,1940,2021,M,213,Hunter Valley exc Newcastle,2,VIC,In a significant urban area,Major city,2,88378
+1058989923,19,1956,2027,F,211,Melbourne - Inner South,2,VIC,In a significant urban area,Major city,1,57457
+7310608979,76,1994,2026,M,104,Logan - Beaudesert,1,VIC,In a significant urban area,Inner regional,4,65896
+8954875691,49,1992,2024,F,206,Ipswich,2,VIC,In a significant urban area,Major city,0,0
+3411462109,67,1969,2020,F,505,Melbourne - Outer East,4,QLD,In a significant urban area,Remote area,0,152974
+9865536125,46,1944,2024,M,311,Sydney - Eastern Suburbs,2,VIC,In a significant urban area,Major city,0,51131
+9178540390,70,1966,2023,F,127,Sunshine Coast,2,SA,In a significant urban area,Major city,0,0
+6822450678,59,1987,2024,M,502,Richmond - Tweed,3,NSW,In a significant urban area,Major city,1,198860
+1562347811,45,1945,2025,M,308,Sydney - City and Inner South,3,QLD,Not in a significant urban area,Major city,2,138193
+9179980410,28,1995,2023,F,108,Warrnambool and South West,1,QLD,In a significant urban area,Major city,0,84208
+3668380981,59,1999,2023,F,506,Adelaide - North,2,QLD,In a significant urban area,Inner regional,0,187644
+3598127211,38,1945,2020,M,211,Melbourne - North East,2,NSW,In a significant urban area,Outer regional,0,468879
+4021648908,50,1983,2025,M,502,Bendigo,3,VIC,In a significant urban area,Major city,2,110020
+5162500556,33,1970,2026,F,402,Sydney - South West,3,NSW,In a significant urban area,Major city,0,0
+7756177425,57,2002,2026,M,317,Central West,1,NSW,In a significant urban area,Major city,4,63168
+3452463676,37,1964,2022,F,123,Gold Coast,1,ACT,In a significant urban area,Inner regional,0,32822
+9617615953,51,1980,2026,F,116,Melbourne - West,8,NSW,In a significant urban area,Inner regional,0,27368
+1125083520,38,1961,2024,F,504,Melbourne - Inner,1,NSW,Not in a significant urban area,"",1,34899
+5465396480,61,1996,2026,M,301,Richmond - Tweed,5,QLD,In a significant urban area,"",0,78149
+6981777188,36,1972,2026,M,315,Mid North Coast,1,QLD,"","",0,17941
+2708617003,71,1982,2020,F,117,South Australia - South East,5,"",Not in a significant urban area,Major city,0,17280
+5744554250,27,1991,2022,M,214,Mid North Coast,1,QLD,In a significant urban area,Major city,1,142525
+2286822152,35,1983,2025,M,121,Melbourne - North East,1,NSW,In a significant urban area,Major city,0,52844
+7751685666,70,1972,2025,M,206,Melbourne - Inner East,2,WA,In a significant urban area,"",0,40436
+8673897155,62,1978,2024,M,407,Perth - North West,2,WA,In a significant urban area,"",0,41889
+8856518753,24,1957,2023,F,505,Sydney - Parramatta,1,QLD,In a significant urban area,Inner regional,0,66498
+1644269269,56,1976,2026,M,206,Sydney - Inner West,1,QLD,In a significant urban area,Major city,0,54787
+4903094236,32,1974,2024,F,213,Far West and Orana,1,NSW,In a significant urban area,Major city,0,0
+9052200956,57,1978,2026,M,107,Ballarat,2,SA,In a significant urban area,Major city,0,
+3139562909,48,1956,2026,F,119,Hume,2,VIC,In a significant urban area,Major city,1,211
+8991206429,45,1951,2024,M,211,Perth - North West,5,SA,In a significant urban area,Inner regional,0,40887
+9347765363,56,1961,2023,M,509,Perth - Inner,5,QLD,In a significant urban area,Major city,0,36004
+7004896185,30,1968,2021,M,406,Melbourne - Inner South,1,NSW,"","",0,20000
+1866645024,16,2002,2025,F,124,Perth - South East,3,NSW,In a significant urban area,Inner regional,3,0
+3644341254,32,1992,2022,F,319,Mid North Coast,4,VIC,Not in a significant urban area,Major city,0,127967
+1875013475,68,1979,2025,M,114,Sydney - Ryde,6,NSW,In a significant urban area,Major city,0,15464
+3791762610,59,1962,2026,F,121,Central Queensland,1,VIC,Not in a significant urban area,Major city,0,0
+7324486323,21,1987,2020,F,304,Riverina,2,TAS,In a significant urban area,Major city,3,150639
+5512165029,52,2002,2026,F,128,Mackay - Isaac - Whitsunday,1,WA,In a significant urban area,Inner regional,0,68299
+6807918605,33,1980,2024,F,105,Melbourne - North East,2,NSW,In a significant urban area,Inner regional,0,59837
+6387192941,38,1958,2026,M,507,Gold Coast,1,SA,In a significant urban area,Major city,3,231132
+3853012200,32,1986,2025,F,113,Capital Region,1,VIC,In a significant urban area,Major city,3,22674
+6898377379,27,1991,2023,M,203,Perth - North West,4,NSW,In a significant urban area,Major city,0,118612
+9294809819,18,1985,2025,F,702,Sydney - Blacktown,2,VIC,Not in a significant urban area,Inner regional,1,64195
+3072419761,29,1990,2025,F,204,Melbourne - Outer East,3,QLD,In a significant urban area,Major city,0,56162
+2249880831,56,1974,2027,F,401,Australian Capital Territory,1,NSW,In a significant urban area,Major city,2,116982
+4268249148,38,1993,2021,M,118,Gold Coast,2,VIC,In a significant urban area,Remote area,4,24233
+7069364083,53,1953,2026,M,313,Hunter Valley exc Newcastle,3,VIC,In a significant urban area,Outer regional,1,21532
+1452803738,83,1996,2026,M,212,Sydney - Eastern Suburbs,2,NSW,"",Major city,0,161166
+9340844959,60,1984,2023,F,213,New England and North West,3,NSW,In a significant urban area,Major city,0,26657
+3427186847,38,1984,2026,F,109,Perth - North West,1,NSW,Not in a significant urban area,Major city,0,66399
+5360755634,26,1965,2023,F,405,Sydney - Outer South West,4,QLD,In a significant urban area,"",2,46104
+6638737261,39,2000,2023,M,318,Melbourne - North West,5,NSW,In a significant urban area,Major city,0,74778
+5593520055,56,2000,2023,F,212,Cairns,7,SA,Not in a significant urban area,"",0,52776
+2912374221,34,1976,2023,F,212,Latrobe - Gippsland,3,WA,In a significant urban area,Major city,0,31133
+6477599379,40,1972,2022,F,111,"",4,NSW,In a significant urban area,Inner regional,0,66025
+8416637290,28,2001,2025,F,213,Sydney - Outer West and Blue Mountains,2,NSW,In a significant urban area,Major city,2,23450
+6347117635,43,1971,2023,M,113,Townsville,5,WA,In a significant urban area,Major city,0,57045
+1631208642,70,1983,2022,M,212,Sydney - North Sydney and Hornsby,6,QLD,"",Major city,0,46843
+3378476533,23,1964,2026,M,119,Sydney - Outer South West,2,SA,In a significant urban area,Major city,0,2652
+10000898940,78,1984,2023,F,212,Brisbane - West,1,VIC,In a significant urban area,Inner regional,0,0
+2835556787,57,1986,2025,M,115,South Australia - South East,2,VIC,In a significant urban area,Major city,0,38665
+5738096375,45,1982,2025,F,206,Brisbane Inner City,1,SA,In a significant urban area,"",1,56936
+5793240393,63,1960,2022,F,405,Moreton Bay - South,3,QLD,In a significant urban area,Major city,0,60223
+5946687070,60,2001,2025,F,213,Perth - North West,2,NT,In a significant urban area,Major city,3,0
+7775286381,53,1972,2024,F,309,Darwin,2,VIC,In a significant urban area,Outer regional,2,65653
+3675422381,30,1974,2027,F,108,Moreton Bay - North,3,NSW,In a significant urban area,Major city,0,67554
+9462664166,44,1972,2026,M,401,Western Australia - Outback (North),3,VIC,In a significant urban area,Major city,0,52761
+8215313940,31,1952,2022,M,125,New England and North West,3,SA,Not in a significant urban area,Inner regional,0,123140
+5793556096,59,1984,2023,F,702,Ipswich,2,NSW,In a significant urban area,Major city,0,100662
+9598718811,36,1960,2026,F,206,Brisbane Inner City,3,SA,In a significant urban area,Inner regional,0,0
+8737420170,56,1977,2026,F,112,Sydney - North Sydney and Hornsby,5,VIC,In a significant urban area,"",3,144240
+4537189914,54,1993,2024,M,125,Australian Capital Territory,3,QLD,In a significant urban area,Inner regional,0,15383
+5741024578,48,1977,2022,F,119,Sydney - Blacktown,1,QLD,In a significant urban area,"",0,76236
+7833480219,30,1983,2023,M,305,Adelaide - Central and Hills,3,VIC,In a significant urban area,Major city,0,64922
+3688587041,38,1986,2024,F,102,Perth - North West,1,NSW,In a significant urban area,Major city,0,88118
+9645531958,19,1966,2022,M,212,Sydney - North Sydney and Hornsby,1,NSW,In a significant urban area,Major city,0,35024
+3313329719,45,1990,2022,M,112,Sydney - Northern Beaches,1,VIC,"",Major city,0,46383
+6631844330,25,1988,2025,F,313,North West,1,QLD,In a significant urban area,Major city,0,66318
+5314260705,32,2003,2024,F,119,Adelaide - South,8,NSW,In a significant urban area,"",1,34593
+4312986154,57,1960,2025,M,120,New England and North West,2,VIC,"",Inner regional,0,125319
+9816114694,30,1958,2022,F,203,Australian Capital Territory,7,WA,In a significant urban area,Major city,1,68316
+8157705755,34,1963,2025,M,212,Australian Capital Territory,2,NSW,"",Major city,0,17595
+3315124047,28,1995,2022,F,127,Sydney - Outer West and Blue Mountains,5,VIC,In a significant urban area,Major city,3,0
+7923294792,26,1957,2026,F,404,Sydney - Inner West,3,QLD,In a significant urban area,Major city,0,71711
+7938627417,43,1973,2025,F,501,Mandurah,3,VIC,In a significant urban area,"",0,84223
+5333267559,35,1948,2023,F,316,Brisbane Inner City,2,QLD,In a significant urban area,Major city,0,121659
+4262818163,51,1954,2023,M,503,Sunshine Coast,4,WA,"",Major city,2,213769
+3313343457,29,1994,2023,F,207,Bendigo,3,QLD,In a significant urban area,Major city,2,110166
+1109752875,50,1991,2026,M,402,Moreton Bay - South,4,NSW,In a significant urban area,Inner regional,0,93238
+4037332538,32,1946,2023,M,302,South Australia - Outback,1,QLD,In a significant urban area,Outer regional,1,62375
+1806310210,37,1954,2024,M,119,Central Queensland,1,VIC,Not in a significant urban area,Inner regional,0,880
+3703266379,33,1986,2024,F,801,Melbourne - West,2,VIC,In a significant urban area,Major city,0,42953
+3348465109,25,1958,2026,M,402,Bendigo,3,QLD,In a significant urban area,Major city,0,67707
+1664776295,79,1952,2023,F,601,Mid North Coast,5,NSW,In a significant urban area,Major city,0,90097
+1624551412,58,1991,2022,F,112,Bendigo,6,VIC,"",Major city,0,49048
+1090904786,49,1961,2024,M,110,Sunshine Coast,3,QLD,In a significant urban area,"",0,110522
+3079598225,51,1986,2024,M,510,Perth - North East,2,SA,In a significant urban area,Major city,0,24589
+4499101159,57,1940,2026,M,203,Mackay - Isaac - Whitsunday,1,VIC,In a significant urban area,"",1,21079
+2535833292,34,1988,2025,M,117,Melbourne - South East,1,QLD,In a significant urban area,"",0,76579
+9764257966,53,1997,2025,F,127,Sydney - South West,2,VIC,In a significant urban area,"",2,89024
+5085484207,29,1996,2023,F,503,Melbourne - Inner South,1,QLD,In a significant urban area,"",2,92754
+7813554606,41,1975,2026,M,128,Melbourne - West,2,NSW,In a significant urban area,"",0,90266
+5737829336,54,1988,2026,M,603,Gold Coast,3,ACT,In a significant urban area,Inner regional,0,69427
+9703674612,51,1967,2025,F,207,Melbourne - Inner,2,SA,In a significant urban area,Major city,0,52458
+1595629710,66,1982,2026,F,214,Sydney - City and Inner South,2,NSW,In a significant urban area,Inner regional,2,0
+7654893248,75,1941,2026,M,405,Sunshine Coast,2,QLD,Not in a significant urban area,Major city,0,35147
+4858314042,66,1990,2022,M,402,Adelaide - North,2,QLD,In a significant urban area,Major city,0,33916
+7242238700,64,1957,2024,F,127,Sydney - Inner South West,2,TAS,In a significant urban area,Major city,1,55722
+4368553054,19,1995,2026,F,205,Perth - North West,2,NT,In a significant urban area,Major city,2,0
+7387895214,32,1993,2026,F,403,Sydney - Eastern Suburbs,1,SA,In a significant urban area,Major city,0,16134
+2122514145,53,1959,2023,M,303,Adelaide - North,2,WA,In a significant urban area,Inner regional,0,6466
+7300465785,27,1992,2025,F,506,Darwin,5,NSW,Not in a significant urban area,Major city,0,14788
+8950572228,18,1961,2020,F,403,Capital Region,1,QLD,In a significant urban area,Major city,2,490117
+4621474786,59,2002,2026,M,215,Coffs Harbour - Grafton,1,ACT,In a significant urban area,Very remote area,2,0
+8829328484,63,1962,2024,F,119,Melbourne - Inner East,1,VIC,In a significant urban area,Major city,0,42962
+1023859080,58,1998,2024,F,207,Sydney - Inner West,1,NSW,In a significant urban area,Major city,1,152037
+8147205018,34,1996,2019,M,121,Illawarra,5,VIC,In a significant urban area,Inner regional,0,0
+2993076869,61,2000,2025,F,213,Latrobe - Gippsland,1,QLD,In a significant urban area,Inner regional,0,59034
+1961460690,46,1966,2025,F,211,Moreton Bay - North,7,NSW,In a significant urban area,"",2,122256
+4978897691,42,2003,2023,M,306,Melbourne - Inner South,4,VIC,In a significant urban area,"",0,123504
+9984053982,57,1991,2025,F,202,Logan - Beaudesert,1,VIC,In a significant urban area,Inner regional,0,16538
+3431216432,53,1946,2026,M,216,Sydney - Inner South West,2,"",In a significant urban area,Major city,2,0
+7524678214,68,2001,2026,F,214,Gold Coast,7,SA,Not in a significant urban area,Major city,0,83983
+8321579402,25,1968,2021,F,506,Gold Coast,1,VIC,Not in a significant urban area,Major city,0,177675
+6923825615,48,2003,2025,M,506,Sunshine Coast,2,QLD,In a significant urban area,Inner regional,3,82955
+7901043735,45,1982,2026,M,308,Perth - North East,5,QLD,In a significant urban area,Inner regional,0,11020
+1064585691,26,1959,2026,F,508,Latrobe - Gippsland,2,NSW,In a significant urban area,Major city,1,63339
+7450805411,55,2000,2026,F,117,Melbourne - South East,6,QLD,In a significant urban area,Outer regional,1,0
+6773141628,31,1996,2026,F,204,North West,2,QLD,In a significant urban area,Major city,0,131005
+1575714051,69,1966,2023,F,117,Sydney - Outer West and Blue Mountains,3,QLD,"",Major city,0,187807
+2582842099,43,2000,2026,F,316,Sydney - Outer West and Blue Mountains,3,WA,Not in a significant urban area,Major city,2,54629
+9948289048,27,1983,2023,M,203,Richmond - Tweed,3,NSW,In a significant urban area,Outer regional,0,17589
+7172763871,31,1968,2021,M,111,Adelaide - West,2,WA,In a significant urban area,Major city,0,68173
+7015546953,54,1967,2026,F,507,Perth - South East,5,WA,In a significant urban area,Inner regional,0,85018
+1428598272,32,1955,2025,F,206,Sydney - Inner West,3,VIC,In a significant urban area,Major city,1,36769
+6375859883,47,1959,2023,M,111,South Australia - Outback,2,NSW,In a significant urban area,Inner regional,0,113050
+5201335927,53,2000,2024,F,403,Sydney - Outer West and Blue Mountains,5,NSW,In a significant urban area,"",2,77363
+1933055421,29,1969,2025,F,101,Melbourne - Outer East,5,NSW,In a significant urban area,Outer regional,1,58436
+9447567533,61,1962,2022,F,122,Sydney - Outer West and Blue Mountains,5,NSW,In a significant urban area,Major city,0,35680
+9807028626,25,1973,2022,F,505,Gold Coast,4,WA,In a significant urban area,Major city,0,114838
+2447163118,19,1986,2023,M,127,Sydney - South West,1,VIC,In a significant urban area,"",1,58094
+3251583332,23,1990,2022,M,207,Melbourne - Inner South,1,VIC,In a significant urban area,Major city,0,86307
+5845736677,38,1994,2024,F,117,Murray,2,NSW,In a significant urban area,Major city,0,10913
+6857349257,66,1963,2024,M,505,Sydney - South West,2,NSW,In a significant urban area,Major city,0,170999
+5665840691,29,1965,2023,F,504,Western Australia - Outback (North),3,VIC,Not in a significant urban area,Inner regional,0,46616
+3123331103,40,1980,2019,M,204,Brisbane Inner City,1,VIC,In a significant urban area,Major city,1,150329
+2805332260,38,1991,2023,F,602,Sydney - Baulkham Hills and Hawkesbury,3,VIC,In a significant urban area,Major city,0,39392
+8649648885,65,1957,2027,F,305,Melbourne - Outer East,4,WA,In a significant urban area,Inner regional,2,71295
+8602420328,32,2006,2022,F,207,Melbourne - West,1,VIC,"",Inner regional,0,0
+1836540774,28,1966,2025,F,128,Latrobe - Gippsland,1,QLD,In a significant urban area,Inner regional,3,22932
+6733818675,57,1979,2025,F,209,Adelaide - West,1,QLD,In a significant urban area,Major city,0,98062
+1738840237,62,1961,2024,F,402,Darwin,3,NSW,In a significant urban area,"",0,
+1299373878,31,1976,2025,M,211,Sydney - Inner South West,4,SA,In a significant urban area,Major city,0,94136
+3648016905,62,1993,2026,F,701,Logan - Beaudesert,3,NSW,In a significant urban area,Inner regional,0,58026
+5051709514,20,1982,2024,F,317,Perth - North East,3,QLD,Not in a significant urban area,Inner regional,0,96980
+4864178931,26,1985,2025,M,405,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,1,443487
+1073474849,21,1950,2024,F,313,Southern Highlands and Shoalhaven,8,QLD,"",Inner regional,1,22727
+5191093496,66,1958,2021,M,119,Barossa - Yorke - Mid North,2,WA,"",Inner regional,0,72750
+8169514971,63,1961,2025,F,121,Illawarra,1,NT,In a significant urban area,"",0,122
+3886325340,67,1987,2026,M,206,Logan - Beaudesert,5,QLD,Not in a significant urban area,Major city,2,76112
+5889822440,34,1969,2023,F,206,Melbourne - West,3,NSW,In a significant urban area,Major city,1,24893
+8875113550,43,1993,2025,F,213,Sydney - City and Inner South,3,QLD,In a significant urban area,Inner regional,2,43592
+5004443372,28,1989,2025,F,801,Sydney - Sutherland,2,NSW,"",Major city,0,33837
+3324005266,25,1957,2026,M,122,Sydney - Sutherland,3,WA,In a significant urban area,Major city,0,18534
+1398515409,41,1981,2025,M,212,Melbourne - West,3,WA,"",Outer regional,0,21356
+3026663319,36,2003,2024,F,319,Newcastle and Lake Macquarie,3,VIC,In a significant urban area,Major city,0,21010
+9488319841,39,1954,2026,F,102,Sydney - Ryde,3,NSW,Not in a significant urban area,Major city,0,0
+9212908244,17,1949,2026,F,504,Brisbane Inner City,1,NSW,In a significant urban area,Major city,0,186986
+6150097741,44,1962,2025,F,507,Central West,3,NSW,In a significant urban area,Major city,0,96538
+1657280650,61,1990,2025,F,110,Melbourne - North West,1,VIC,"",Inner regional,1,79546
+8698758011,18,1957,2026,F,313,Melbourne - South East,2,QLD,In a significant urban area,Major city,0,137166
+6913757068,17,1998,2025,M,213,Sydney - Inner South West,1,VIC,Not in a significant urban area,Major city,0,45895
+8430760836,26,1981,2023,M,209,Melbourne - Inner South,3,WA,In a significant urban area,Major city,1,37488
+4199133959,25,1997,2026,M,407,Brisbane Inner City,4,VIC,Not in a significant urban area,Major city,0,0
+9544873582,44,1955,2025,M,211,Melbourne - South East,2,VIC,In a significant urban area,"",0,71525
+6793539338,50,1984,2024,F,108,Perth - South East,1,NSW,In a significant urban area,"",3,32481
+9690215654,24,2007,2025,M,206,Launceston and North East,1,NSW,In a significant urban area,Major city,0,268106
+6432051245,62,1976,2025,M,801,Cairns,3,VIC,In a significant urban area,Major city,0,38285
+9209757978,79,1983,2020,F,118,Mid North Coast,3,NSW,In a significant urban area,Major city,0,67283
+6181917258,39,1996,2025,F,121,Sydney - Inner South West,4,NSW,"",Major city,0,55314
+7774949082,39,1986,2025,F,119,Adelaide - South,4,NSW,In a significant urban area,"",0,0
+8131972177,38,1984,2024,F,210,Launceston and North East,2,VIC,In a significant urban area,Inner regional,0,38034
+9873751486,37,1987,2025,F,510,Perth - North West,2,SA,"",Outer regional,0,22478
+9775693142,21,1973,2026,M,116,Perth - South West,3,WA,In a significant urban area,Major city,0,45784
+5550455596,68,1985,2025,F,213,Gold Coast,1,NSW,In a significant urban area,Major city,0,27879
+6075872468,65,1999,2023,M,313,Central West,3,QLD,Not in a significant urban area,Outer regional,0,56933
+3619534341,43,1982,2026,M,507,Richmond - Tweed,4,QLD,In a significant urban area,Major city,0,33363
+7997581434,29,2003,2023,F,209,Gold Coast,2,QLD,In a significant urban area,Major city,0,0
+3947682557,37,1974,2023,F,119,Central West,5,NSW,In a significant urban area,"",0,18689
+2216584046,30,1961,2026,F,211,Melbourne - South East,5,QLD,In a significant urban area,Inner regional,0,117404
+6072471490,21,1974,2025,F,404,Mackay - Isaac - Whitsunday,5,QLD,In a significant urban area,Major city,0,9271
+7566512806,30,1977,2026,M,507,Adelaide - Central and Hills,5,WA,Not in a significant urban area,Major city,0,58547
+4470893785,59,1947,2025,M,201,Sydney - Baulkham Hills and Hawkesbury,3,NSW,In a significant urban area,Major city,0,62936
+4387517401,37,1982,2024,F,504,Adelaide - Central and Hills,5,WA,In a significant urban area,Outer regional,0,0
+8664229713,37,1973,2025,M,302,Sunshine Coast,1,NSW,In a significant urban area,Major city,0,50601
+2256825586,39,1950,2026,F,111,Melbourne - Inner,2,NSW,In a significant urban area,Major city,1,0
+5184176117,38,1952,2026,F,216,Melbourne - Inner,2,ACT,Not in a significant urban area,Major city,0,101804
+7980409557,50,1957,2024,F,125,Adelaide - West,2,QLD,In a significant urban area,Major city,0,51047
+8676476711,36,1984,2024,M,213,Sunshine Coast,4,WA,In a significant urban area,Inner regional,0,115749
+1690986070,63,1975,2026,F,120,Melbourne - South East,2,QLD,Not in a significant urban area,Outer regional,0,97856
+9411195151,74,1956,2026,M,801,Perth - Inner,1,VIC,In a significant urban area,Inner regional,2,35701
+7165503688,52,1983,2022,F,506,"",2,VIC,In a significant urban area,Major city,2,26093
+6189512521,30,1953,2023,M,205,Sydney - South West,1,NSW,In a significant urban area,Major city,0,60073
+8591537791,49,1990,2022,M,602,Melbourne - Inner,5,NSW,In a significant urban area,Major city,1,0
+3074003159,38,2000,2025,M,207,Melbourne - Inner East,1,WA,"",Major city,1,44896
+7403839368,53,1983,2025,F,119,Capital Region,5,QLD,Not in a significant urban area,Major city,1,187617
+7428529312,65,1995,2025,F,216,Brisbane - South,1,VIC,In a significant urban area,Major city,0,45131
+1169523988,62,1989,2021,M,310,Latrobe - Gippsland,2,VIC,In a significant urban area,Major city,1,46815
+8345829186,72,2002,2025,M,208,Melbourne - West,1,WA,In a significant urban area,Major city,2,68992
+1285476762,31,1978,2025,M,208,Brisbane - South,2,NSW,In a significant urban area,Inner regional,0,16798
+9998540938,46,1995,2019,F,128,Melbourne - West,2,WA,In a significant urban area,Inner regional,0,43037
+7340222872,64,2000,2025,F,401,Melbourne - South East,3,VIC,Not in a significant urban area,Outer regional,0,0
+6630578102,48,1939,2024,M,303,Illawarra,3,NSW,In a significant urban area,Major city,0,193714
+2882917706,29,1982,2024,F,101,Mid North Coast,3,WA,In a significant urban area,Major city,1,
+9595787872,59,1943,2023,M,305,Sydney - South West,3,NSW,Not in a significant urban area,Major city,0,23865
+8591272630,29,1988,2026,M,101,Moreton Bay - South,2,ACT,In a significant urban area,"",2,0
+4703358605,65,1958,2022,F,126,Melbourne - Inner South,4,VIC,In a significant urban area,Major city,0,56825
+6553545943,31,1970,2022,F,116,Barossa - Yorke - Mid North,1,NSW,In a significant urban area,"",0,0
+6345729788,46,1987,2024,F,507,Australian Capital Territory,5,VIC,In a significant urban area,Major city,0,35402
+7598714463,35,1960,2026,M,509,Sydney - Inner West,2,VIC,In a significant urban area,Major city,0,0
+4600959875,19,1952,2025,M,208,Sydney - Blacktown,1,NSW,In a significant urban area,Major city,2,44396
+9335475302,31,1988,2022,F,504,Barossa - Yorke - Mid North,1,SA,In a significant urban area,Outer regional,2,130259
+9340785253,59,1962,2022,M,302,Geelong,1,WA,In a significant urban area,Inner regional,2,0
+7935751210,45,1959,2025,M,209,Murray,3,NSW,In a significant urban area,Inner regional,0,185879
+9506057173,55,2002,2023,M,505,Sydney - Northern Beaches,3,QLD,In a significant urban area,Major city,0,11349
+5718246214,26,1985,2021,M,104,Western Australia - Wheat Belt,2,NSW,In a significant urban area,Major city,0,105856
+8354113586,49,1997,2023,F,207,Melbourne - North West,3,WA,In a significant urban area,Major city,2,34363
+3541124427,42,1964,2025,M,107,Gold Coast,4,NSW,In a significant urban area,Major city,0,0
+9691609329,22,1981,2024,M,319,Sydney - Ryde,3,NSW,In a significant urban area,"",0,
+5559292455,18,1976,2023,F,302,Melbourne - North East,2,VIC,Not in a significant urban area,Major city,2,0
+7635173044,36,1992,2022,M,106,Melbourne - Inner East,8,NSW,In a significant urban area,Inner regional,0,55609
+1727561428,43,1966,2025,F,211,Brisbane - South,5,NSW,In a significant urban area,Major city,0,41473
+9909412954,51,1991,2025,M,506,Melbourne - Inner,2,TAS,In a significant urban area,Outer regional,0,100229
+7913850838,20,1958,2024,F,127,Adelaide - South,3,VIC,Not in a significant urban area,Major city,0,4859
+8204565906,63,1999,2021,F,118,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Inner regional,3,4400
+7303576127,44,1964,2023,F,207,Australian Capital Territory,2,QLD,In a significant urban area,Major city,0,7910
+4915357518,46,1975,2025,M,206,Melbourne - North East,3,NSW,In a significant urban area,Inner regional,0,0
+3461514452,35,1970,2024,F,105,Far West and Orana,5,NSW,In a significant urban area,Major city,0,20848
+4821519485,50,1990,2020,F,205,Cairns,2,NSW,In a significant urban area,Inner regional,0,36121
+5400719032,35,1969,2024,F,402,Newcastle and Lake Macquarie,6,NSW,In a significant urban area,Major city,2,163956
+7224994037,40,1953,2026,M,401,Ballarat,5,VIC,In a significant urban area,Major city,0,80833
+4050940950,76,1961,2023,M,313,Geelong,4,QLD,In a significant urban area,Major city,1,108380
+8698359868,31,1963,2025,F,801,Riverina,2,NSW,In a significant urban area,Major city,0,29430
+5229448697,23,1987,2021,M,306,Southern Highlands and Shoalhaven,2,QLD,In a significant urban area,"",0,34471
+5540231109,38,1968,2023,M,507,Central Coast,1,WA,In a significant urban area,Major city,0,52230
+9470311834,52,1997,2024,M,209,Sydney - Ryde,4,NSW,In a significant urban area,Major city,0,86607
+9973015774,65,2004,2023,M,309,Sydney - Eastern Suburbs,1,NSW,In a significant urban area,Major city,0,273029
+9737839819,40,1952,2021,M,302,Western Australia - Wheat Belt,3,QLD,In a significant urban area,Major city,1,
+1035189447,31,1995,2023,M,801,Central Queensland,1,VIC,"",Outer regional,1,62044
+2022100129,60,1998,2026,M,308,Sydney - City and Inner South,2,VIC,In a significant urban area,Major city,0,0
+9541018747,43,1977,2024,M,117,Sydney - Inner South West,3,NSW,In a significant urban area,Inner regional,0,58167
+4919600506,40,1993,2024,F,801,Sydney - Eastern Suburbs,1,NSW,In a significant urban area,Major city,0,54037
+6186653086,46,1997,2022,F,202,Adelaide - South,3,SA,In a significant urban area,Major city,2,15080
+6814514347,56,1987,2023,F,404,Riverina,3,VIC,In a significant urban area,"",0,11599
+5273024521,43,1971,2024,M,319,Melbourne - West,3,VIC,In a significant urban area,Major city,2,69819
+5161980630,47,1982,2024,M,305,Perth - South East,1,QLD,Not in a significant urban area,"",2,13735
+9875298838,19,2000,2026,M,305,Perth - North West,3,QLD,In a significant urban area,Major city,0,139326
+8380029968,86,1991,2020,F,205,"",2,WA,In a significant urban area,Major city,3,75630
+5767911260,26,2003,2026,F,504,Melbourne - Inner,7,QLD,Not in a significant urban area,Inner regional,2,58187
+1130226352,41,1983,2026,M,107,Capital Region,4,QLD,In a significant urban area,"",0,208779
+8806563964,63,1969,2025,M,108,Darwin,2,NSW,In a significant urban area,"",3,0
+2738485279,48,1963,2024,M,110,Wide Bay,1,NSW,In a significant urban area,Remote area,0,
+7879315856,16,1933,2024,M,601,Perth - South West,1,WA,In a significant urban area,Major city,0,25600
+8946954496,29,1987,2023,M,215,Sydney - Baulkham Hills and Hawkesbury,1,NSW,Not in a significant urban area,Major city,0,157115
+8942138572,38,1953,2024,F,213,Sydney - Blacktown,1,NSW,In a significant urban area,"",0,4235
+3487174735,54,1970,2027,F,212,Melbourne - North East,3,NSW,In a significant urban area,Outer regional,0,5174
+1318651082,32,1959,2024,F,316,Southern Highlands and Shoalhaven,5,ACT,In a significant urban area,Major city,0,119186
+6622517230,40,1991,2020,F,312,Perth - South East,1,NSW,In a significant urban area,Major city,1,184240
+8358969662,36,1980,2023,F,801,Illawarra,5,TAS,"",Major city,0,0
+6435506947,35,1966,2026,M,403,Geelong,2,QLD,In a significant urban area,"",0,75523
+4427941517,22,1966,2025,M,209,Sydney - Blacktown,2,VIC,"",Major city,0,41552
+5783060112,47,1982,2023,F,505,Far West and Orana,1,QLD,In a significant urban area,Outer regional,2,77515
+3038048493,69,1983,2022,M,208,Sydney - Blacktown,5,WA,In a significant urban area,Major city,0,82381
+7554347214,21,1965,2026,M,801,Perth - South East,1,NSW,In a significant urban area,Inner regional,0,4018
+4860384405,40,1979,2024,F,211,Sydney - City and Inner South,1,VIC,In a significant urban area,Major city,0,0
+8071157768,29,1967,2023,F,117,Melbourne - South East,5,NSW,In a significant urban area,Major city,2,0
+4614100396,32,1990,2022,F,306,Perth - North East,1,NSW,In a significant urban area,Major city,2,0
+6163662691,40,1989,2026,F,115,Sydney - Parramatta,3,VIC,Not in a significant urban area,Major city,0,59053
+4168169589,35,1970,2023,F,305,Adelaide - North,3,NSW,In a significant urban area,Major city,0,51427
+2355620197,70,2002,2024,F,125,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,0,29287
+7501951858,41,1946,2021,M,308,Sydney - Inner South West,1,SA,In a significant urban area,Major city,2,6036
+9419721854,48,1986,2026,M,205,Melbourne - North East,3,NSW,In a significant urban area,Major city,0,17542
+1600434441,24,2000,2026,F,404,Gold Coast,5,VIC,Not in a significant urban area,Inner regional,0,47025
+8726749913,58,1996,2027,F,213,Gold Coast,1,WA,In a significant urban area,Major city,4,26793
+2812011313,44,1992,2024,F,318,Sydney - Outer West and Blue Mountains,2,NSW,In a significant urban area,Major city,0,75418
+3132561969,28,1991,2026,F,306,Brisbane - South,3,NSW,In a significant urban area,Major city,0,61371
+8663568932,21,1991,2025,F,309,Sydney - Baulkham Hills and Hawkesbury,2,QLD,In a significant urban area,Outer regional,0,90342
+4659716181,48,1996,2022,F,118,Hobart,2,QLD,In a significant urban area,Major city,1,43054
+6018119659,24,1998,2023,F,209,Darling Downs - Maranoa,1,VIC,In a significant urban area,"",0,50256
+8531068543,37,1973,2025,M,114,Sydney - Blacktown,1,WA,In a significant urban area,Major city,0,49878
+1268611142,66,2007,2022,M,506,Melbourne - South East,2,VIC,In a significant urban area,Outer regional,0,21361
+2830182197,35,1984,2025,F,213,Melbourne - North East,1,QLD,In a significant urban area,Major city,0,23086
+6993335743,25,1979,2026,F,203,Perth - North East,1,QLD,"","",0,68137
+1564964914,33,1995,2022,F,507,Melbourne - Outer East,2,NSW,In a significant urban area,Outer regional,0,55711
+3254607856,20,1964,2024,F,125,Brisbane - North,2,WA,In a significant urban area,Major city,0,59040
+5322658177,23,1973,2023,F,205,Melbourne - South East,3,VIC,In a significant urban area,Major city,0,26636
+8076512568,41,1976,2023,F,211,Sydney - City and Inner South,4,TAS,In a significant urban area,Major city,0,10760
+8455221022,61,1978,2024,F,209,Adelaide - West,2,NSW,In a significant urban area,Inner regional,0,33205
+3839449993,57,1975,2026,M,212,Adelaide - Central and Hills,2,QLD,In a significant urban area,Outer regional,0,606
+8576416220,47,1946,2022,F,212,North West,3,VIC,In a significant urban area,Major city,0,28408
+9171029811,56,1953,2026,F,701,Perth - South East,5,ACT,In a significant urban area,"",0,9840
+1595164228,21,1949,2023,M,302,Sydney - Outer West and Blue Mountains,2,SA,In a significant urban area,Inner regional,0,46473
+6132244776,31,1928,2024,F,317,Adelaide - South,2,VIC,In a significant urban area,Major city,0,20168
+2867283250,45,1986,2026,M,208,Bendigo,3,VIC,In a significant urban area,Major city,3,0
+8556889754,49,1989,2024,M,115,South Australia - South East,2,SA,In a significant urban area,Major city,2,8175
+3859240153,49,1984,2023,M,316,Ipswich,3,WA,In a significant urban area,Major city,0,98234
+7443557195,62,2004,2026,M,206,Brisbane - South,1,WA,In a significant urban area,Outer regional,2,29566
+1135931198,47,1944,2026,F,403,Moreton Bay - South,2,TAS,Not in a significant urban area,"",0,54619
+6558101243,38,1971,2022,F,506,Mornington Peninsula,3,NSW,In a significant urban area,"",0,44913
+4524171410,28,1998,2022,F,702,Moreton Bay - South,2,NSW,"",Major city,0,5968
+1765474664,58,1979,2023,M,207,Sydney - Eastern Suburbs,1,NSW,In a significant urban area,Inner regional,1,144563
+9553177078,59,1964,2026,F,214,Sydney - Inner South West,2,TAS,In a significant urban area,Major city,0,40363
+5636900872,67,1964,2022,F,201,Melbourne - North East,3,NSW,In a significant urban area,Outer regional,0,43502
+8648811513,42,1988,2024,M,116,Melbourne - Inner,1,VIC,"",Major city,0,88020
+1266395861,63,1979,2026,M,116,Moreton Bay - South,1,SA,In a significant urban area,"",0,17616
+3281315450,51,1970,2022,M,111,Gold Coast,1,NSW,"",Major city,0,0
+6689913272,37,1971,2022,M,506,Richmond - Tweed,1,SA,Not in a significant urban area,Outer regional,0,39910
+3580098589,18,1925,2025,F,204,Sydney - South West,3,VIC,In a significant urban area,Outer regional,3,98050
+2482991924,53,1963,2024,F,318,Shepparton,1,QLD,In a significant urban area,Major city,1,17879
+8104150768,54,1974,2027,F,121,Brisbane Inner City,3,SA,In a significant urban area,Major city,0,11172
+9342582231,50,1995,2023,M,314,South Australia - South East,7,NSW,In a significant urban area,Major city,0,0
+3659924574,45,1983,2022,M,127,Gold Coast,2,QLD,In a significant urban area,Inner regional,0,70429
+8236849520,37,1954,2025,F,119,Latrobe - Gippsland,1,QLD,Not in a significant urban area,Major city,2,0
+3811053922,28,2004,2027,M,103,Sydney - Sutherland,5,SA,In a significant urban area,Major city,0,30173
+1032382773,49,1975,2026,M,305,Central West,1,NSW,In a significant urban area,Inner regional,2,17648
+1920557919,36,1954,2023,F,118,Melbourne - North East,1,VIC,In a significant urban area,Inner regional,2,206248
+1955626568,40,1955,2022,M,206,Melbourne - Inner,1,VIC,In a significant urban area,"",0,26732
+1345935625,25,1997,2020,M,311,Richmond - Tweed,1,TAS,In a significant urban area,Major city,2,51780
+7665529841,27,2004,2025,M,213,"",3,SA,In a significant urban area,Major city,0,45263
+6675544521,54,1980,2026,F,311,Melbourne - Outer East,4,NSW,In a significant urban area,Major city,1,117877
+8741379746,62,1993,2024,F,310,Melbourne - Outer East,5,VIC,In a significant urban area,Major city,0,95160
+9466921322,44,1988,2022,M,124,Adelaide - North,2,NSW,In a significant urban area,Major city,0,36313
+1787912376,28,1972,2022,M,801,Sydney - Inner West,1,VIC,In a significant urban area,"",0,313284
+8521917178,36,2002,2022,M,203,Coffs Harbour - Grafton,2,VIC,In a significant urban area,Major city,1,51710
+3811787755,19,1979,2026,F,118,Perth - North West,1,VIC,In a significant urban area,Major city,0,48337
+2449417139,28,2002,2023,F,301,Sydney - Ryde,2,WA,Not in a significant urban area,Major city,2,122786
+2853919888,56,1985,2024,F,112,Sydney - Outer South West,2,QLD,"","",0,101550
+1112143880,26,1958,2026,M,701,Geelong,3,NSW,"",Major city,0,56487
+9653720070,31,1963,2024,M,407,Sydney - City and Inner South,2,NSW,In a significant urban area,"",0,119737
+3397698781,22,1972,2025,F,601,Melbourne - West,2,VIC,In a significant urban area,Major city,0,50172
+8567969633,30,1961,2025,F,102,Sydney - Eastern Suburbs,3,WA,"",Major city,0,57165
+4386069026,56,1983,2022,M,402,Sydney - Inner South West,3,QLD,In a significant urban area,Major city,1,23103
+6361441284,39,1971,2026,F,202,Cairns,6,NSW,In a significant urban area,Inner regional,0,49129
+4425818610,36,1998,2019,M,601,Sydney - Outer West and Blue Mountains,5,SA,In a significant urban area,Major city,0,14451
+2450957910,37,1956,2021,M,316,Sydney - Blacktown,3,WA,"",Major city,1,84775
+1918640137,75,1968,2022,F,119,Adelaide - North,5,SA,In a significant urban area,Major city,0,84209
+3455228508,70,1988,2022,F,402,Sydney - Inner West,2,NSW,In a significant urban area,Major city,2,28678
+6936870647,22,1978,2025,F,509,Sydney - South West,2,NSW,In a significant urban area,Outer regional,0,111920
+7044091512,36,1983,2025,M,603,Melbourne - Inner East,1,QLD,In a significant urban area,"",0,18977
+7570898256,28,1981,2024,M,121,Perth - South West,5,NSW,In a significant urban area,"",0,0
+1785658420,58,1983,2025,F,107,Sydney - South West,1,VIC,Not in a significant urban area,Major city,2,115264
+3597881675,79,1965,2023,F,127,Sydney - Eastern Suburbs,2,VIC,In a significant urban area,Major city,0,188749
+7795580186,65,1973,2024,F,121,Sydney - Baulkham Hills and Hawkesbury,2,NSW,In a significant urban area,Major city,2,15995
+3181344294,38,1978,2019,F,117,Melbourne - North West,6,TAS,In a significant urban area,Inner regional,2,21073
+6865796885,47,1963,2024,M,104,Adelaide - Central and Hills,1,QLD,In a significant urban area,Inner regional,0,205018
+9924571052,72,1967,2023,F,119,"",2,NT,In a significant urban area,Major city,0,0
+7988459277,41,1989,2024,F,105,Melbourne - West,3,NSW,"",Major city,0,77004
+4040865769,50,1963,2020,F,504,Melbourne - Inner South,4,VIC,In a significant urban area,Major city,0,25881
+4922932759,76,1998,2021,F,112,Sydney - North Sydney and Hornsby,1,WA,"",Major city,0,499098
+9821490319,34,1957,2025,M,505,Gold Coast,1,TAS,In a significant urban area,Major city,0,20214
+4968875829,56,1964,2026,M,213,Sydney - Sutherland,1,NSW,In a significant urban area,Major city,0,57517
+6794229098,37,1967,2025,M,212,Adelaide - West,1,VIC,"",Major city,3,0
+3242690989,38,1985,2023,M,106,Australian Capital Territory,3,NSW,In a significant urban area,Major city,0,0
+7144566842,70,1991,2021,M,211,Sunshine Coast,3,VIC,In a significant urban area,Major city,2,422545
+4685349553,62,1986,2026,F,203,Brisbane Inner City,5,VIC,Not in a significant urban area,Major city,1,56206
+3581944353,34,1984,2026,M,205,Moreton Bay - South,1,WA,Not in a significant urban area,Outer regional,0,
+9129139550,61,1937,2026,F,507,Melbourne - Inner,2,NT,In a significant urban area,Major city,0,35888
+4802305815,29,1993,2024,M,209,Melbourne - Inner,5,NSW,In a significant urban area,Major city,0,0
+5115956671,35,1996,2025,M,308,Hume,1,SA,Not in a significant urban area,Inner regional,0,123790
+1091194369,50,1988,2023,M,213,Melbourne - Inner,3,NSW,In a significant urban area,"",0,36154
+3616100176,81,2005,2022,F,116,Newcastle and Lake Macquarie,3,NSW,In a significant urban area,Inner regional,0,1148
+1040853562,87,1976,2022,M,209,Adelaide - West,1,WA,In a significant urban area,Inner regional,0,178792
+5720525070,64,1929,2025,M,208,"",3,VIC,"",Major city,0,5032
+4236260463,38,1986,2023,F,505,Perth - South West,1,WA,In a significant urban area,Major city,0,147932
+1024720012,43,1969,2025,F,128,Townsville,8,VIC,In a significant urban area,Major city,0,0
+3324119000,42,1962,2023,M,801,Sydney - Eastern Suburbs,2,VIC,In a significant urban area,Inner regional,0,103619
+3272550584,48,1961,2026,M,114,Newcastle and Lake Macquarie,1,QLD,In a significant urban area,Major city,2,77926
+1734265220,76,1959,2022,F,211,New England and North West,1,NSW,In a significant urban area,"",0,114825
+5982201589,33,1967,2025,M,301,Bendigo,4,NSW,In a significant urban area,Major city,0,219769
+1952695397,34,2001,2025,M,312,Adelaide - West,5,NSW,In a significant urban area,Outer regional,1,31813
+9867907205,58,1976,2019,M,213,Shepparton,4,WA,Not in a significant urban area,Inner regional,1,32299
+9502715300,71,1984,2024,M,209,Melbourne - South East,5,VIC,In a significant urban area,Outer regional,2,40893
+2091926855,71,1971,2025,M,502,Hunter Valley exc Newcastle,2,VIC,In a significant urban area,Major city,2,
+4417428370,33,1964,2023,F,301,Perth - North East,3,SA,In a significant urban area,Major city,0,14980
+6326915176,25,1965,2026,M,214,Townsville,3,NSW,In a significant urban area,"",3,22723
+4460392670,26,1987,2025,F,505,Brisbane - East,3,VIC,In a significant urban area,Major city,0,0
+5872135729,44,1987,2025,M,214,Illawarra,1,QLD,Not in a significant urban area,Major city,0,5056
+2489901205,86,1969,2023,M,502,Mornington Peninsula,2,"",Not in a significant urban area,Outer regional,0,417661
+8281821916,51,1980,2025,M,401,Melbourne - South East,1,NSW,In a significant urban area,Inner regional,0,133483
+2476131139,48,2005,2026,M,126,Perth - North West,3,WA,In a significant urban area,Remote area,0,132265
+8721581701,22,1977,2023,F,801,Adelaide - Central and Hills,1,VIC,In a significant urban area,Inner regional,0,9386
+7956977179,58,1995,2025,F,121,Capital Region,1,SA,In a significant urban area,Major city,2,14000
+4854438256,29,1984,2022,M,203,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Major city,2,0
+2958401771,24,1963,2022,F,213,Sydney - Blacktown,1,ACT,In a significant urban area,Major city,0,9250
+8335589725,16,1952,2025,M,601,Hunter Valley exc Newcastle,3,WA,In a significant urban area,Major city,0,67528
+2316004193,62,1985,2024,M,125,Melbourne - Outer East,1,VIC,In a significant urban area,Major city,0,56545
+1509292047,60,1973,2023,F,303,"",1,VIC,In a significant urban area,Major city,0,216558
+4329025216,29,1962,2023,F,127,Melbourne - Outer East,1,QLD,In a significant urban area,Outer regional,0,210341
+8338949716,28,1937,2025,F,213,Darwin,1,NSW,In a significant urban area,Inner regional,0,14205
+8018168955,31,1971,2025,M,212,Latrobe - Gippsland,1,WA,"",Major city,0,55065
+9656018902,69,2000,2026,F,301,Richmond - Tweed,5,NSW,In a significant urban area,Major city,0,82580
+1916316882,45,1993,2022,M,506,Riverina,5,NSW,In a significant urban area,Major city,0,14722
+7285758728,57,1996,2022,M,214,Adelaide - South,6,VIC,In a significant urban area,Major city,0,0
+4799830174,45,1953,2026,F,103,Perth - South East,3,NSW,In a significant urban area,Major city,0,0
+5669823785,85,1990,2023,M,115,Brisbane - West,2,TAS,In a significant urban area,Major city,2,14430
+1614982462,45,1995,2025,F,119,South Australia - South East,5,VIC,Not in a significant urban area,Major city,0,208068
+8928938056,28,1967,2025,F,124,Bendigo,1,VIC,"",Outer regional,0,179375
+3312654452,48,1962,2021,M,212,Sydney - Sutherland,3,VIC,In a significant urban area,Major city,0,1802
+9392702609,62,1988,2025,M,210,Mid North Coast,3,VIC,In a significant urban area,"",1,93617
+8082662234,50,1977,2024,M,213,Perth - Inner,2,WA,In a significant urban area,Major city,0,0
+1646188347,78,1961,2026,M,208,Perth - North East,2,NSW,In a significant urban area,"",0,60774
+8441409089,50,1948,2023,M,209,Sydney - Eastern Suburbs,8,WA,In a significant urban area,"",0,140299
+4530304821,52,1964,2020,M,701,Australian Capital Territory,7,QLD,In a significant urban area,Major city,0,239262
+2328008775,84,1975,2026,F,124,Melbourne - South East,3,WA,"",Inner regional,0,108214
+1938562101,37,1973,2026,F,205,Melbourne - South East,2,TAS,In a significant urban area,Major city,0,3331
+1494208533,64,1960,2023,M,124,Adelaide - South,3,VIC,In a significant urban area,Major city,0,105711
+4148878251,36,2003,2025,F,127,Brisbane Inner City,1,VIC,In a significant urban area,Major city,2,30748
+3349156816,36,1977,2026,F,503,New England and North West,2,QLD,In a significant urban area,Major city,0,902
+5371397015,29,1968,2025,M,309,Melbourne - West,4,QLD,In a significant urban area,Major city,2,196524
+3941104727,49,1967,2024,M,121,Moreton Bay - North,3,NSW,"",Major city,0,145520
+5336666899,59,1986,2025,F,210,Northern Territory - Outback,5,NSW,Not in a significant urban area,Outer regional,0,78589
+5838269614,71,1967,2025,M,217,Far West and Orana,3,QLD,In a significant urban area,Major city,2,134763
+8093992897,55,1977,2023,F,214,Sydney - City and Inner South,3,VIC,In a significant urban area,Major city,0,77739
+2640396835,39,1984,2023,F,203,Adelaide - West,1,WA,In a significant urban area,"",3,30126
+4697123794,28,1978,2025,M,118,Sunshine Coast,3,NSW,In a significant urban area,Major city,0,13636
+8141489450,41,1994,2024,M,503,"",7,NSW,In a significant urban area,Major city,1,146836
+3949909183,30,1981,2024,M,112,Sydney - Inner West,3,VIC,In a significant urban area,Outer regional,2,0
+4865969422,21,1966,2024,M,213,Mackay - Isaac - Whitsunday,1,VIC,In a significant urban area,Major city,2,63247
+9538746513,67,1954,2024,F,128,Brisbane - South,8,WA,In a significant urban area,"",0,158121
+3004797873,49,1968,2024,M,107,Melbourne - West,3,QLD,In a significant urban area,Major city,0,100585
+6514512940,46,1961,2025,F,504,Melbourne - Inner,3,VIC,In a significant urban area,Major city,0,66624
+1738990387,39,1998,2023,F,111,Sydney - South West,2,QLD,In a significant urban area,Inner regional,0,22492
+9753443691,56,1977,2022,F,604,Perth - Inner,3,TAS,In a significant urban area,Major city,0,179136
+4450967451,46,1937,2025,F,506,Sydney - Outer South West,3,NSW,In a significant urban area,Major city,2,104223
+1575142432,35,1997,2022,F,318,Darwin,2,QLD,In a significant urban area,Major city,1,80823
+8433625207,22,1991,2022,F,402,Melbourne - Inner South,3,NSW,In a significant urban area,"",0,3784
+2906659769,43,1996,2023,F,306,Logan - Beaudesert,4,NSW,"","",0,114583
+4183256155,28,1963,2026,F,127,Moreton Bay - South,5,VIC,In a significant urban area,"",0,29743
+5806958738,32,1970,2026,M,115,Newcastle and Lake Macquarie,1,NSW,In a significant urban area,"",0,219675
+7992477703,38,1974,2023,F,309,Melbourne - Inner,1,VIC,In a significant urban area,Major city,0,13272
+1402952028,53,1994,2023,F,403,Bunbury,8,VIC,Not in a significant urban area,Inner regional,3,0
+2206419171,74,2001,2025,F,403,Hobart,2,SA,In a significant urban area,"",0,30472
+5787888618,65,1942,2024,F,602,Melbourne - South East,1,QLD,Not in a significant urban area,Major city,2,17505
+4258014835,33,1946,2025,F,125,Melbourne - West,2,SA,In a significant urban area,Major city,0,0
+8225217009,29,2002,2020,F,504,Townsville,2,VIC,In a significant urban area,Major city,2,119716
+4477685054,50,1960,2024,F,307,Perth - South West,1,SA,In a significant urban area,Major city,3,142313
+1167142336,24,1984,2022,M,309,Capital Region,3,QLD,"","",2,46106
+9591801187,29,1971,2025,F,209,"",1,NT,"",Inner regional,1,3006
+7531534101,25,1992,2026,M,118,Warrnambool and South West,3,SA,In a significant urban area,"",0,110877
+2171639810,59,1969,2025,M,128,Melbourne - Inner,3,TAS,In a significant urban area,Major city,0,39583
+3126058287,51,1967,2023,M,304,Melbourne - South East,1,QLD,In a significant urban area,Major city,0,24401
+3523517381,18,2000,2026,M,402,South Australia - South East,4,VIC,In a significant urban area,Major city,2,0
+4949525234,27,1966,2025,F,102,South Australia - Outback,3,WA,In a significant urban area,Inner regional,2,74104
+4814793064,24,1961,2024,F,127,Darling Downs - Maranoa,3,WA,In a significant urban area,Major city,2,43699
+7460729241,55,1969,2025,M,402,Melbourne - Inner,3,VIC,"",Remote area,2,81023
+7832562231,54,2002,2023,F,501,Brisbane - East,3,NSW,In a significant urban area,Outer regional,1,92773
+5469796191,55,1985,2023,M,117,Hume,1,NSW,In a significant urban area,Major city,0,70192
+2829467687,69,1972,2024,M,404,Adelaide - South,2,NSW,In a significant urban area,"",2,52830
+6297664168,32,1969,2025,F,117,Perth - North West,1,"",In a significant urban area,Inner regional,0,143507
+7798949038,32,1971,2024,F,213,Newcastle and Lake Macquarie,1,WA,In a significant urban area,Inner regional,0,85744
+3680471474,45,1986,2025,M,123,Logan - Beaudesert,4,NSW,In a significant urban area,Major city,0,57763
+3892689795,71,1986,2026,M,405,Melbourne - Inner South,2,NSW,In a significant urban area,Major city,2,98429
+1719779128,32,1997,2025,F,213,Melbourne - Outer East,2,NSW,In a significant urban area,Inner regional,2,73635
+9664615463,39,1993,2025,F,106,Perth - North West,5,VIC,In a significant urban area,Major city,1,44303
+1334660142,51,1993,2025,F,115,Perth - North West,1,TAS,In a significant urban area,Major city,0,245949
+1769525383,59,1996,2021,M,316,Melbourne - Outer East,1,SA,Not in a significant urban area,Major city,0,40725
+7545872312,18,1990,2027,F,207,Moreton Bay - South,4,VIC,In a significant urban area,Major city,0,94985
+2470800629,71,1966,2026,M,109,Sydney - Ryde,1,WA,In a significant urban area,Major city,0,28415
+3720052216,34,2001,2022,M,121,Gold Coast,2,NSW,In a significant urban area,Outer regional,0,39960
+1598056332,63,1975,2026,F,117,Melbourne - Inner South,3,VIC,In a significant urban area,Major city,0,191236
+4050591069,30,1998,2026,F,103,Melbourne - Inner South,1,NSW,In a significant urban area,Inner regional,2,107884
+7387143461,67,1992,2022,F,501,Cairns,1,NT,In a significant urban area,Major city,2,118331
+8790324925,46,1949,2022,M,505,Launceston and North East,2,VIC,In a significant urban area,Remote area,0,0
+9479012563,34,1965,2025,F,112,Southern Highlands and Shoalhaven,3,VIC,In a significant urban area,Major city,0,25165
+3062154640,22,1993,2026,M,404,Bendigo,2,VIC,In a significant urban area,Major city,0,96169
+2698305068,27,1966,2026,F,106,Melbourne - South East,3,WA,Not in a significant urban area,Inner regional,1,117748
+8819302474,35,1998,2017,F,120,Sydney - Inner West,1,QLD,In a significant urban area,Major city,4,137124
+4469639037,53,1980,2025,F,207,Hunter Valley exc Newcastle,6,VIC,"",Inner regional,4,0
+1049686558,69,1938,2025,F,117,Sydney - Ryde,2,NSW,Not in a significant urban area,"",0,54579
+6657716564,52,1972,2021,M,407,Perth - North West,1,WA,In a significant urban area,Major city,1,57807
+5130958394,40,1947,2027,F,501,Sydney - Baulkham Hills and Hawkesbury,5,NSW,In a significant urban area,Inner regional,0,63209
+5528965001,54,1994,2023,F,308,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,Inner regional,0,0
+1138480560,26,1959,2027,M,309,Brisbane - East,8,NSW,In a significant urban area,"",0,83854
+3299467654,40,1958,2025,M,313,Moreton Bay - South,1,ACT,"",Outer regional,0,79541
+4761698755,85,1988,2022,F,102,Sydney - Eastern Suburbs,2,VIC,In a significant urban area,"",0,45111
+3497363591,21,2003,2025,F,306,Melbourne - Outer East,3,VIC,In a significant urban area,Major city,0,78978
+8635264783,27,1984,2023,F,125,"",3,"",In a significant urban area,Inner regional,0,51461
+2440470260,61,1961,2025,F,105,Moreton Bay - South,3,VIC,In a significant urban area,Major city,0,496764
+9756170146,75,1965,2022,F,111,Melbourne - Inner,4,WA,Not in a significant urban area,Major city,0,19845
+3389616578,44,1965,2025,M,202,Hobart,2,NSW,In a significant urban area,Inner regional,0,53237
+9785228375,51,1993,2025,M,402,Melbourne - North East,2,VIC,In a significant urban area,Major city,0,0
+3526441927,43,1992,2024,M,107,Adelaide - Central and Hills,1,QLD,In a significant urban area,Outer regional,1,145013
+6300280699,61,1961,2025,F,301,Gold Coast,1,ACT,In a significant urban area,Major city,1,0
+6867380836,49,1971,2023,M,505,Sydney - Outer South West,1,VIC,Not in a significant urban area,Major city,0,36344
+7787548468,46,1985,2023,F,602,Mornington Peninsula,1,VIC,Not in a significant urban area,Major city,0,1508
+8589217276,61,1990,2021,F,402,Sunshine Coast,2,WA,"",Major city,2,86373
+6159046881,53,1994,2027,F,112,Mid North Coast,2,NSW,Not in a significant urban area,Remote area,2,16228
+5673255131,65,1983,2024,F,115,Melbourne - North East,3,WA,In a significant urban area,Major city,1,49733
+5719970941,55,1975,2025,F,801,Sydney - Outer South West,1,WA,In a significant urban area,Inner regional,2,68501
+3911849625,85,1967,2021,M,317,Richmond - Tweed,2,NSW,In a significant urban area,Major city,2,181261
+5153725682,73,1966,2026,F,212,"",2,NSW,In a significant urban area,Major city,0,57396
+1880322534,33,2002,2026,F,303,South Australia - South East,5,QLD,In a significant urban area,"",0,105317
+1610975608,44,1980,2027,F,213,Melbourne - West,2,VIC,In a significant urban area,Major city,0,0
+3147047198,44,1964,2025,M,309,Melbourne - Inner,1,VIC,In a significant urban area,Major city,0,20067
+2389164599,31,1953,2024,M,601,Sydney - City and Inner South,2,VIC,In a significant urban area,"",0,14575
+6653181821,37,1985,2025,M,118,Perth - South West,2,WA,In a significant urban area,Inner regional,0,0
+2218837405,38,1963,2027,F,214,Logan - Beaudesert,3,VIC,In a significant urban area,Major city,3,108763
+7711402307,66,1981,2026,M,125,Melbourne - Outer East,5,SA,In a significant urban area,Major city,0,0
+8784817167,69,1983,2022,M,309,Sydney - Eastern Suburbs,2,QLD,In a significant urban area,Major city,0,55404
+8806602480,48,1971,2025,F,310,Sydney - Inner West,3,SA,Not in a significant urban area,Major city,0,24719
+4263170518,24,1965,2025,M,128,Sydney - Parramatta,3,SA,In a significant urban area,Major city,0,1917
+1337654926,39,1953,2022,M,214,Sydney - Northern Beaches,7,NT,In a significant urban area,Major city,0,37688
+8506012220,55,1951,2023,M,116,Darling Downs - Maranoa,1,VIC,In a significant urban area,Major city,2,103573
+6365082426,42,1958,2023,F,213,Adelaide - Central and Hills,5,WA,In a significant urban area,Inner regional,5,50524
+4819956279,29,1994,2026,M,118,Darling Downs - Maranoa,5,VIC,In a significant urban area,Major city,0,277214
+7478652256,46,1976,2026,F,205,Adelaide - West,5,ACT,In a significant urban area,"",1,57297
+1130639959,62,1953,2022,M,208,Moreton Bay - South,5,QLD,In a significant urban area,Major city,0,48485
+8576598264,26,1991,2026,F,110,Hunter Valley exc Newcastle,1,NSW,In a significant urban area,Major city,0,70206
+2622104202,51,1956,2026,F,209,Mornington Peninsula,2,NSW,In a significant urban area,Major city,1,610
+5816565940,64,1982,2023,M,104,Melbourne - West,7,QLD,In a significant urban area,Major city,2,6351
+5019177240,24,1990,2019,M,505,Melbourne - West,2,QLD,In a significant urban area,"",1,102849
+7638838457,37,1997,2023,F,302,Shepparton,1,NSW,In a significant urban area,Inner regional,2,36199
+3312765930,24,1989,2023,F,211,Sydney - Blacktown,1,NSW,In a significant urban area,Major city,0,64308
+9756683393,58,1960,2024,M,309,Illawarra,2,QLD,In a significant urban area,Inner regional,0,181473
+9919644369,29,1956,2017,M,127,Australian Capital Territory,2,WA,In a significant urban area,Major city,0,101724
+7799984677,72,1958,2023,M,313,Sydney - City and Inner South,2,"",In a significant urban area,Major city,4,150906
+4074744912,34,1971,2023,F,205,Hobart,1,NSW,In a significant urban area,Major city,0,20831
+8168556855,69,1996,2026,F,213,Sydney - Inner West,7,NSW,"",Major city,0,0
+5524979363,72,1957,2023,M,207,Sydney - Inner South West,1,VIC,In a significant urban area,"",0,0
+1317915992,29,1962,2020,M,309,Sydney - Northern Beaches,6,VIC,In a significant urban area,Major city,0,313141
+4138987572,42,1994,2019,M,206,Perth - South West,2,QLD,"",Major city,0,62774
+4613457820,25,2002,2027,F,211,Hunter Valley exc Newcastle,1,VIC,In a significant urban area,Major city,2,49570
+5499390090,61,2004,2024,F,210,Capital Region,2,NSW,In a significant urban area,Major city,1,0
+3916144033,58,1981,2025,M,402,Melbourne - Outer East,1,NSW,Not in a significant urban area,Major city,1,0
+3356798544,52,1955,2022,F,210,Capital Region,3,QLD,In a significant urban area,Major city,2,104054
+5025421874,50,1978,2025,F,209,Adelaide - South,3,VIC,In a significant urban area,Major city,1,5092
+8797580302,58,1982,2025,F,307,"",2,VIC,In a significant urban area,Inner regional,1,0
+9153596520,23,1967,2023,M,211,Australian Capital Territory,2,SA,In a significant urban area,Major city,2,22026
+5264353252,25,1978,2023,M,207,Bunbury,2,VIC,"",Major city,0,0
+2205382723,25,1971,2022,M,212,Ipswich,4,QLD,In a significant urban area,Major city,0,143836
+1339867922,43,2000,2023,F,112,Gold Coast,1,NSW,In a significant urban area,Major city,0,51416
+1296723486,54,1981,2024,F,801,Ballarat,5,QLD,In a significant urban area,Inner regional,2,111064
+8823993947,29,1997,2025,M,127,Wide Bay,2,QLD,In a significant urban area,Major city,2,73518
+2248942695,49,1981,2025,M,507,Melbourne - West,2,NSW,In a significant urban area,Major city,0,152661
+6430393437,53,1975,2025,M,208,Latrobe - Gippsland,4,NSW,Not in a significant urban area,Major city,1,137020
+1984939590,41,1990,2025,M,124,Townsville,4,NSW,In a significant urban area,Major city,0,0
+7598435462,37,1991,2024,F,205,Adelaide - Central and Hills,2,VIC,In a significant urban area,Major city,2,31492
+5870455998,30,1993,2026,M,701,Sydney - Northern Beaches,1,"","",Major city,4,57339
+7902479838,71,1998,2025,F,305,Adelaide - South,4,WA,In a significant urban area,Major city,0,56800
+5529881572,34,1996,2024,M,108,Sydney - Outer West and Blue Mountains,5,QLD,In a significant urban area,Major city,0,45109
+7598529691,48,1993,2026,F,117,Wide Bay,2,VIC,In a significant urban area,Major city,0,117899
+8125739627,28,1957,2022,M,306,Toowoomba,1,QLD,In a significant urban area,Major city,0,0
+7824627274,73,1977,2024,F,506,Western Australia - Outback (North),5,QLD,In a significant urban area,Major city,0,20997
+2017418025,63,1995,2022,F,209,Melbourne - North West,5,VIC,In a significant urban area,Major city,0,78367
+3416364473,49,1954,2025,M,104,Melbourne - South East,3,NSW,In a significant urban area,Inner regional,0,0
+8770917090,31,1987,2026,F,120,Sydney - Parramatta,1,WA,In a significant urban area,Major city,0,57479
+4724308824,58,1964,2025,M,107,Sydney - Inner West,3,NSW,In a significant urban area,Inner regional,0,28146
+8158926121,31,1996,2023,M,214,Central West,3,NSW,In a significant urban area,Inner regional,1,61951
+5642593304,35,1981,2022,F,509,Perth - North West,4,TAS,Not in a significant urban area,Inner regional,0,250
+7383122924,19,1993,2023,F,107,Melbourne - West,4,QLD,In a significant urban area,Major city,1,18979
+1327992763,46,1992,2024,F,205,North West,8,NSW,"",Major city,0,70560
+2885464625,32,1999,2023,F,117,Melbourne - North West,2,SA,In a significant urban area,Major city,2,45505
+2784109301,21,2004,2022,F,506,Melbourne - Inner,1,WA,In a significant urban area,Inner regional,1,41241
+6286110770,61,1955,2020,F,125,Melbourne - Inner,3,NSW,In a significant urban area,Major city,1,72132
+3599973543,43,1962,2024,M,212,Sydney - South West,2,VIC,In a significant urban area,Major city,0,0
+7494557517,56,1965,2027,M,303,Central Coast,1,ACT,In a significant urban area,"",0,102333
+7405790457,43,1979,2026,F,213,Sydney - City and Inner South,2,QLD,In a significant urban area,Major city,2,54432
+7391429425,59,1978,2026,F,510,Gold Coast,2,WA,In a significant urban area,Major city,0,111904
+8582146022,34,1961,2024,M,124,Geelong,1,NSW,In a significant urban area,Major city,0,50285
+7704332239,39,1984,2024,F,206,North West,3,NSW,In a significant urban area,Major city,0,66439
+1139033410,45,1958,2025,F,118,Melbourne - South East,5,SA,In a significant urban area,Major city,0,17607
+1725145831,58,1965,2023,F,302,Melbourne - South East,3,QLD,In a significant urban area,Major city,1,17252
+6089059108,83,1996,2025,M,505,Sydney - Blacktown,1,QLD,In a significant urban area,Major city,0,194297
+5415692676,22,1978,2019,M,123,Perth - South East,3,VIC,"",Inner regional,0,53020
+1041721198,51,1981,2022,M,119,Brisbane Inner City,3,VIC,In a significant urban area,Inner regional,0,0
+8108783817,35,1955,2024,M,125,Melbourne - Inner East,1,QLD,Not in a significant urban area,Outer regional,0,42796
+8751870257,44,1999,2025,M,317,Sydney - Eastern Suburbs,6,VIC,"",Inner regional,1,2555
+6088288889,34,1993,2021,M,212,Queensland - Outback,2,VIC,"",Inner regional,0,0
+9603560496,35,1990,2025,M,602,Sydney - Ryde,1,WA,In a significant urban area,Major city,0,44695
+6316154081,34,1952,2023,F,305,Newcastle and Lake Macquarie,3,QLD,In a significant urban area,Major city,0,10540
+3665128941,32,1968,2022,M,118,Central Queensland,1,WA,"",Major city,0,1739
+3974272590,51,1954,2025,F,407,Sunshine Coast,1,VIC,In a significant urban area,Major city,0,0
+2803664414,47,1973,2023,F,115,Perth - South East,1,NSW,In a significant urban area,Major city,0,77151
+9156553832,73,1993,2025,F,128,Perth - North West,1,TAS,In a significant urban area,Major city,3,81235
+2059189302,62,1971,2023,M,209,Hume,2,WA,In a significant urban area,Inner regional,2,365887
+6826323485,23,1975,2025,M,126,South Australia - Outback,1,NSW,Not in a significant urban area,"",0,323548
+5184816009,38,1964,2019,M,116,Sydney - Inner South West,1,ACT,In a significant urban area,Inner regional,2,3817
+4566098286,68,1954,2022,F,122,Northern Territory - Outback,1,NSW,In a significant urban area,Major city,2,11131
+4966910931,26,1975,2023,M,213,Perth - South West,2,QLD,In a significant urban area,"",0,19470
+4371511116,38,1998,2026,F,101,Richmond - Tweed,2,NSW,In a significant urban area,Outer regional,0,80149
+9500115093,20,1960,2025,M,316,Geelong,1,WA,In a significant urban area,Major city,0,47052
+3798307573,74,1955,2026,F,111,Australian Capital Territory,1,TAS,In a significant urban area,Major city,1,89156
+7637933410,28,1993,2024,M,117,Sydney - City and Inner South,1,NSW,In a significant urban area,Inner regional,1,85893
+6870138584,78,1963,2024,M,310,Adelaide - South,3,WA,In a significant urban area,Major city,2,68664
+7716230604,86,1965,2025,F,209,Bendigo,1,QLD,In a significant urban area,Major city,2,27639
+8144781840,71,1992,2020,M,205,"",2,NSW,In a significant urban area,Major city,0,167106
+7870820707,51,1987,2026,M,208,Brisbane - West,5,NSW,In a significant urban area,Major city,0,37424
+4123650772,31,1981,2022,M,201,Sydney - City and Inner South,5,VIC,In a significant urban area,Major city,2,41292
+1929862270,29,2001,2025,M,115,Brisbane - West,1,QLD,In a significant urban area,Outer regional,2,8598
+9857076439,35,1986,2025,F,309,Adelaide - South,3,QLD,In a significant urban area,Major city,0,176308
+3680363762,23,1993,2025,F,208,Perth - South East,2,WA,Not in a significant urban area,Outer regional,0,109090
+6106700284,33,1974,2025,M,106,Melbourne - North West,1,VIC,"",Major city,1,81598
+7346426984,46,2004,2026,M,214,Sydney - Outer South West,1,VIC,In a significant urban area,Major city,2,96087
+6836236768,54,1978,2026,M,602,Moreton Bay - South,2,QLD,In a significant urban area,Major city,0,0
+9443002091,61,1990,2026,M,121,Western Australia - Outback (South),5,VIC,In a significant urban area,Outer regional,0,459308
+6068504147,24,1973,2022,M,119,Sydney - Outer South West,5,VIC,In a significant urban area,Major city,1,20080
+6347395681,48,2005,2023,F,316,Brisbane - North,5,QLD,In a significant urban area,Outer regional,0,0
+7896445090,40,1954,2022,F,313,Melbourne - South East,1,VIC,In a significant urban area,Outer regional,1,103321
+9512344687,42,1980,2026,F,110,Brisbane - North,8,WA,In a significant urban area,Major city,0,39725
+4837750891,30,1989,2024,F,402,Sydney - Inner South West,1,QLD,In a significant urban area,Major city,1,5665
+7669874859,23,1992,2026,M,125,Central West,1,NSW,In a significant urban area,Major city,0,89486
+1825712729,79,1974,2026,M,309,Perth - South East,2,SA,In a significant urban area,Major city,4,71218
+7678114649,37,1977,2023,F,204,"",1,ACT,In a significant urban area,Major city,0,16546
+5001079230,33,1983,2023,M,503,Melbourne - North West,5,NSW,In a significant urban area,Major city,0,56782
+1701712351,27,1948,2022,F,312,Warrnambool and South West,3,VIC,"",Major city,2,36860
+8027111466,67,2002,2024,M,309,Newcastle and Lake Macquarie,2,WA,Not in a significant urban area,Major city,0,0
+5865440162,28,1961,2026,F,109,Sydney - North Sydney and Hornsby,1,VIC,Not in a significant urban area,"",0,179284
+5523069532,35,1957,2023,M,209,Melbourne - North East,1,NSW,Not in a significant urban area,Major city,0,46458
+9531032230,46,1984,2024,F,301,"",2,NSW,In a significant urban area,Major city,1,42251
+3445620225,57,1999,2024,F,214,Adelaide - South,3,WA,"",Major city,0,84700
+6916409653,48,2002,2025,M,604,Sydney - Northern Beaches,8,VIC,In a significant urban area,Major city,2,96318
+9021256103,82,1987,2023,F,204,Central Coast,1,SA,In a significant urban area,Major city,0,0
+1412655520,72,1954,2023,M,101,Melbourne - North East,3,NSW,Not in a significant urban area,Major city,0,26463
+1443486386,56,1977,2025,M,315,Ballarat,2,NSW,In a significant urban area,Inner regional,0,152720
+8816409382,52,1995,2023,F,102,Sydney - Blacktown,3,QLD,In a significant urban area,Inner regional,1,56243
+8331387245,33,1974,2025,M,503,Capital Region,2,VIC,In a significant urban area,Major city,1,105850
+3256395706,26,1962,2024,F,201,Sydney - Ryde,5,WA,In a significant urban area,Major city,0,58270
+3471498044,69,1966,2023,M,403,Illawarra,3,NSW,In a significant urban area,Major city,2,29787
+7825161660,38,1969,2026,M,318,Logan - Beaudesert,1,NSW,In a significant urban area,Inner regional,2,441
+3868751182,36,1986,2022,F,313,Melbourne - North East,2,NSW,In a significant urban area,Inner regional,1,64149
+7329202175,49,1982,2025,M,213,Adelaide - West,1,QLD,In a significant urban area,Outer regional,2,65558
+6480194837,36,1949,2026,F,108,Sydney - South West,6,QLD,In a significant urban area,"",0,0
+4439886554,63,1959,2025,F,302,Sydney - Baulkham Hills and Hawkesbury,2,VIC,In a significant urban area,Inner regional,2,85036
+3850192049,35,1948,2025,F,201,Melbourne - South East,3,NSW,In a significant urban area,Major city,1,0
+6461384814,63,1975,2023,M,402,Gold Coast,4,VIC,In a significant urban area,Inner regional,0,83573
+6265176166,51,2002,2022,F,212,Coffs Harbour - Grafton,5,NSW,In a significant urban area,Major city,1,142171
+2078762959,64,1976,2023,M,126,Adelaide - South,2,NSW,In a significant urban area,Inner regional,2,87324
+2441518850,34,1981,2023,F,214,Sydney - Inner South West,3,WA,In a significant urban area,Inner regional,2,197806
+4463024576,58,1997,2022,F,116,Hunter Valley exc Newcastle,5,SA,In a significant urban area,Major city,0,86230
+1079758503,49,1996,2023,M,505,Melbourne - South East,2,WA,In a significant urban area,"",0,167026
+1104019475,20,1955,2023,M,401,Sunshine Coast,5,VIC,In a significant urban area,Major city,0,164428
+3119437952,46,1950,2025,M,212,Sydney - City and Inner South,3,VIC,In a significant urban area,Major city,0,103838
+4151141465,58,1973,2024,F,801,Sydney - Outer South West,3,SA,"",Major city,1,142028
+5181238353,62,1959,2024,M,111,Sydney - Inner South West,2,NSW,In a significant urban area,Major city,3,0
+7016644146,24,1979,2024,M,505,Adelaide - North,3,VIC,In a significant urban area,Major city,1,180530
+3812865620,22,1960,2023,M,201,Melbourne - Inner,5,NSW,In a significant urban area,Major city,0,66349
+9662484615,58,2002,2026,M,127,Illawarra,8,NSW,Not in a significant urban area,Major city,0,182988
+6963224834,16,1980,2024,F,401,Melbourne - Outer East,3,NSW,"",Major city,1,14800
+8181034427,36,1962,2022,M,801,Sydney - City and Inner South,1,WA,In a significant urban area,Major city,0,0
+3157064254,43,1984,2025,M,301,New England and North West,1,VIC,In a significant urban area,Major city,0,71166
+8565677819,19,1983,2021,F,511,Perth - North West,2,VIC,Not in a significant urban area,Outer regional,2,0
+5904236638,65,1963,2021,M,128,Adelaide - North,1,QLD,Not in a significant urban area,Outer regional,0,57477
+7127765897,37,1980,2023,F,217,Melbourne - Inner South,2,VIC,In a significant urban area,"",0,14915
+9931968526,35,1952,2024,M,318,Adelaide - Central and Hills,1,WA,In a significant urban area,Inner regional,1,37840
+8920193394,75,1992,2020,M,305,Mornington Peninsula,8,QLD,Not in a significant urban area,Major city,1,101829
+8845512072,40,1992,2025,F,127,Melbourne - North West,1,VIC,In a significant urban area,"",2,447057
+7415733073,37,1968,2025,F,123,Sydney - South West,2,NSW,Not in a significant urban area,Outer regional,2,7019
+4411553904,50,1953,2023,M,102,Sunshine Coast,2,NSW,In a significant urban area,"",0,6798
+2924045019,45,2004,2023,F,308,Perth - North West,1,NSW,In a significant urban area,Major city,0,126767
+7264741833,34,1965,2024,M,205,Perth - South West,1,WA,Not in a significant urban area,Major city,0,53031
+1240464347,53,1999,2022,M,407,Melbourne - Inner,3,QLD,In a significant urban area,Major city,0,123916
+6416038156,46,1952,2023,F,601,Brisbane Inner City,1,VIC,In a significant urban area,Inner regional,0,28495
+1924228365,36,2001,2024,F,209,Melbourne - Inner,2,VIC,In a significant urban area,Major city,0,46169
+1322617107,32,1963,2023,F,310,Logan - Beaudesert,3,QLD,In a significant urban area,Major city,1,36744
+1962993257,39,1994,2023,M,506,Perth - South West,2,VIC,Not in a significant urban area,Inner regional,2,72460
+8541554439,44,1999,2024,F,209,Brisbane - East,1,VIC,In a significant urban area,Inner regional,0,39459
+8072073237,42,1985,2025,F,316,Melbourne - Inner South,2,NSW,In a significant urban area,"",0,37520
+7066712796,64,1982,2024,M,309,Sunshine Coast,4,SA,In a significant urban area,Major city,0,0
+2484219289,55,1990,2024,M,213,Adelaide - South,2,VIC,In a significant urban area,Major city,0,0
+8837170807,72,1980,2026,F,310,Australian Capital Territory,1,NSW,In a significant urban area,Inner regional,0,4394
+7313744549,35,1957,2021,F,303,Melbourne - West,3,QLD,"","",0,306707
+1871720538,24,1968,2025,M,313,Mandurah,1,VIC,In a significant urban area,Inner regional,0,24654
+4015460976,27,1984,2024,M,801,Mandurah,4,VIC,In a significant urban area,"",0,101817
+7551323654,67,2001,2026,M,511,Melbourne - Inner South,2,ACT,In a significant urban area,Major city,0,56882
+5106886843,36,1997,2024,M,211,Sunshine Coast,3,VIC,"",Inner regional,0,72402
+1081844112,62,1966,2022,F,127,Melbourne - Inner East,2,VIC,"",Major city,0,3399
+9333010425,54,1957,2026,M,207,Sydney - Parramatta,5,NSW,Not in a significant urban area,Major city,0,39208
+7916936672,54,1987,2027,F,502,Melbourne - North West,5,WA,In a significant urban area,Major city,2,55978
+3732426039,62,1978,2023,M,403,Adelaide - North,3,NSW,"",Major city,0,20289
+4287969980,36,1945,2025,F,209,Sydney - Inner West,5,NSW,In a significant urban area,Major city,1,41629
+3934219688,28,1983,2024,M,212,Sydney - Inner South West,2,QLD,In a significant urban area,Major city,0,90869
+4106156859,40,1970,2023,F,127,Richmond - Tweed,8,NSW,In a significant urban area,"",0,36573
+7106798047,39,2002,2025,M,114,Adelaide - West,5,VIC,In a significant urban area,Major city,0,63944
+7798881269,33,1951,2023,M,403,Melbourne - Inner East,3,QLD,In a significant urban area,Outer regional,0,0
+9237334748,62,1983,2018,M,403,Melbourne - South East,2,NSW,In a significant urban area,Major city,0,55553
+9917174022,56,1993,2026,F,316,Adelaide - West,3,VIC,In a significant urban area,Major city,0,59025
+6840731672,49,2003,2022,F,119,Murray,2,VIC,In a significant urban area,Inner regional,0,42908
+3547384068,48,1988,2024,M,127,Melbourne - Inner,4,QLD,In a significant urban area,Outer regional,0,115490
+1715140199,69,2001,2026,M,304,Adelaide - Central and Hills,3,VIC,In a significant urban area,Major city,0,25680
+1571466014,22,1969,2024,M,402,Melbourne - Inner,2,QLD,In a significant urban area,Major city,1,98006
+6452282627,66,1986,2024,M,801,Western Australia - Wheat Belt,2,NSW,In a significant urban area,Major city,0,139603
+4710933341,34,1971,2026,F,124,Perth - South West,2,QLD,In a significant urban area,Major city,0,105702
+6465688784,19,1977,2025,M,102,Australian Capital Territory,2,QLD,Not in a significant urban area,Major city,1,43860
+2713733683,42,1979,2027,F,511,Perth - North West,2,NSW,In a significant urban area,Major city,0,29286
+9268485797,60,1960,2025,M,204,Gold Coast,2,NSW,In a significant urban area,Major city,0,13559
+9727117711,50,1971,2025,M,115,Brisbane - West,5,VIC,In a significant urban area,"",3,48442
+4095705123,65,1973,2026,M,121,Geelong,1,QLD,In a significant urban area,Major city,0,25817
+8955266329,56,2002,2022,F,207,Sydney - City and Inner South,3,NSW,In a significant urban area,Major city,0,378535
+6961692322,74,1967,2026,M,506,Richmond - Tweed,3,NSW,In a significant urban area,Major city,2,59442
+9456244964,47,1985,2024,F,404,Perth - North West,5,QLD,Not in a significant urban area,Major city,0,53022
+7881350696,27,1951,2023,F,211,Melbourne - West,4,NSW,Not in a significant urban area,"",0,100014
+1160123882,36,2003,2025,M,203,Launceston and North East,1,QLD,In a significant urban area,Major city,0,0
+4849451024,39,1980,2024,F,110,Central West,2,VIC,In a significant urban area,Major city,1,87091
+8746482210,19,1970,2025,F,401,Melbourne - South East,3,VIC,In a significant urban area,Major city,0,31487
+6838833591,54,1964,2023,F,205,Melbourne - West,1,VIC,In a significant urban area,Major city,0,385170
+7402474714,24,1979,2022,M,120,Illawarra,1,TAS,In a significant urban area,"",0,88284
+7973775539,50,1989,2024,F,113,Brisbane - North,3,QLD,In a significant urban area,Major city,2,41636
+5942298177,31,1987,2025,M,309,Wide Bay,2,VIC,In a significant urban area,Major city,0,166218
+9601283470,74,1951,2022,M,128,Riverina,2,SA,In a significant urban area,"",0,59597
+8268862037,65,1997,2025,M,212,Melbourne - Inner,1,WA,In a significant urban area,Major city,0,5329
+6670211594,29,1989,2025,M,506,Melbourne - West,3,"",In a significant urban area,"",2,392661
+7526748030,36,1945,2025,M,305,Illawarra,2,VIC,In a significant urban area,Major city,2,0
+1754710829,69,1964,2025,M,213,South East,6,NSW,In a significant urban area,Major city,0,357150
+5210100886,68,1957,2023,F,801,Brisbane Inner City,1,"",In a significant urban area,Major city,2,0
+7882760091,26,1985,2021,F,117,Australian Capital Territory,2,VIC,In a significant urban area,Inner regional,0,116386
+6256942270,26,2000,2023,F,116,Central West,1,NSW,In a significant urban area,Major city,0,102920
+4407064220,70,1993,2026,F,209,Melbourne - Outer East,2,NSW,In a significant urban area,Major city,0,1559
+1032730103,40,1974,2026,M,402,Melbourne - Inner South,1,WA,In a significant urban area,"",0,0
+7209373929,21,1992,2022,M,314,Melbourne - Outer East,1,VIC,In a significant urban area,Major city,0,81929
+9042583804,30,2000,2025,M,213,Sydney - North Sydney and Hornsby,1,NSW,In a significant urban area,Remote area,0,100402
+9665733563,84,1935,2023,M,120,Perth - Inner,2,VIC,In a significant urban area,Major city,2,0
+4140551964,39,1961,2025,M,115,Sydney - Ryde,2,NSW,In a significant urban area,Major city,1,35250
+9027121183,37,1962,2021,M,111,Sydney - North Sydney and Hornsby,2,WA,"",Major city,2,4718
+6250234677,49,1960,2026,M,211,Australian Capital Territory,2,NSW,In a significant urban area,Major city,0,204131
+5228115634,41,2003,2021,F,504,Perth - North West,1,VIC,In a significant urban area,Major city,0,80340
+8543671325,29,1970,2021,F,109,Sydney - City and Inner South,3,VIC,In a significant urban area,Major city,3,20109
+9587639728,55,1954,2022,F,127,Sunshine Coast,1,QLD,Not in a significant urban area,Major city,1,91619
+5210071363,28,1990,2022,F,115,Melbourne - Inner East,1,NSW,"",Outer regional,1,0
+8319575584,49,1992,2023,F,103,Bendigo,2,NSW,In a significant urban area,Major city,0,16297
+7664717066,62,1971,2023,M,507,South Australia - South East,5,SA,In a significant urban area,Major city,1,36834
+1117873077,32,2003,2026,F,119,Central Queensland,3,WA,In a significant urban area,Major city,1,42605
+4314562562,49,1996,2025,M,406,Adelaide - West,1,QLD,In a significant urban area,Major city,1,24179
+1796053519,18,1975,2026,M,504,Brisbane - East,3,SA,In a significant urban area,Major city,0,38695
+3236526455,31,1959,2023,M,118,Melbourne - South East,3,NSW,In a significant urban area,Major city,0,25470
+3828607566,41,2001,2022,M,211,Bunbury,8,VIC,Not in a significant urban area,Inner regional,0,72321
+5198298484,45,1958,2023,M,216,Sydney - Eastern Suburbs,5,QLD,In a significant urban area,Major city,0,0
+7604902556,46,1995,2025,M,209,Sydney - Outer South West,2,QLD,"",Major city,1,151723
+1612306396,28,1951,2022,F,113,Sydney - City and Inner South,4,NSW,In a significant urban area,Outer regional,0,142797
+6266953101,28,1986,2025,M,504,Sunshine Coast,3,VIC,In a significant urban area,"",0,78822
+1950129979,30,1956,2026,F,110,Mornington Peninsula,1,VIC,In a significant urban area,Major city,0,16841
+4007589128,57,1995,2025,M,111,Western Australia - Outback (North),2,VIC,In a significant urban area,Major city,0,58203
+8024901877,22,1957,2025,M,603,Melbourne - West,3,NSW,In a significant urban area,Inner regional,4,57127
+4827856905,72,1998,2022,F,301,Ipswich,8,WA,In a significant urban area,Major city,1,32407
+9870106130,18,1979,2024,F,203,"",2,NSW,In a significant urban area,Major city,0,53141
+4173355382,49,1971,2021,M,506,Sydney - Inner South West,1,NSW,In a significant urban area,Major city,0,0
+5156365412,56,2004,2024,F,201,Latrobe - Gippsland,3,NSW,In a significant urban area,Major city,3,93004
+2674029729,19,1979,2027,F,503,Adelaide - West,2,NSW,In a significant urban area,Inner regional,0,462986
+3094160261,35,1969,2026,F,301,Murray,2,QLD,In a significant urban area,"",3,19001
+6651609353,53,1980,2022,M,313,Geelong,1,SA,Not in a significant urban area,Major city,2,30924
+1611135625,55,1970,2024,F,211,Darwin,1,NSW,In a significant urban area,Inner regional,1,43498
+4166683774,18,1986,2024,F,128,Mandurah,4,VIC,In a significant urban area,Major city,1,69954
+9298912946,47,1984,2024,M,214,Western Australia - Outback (South),2,QLD,In a significant urban area,"",1,53755
+6476692886,27,1955,2024,M,209,Adelaide - Central and Hills,6,WA,In a significant urban area,Major city,2,18630
+7215935529,47,1993,2024,M,302,Barossa - Yorke - Mid North,5,SA,"",Major city,0,86424
+1799833322,31,1975,2026,M,213,Melbourne - Inner East,2,VIC,In a significant urban area,Inner regional,0,0
+6766164759,40,1988,2026,F,316,Melbourne - South East,2,QLD,In a significant urban area,Major city,2,60772
+5498503837,59,1975,2023,M,109,Ipswich,1,NSW,In a significant urban area,Major city,0,221354
+7655014501,33,1988,2018,F,116,Melbourne - Outer East,3,QLD,In a significant urban area,Major city,0,10282
+9556916214,50,1973,2023,M,113,Perth - North West,3,NSW,In a significant urban area,Major city,0,99347
+3387685864,50,1955,2024,M,118,Melbourne - North East,2,QLD,In a significant urban area,"",0,413758
+2356757658,48,1983,2023,F,124,Melbourne - South East,1,WA,In a significant urban area,Major city,0,55527
+5645088585,20,1956,2024,M,108,Sydney - Blacktown,1,WA,In a significant urban area,Major city,0,93037
+6064535786,65,1984,2023,M,302,Brisbane Inner City,1,QLD,In a significant urban area,Major city,2,27806
+8399237900,30,1981,2023,F,201,Melbourne - West,2,WA,In a significant urban area,Major city,0,10672
+7701016777,42,1966,2025,M,402,Melbourne - North East,1,WA,In a significant urban area,"",1,154500
+6887025519,67,1954,2024,F,123,Mid North Coast,4,SA,In a significant urban area,"",0,64787
+3275850374,60,1961,2025,F,211,Melbourne - Inner East,5,QLD,In a significant urban area,"",0,235593
+4514518330,46,1967,2026,M,303,Sydney - Baulkham Hills and Hawkesbury,1,VIC,"",Major city,1,25946
+1104739588,39,1992,2017,F,106,Brisbane - South,2,VIC,In a significant urban area,Inner regional,2,17722
+1913520751,71,1983,2022,M,311,Sydney - North Sydney and Hornsby,3,TAS,In a significant urban area,Inner regional,0,0
+4817540689,54,1988,2024,M,505,Melbourne - South East,1,VIC,Not in a significant urban area,Inner regional,2,16382
+1772903709,24,1999,2025,F,123,Hume,2,VIC,In a significant urban area,Major city,2,79468
+3714272501,37,1976,2025,F,203,Melbourne - Inner East,1,QLD,In a significant urban area,Inner regional,0,113467
+8667120116,86,1978,2026,F,403,Perth - South East,3,NSW,In a significant urban area,Major city,0,72889
+9471979603,49,1968,2025,M,316,Hume,1,NSW,In a significant urban area,Major city,0,106268
+9944059928,58,1986,2023,M,302,Northern Territory - Outback,2,VIC,Not in a significant urban area,Major city,0,15331
+1229094486,29,1992,2026,F,407,Gold Coast,4,SA,In a significant urban area,Major city,0,81822
+8890944637,36,2000,2024,M,106,Sydney - Blacktown,3,NSW,In a significant urban area,Major city,0,89861
+5428036822,51,1994,2026,F,602,Melbourne - South East,2,ACT,In a significant urban area,Major city,2,70940
+5558217775,24,1960,2023,F,301,Melbourne - North West,2,NSW,Not in a significant urban area,"",0,40261
+2161612832,24,2001,2024,F,310,Illawarra,2,QLD,In a significant urban area,Major city,0,118531
+4248967095,28,1986,2026,M,305,Brisbane - South,1,NSW,Not in a significant urban area,Major city,4,145423
+5438101327,55,1974,2027,F,402,Illawarra,5,WA,Not in a significant urban area,"",0,9196
+8323372349,46,2002,2025,F,206,Western Australia - Wheat Belt,5,NSW,In a significant urban area,"",0,116208
+1164700571,57,1972,2025,M,108,Adelaide - South,3,SA,"",Major city,1,0
+9136914128,51,1977,2025,M,209,New England and North West,1,NSW,In a significant urban area,Major city,1,96426
+1047408445,28,2000,2025,F,316,Western Australia - Outback (North),2,VIC,In a significant urban area,Major city,2,66947
+8598766560,21,1975,2023,F,504,Perth - North East,1,NSW,In a significant urban area,Major city,0,30324
+2143420606,49,1981,2025,F,103,Sydney - Outer South West,3,SA,"",Major city,1,87953
+6399303601,22,1979,2024,F,117,Hunter Valley exc Newcastle,1,SA,In a significant urban area,Major city,0,37626
+2351214368,70,2000,2026,M,126,Central Queensland,1,NSW,In a significant urban area,Major city,0,0
+6910730290,28,1959,2026,M,120,Sydney - Eastern Suburbs,2,NSW,"",Remote area,0,79604
+7316658842,41,1968,2024,M,213,Ipswich,3,VIC,"",Major city,0,14184
+4518066296,73,2000,2025,M,309,Australian Capital Territory,4,NSW,In a significant urban area,Major city,3,61058
+6094151120,65,1987,2023,M,213,Sydney - Outer South West,1,VIC,"",Major city,0,16375
+7724796134,27,2005,2024,F,115,Melbourne - Inner,1,NSW,In a significant urban area,Major city,1,35745
+9334787792,20,1977,2022,M,122,Southern Highlands and Shoalhaven,1,VIC,In a significant urban area,"",0,0
+3099694181,37,1998,2024,M,208,Melbourne - South East,3,NSW,In a significant urban area,Major city,3,0
+1138030502,39,1997,2024,M,202,Richmond - Tweed,1,NSW,Not in a significant urban area,Inner regional,0,144653
+7759484006,27,1996,2025,M,501,Melbourne - South East,2,WA,In a significant urban area,Major city,0,101259
+8745688651,62,1976,2025,F,115,Sunshine Coast,3,QLD,In a significant urban area,Inner regional,0,0
+2427917051,37,1981,2026,F,121,Sydney - Baulkham Hills and Hawkesbury,2,VIC,In a significant urban area,Major city,0,30677
+7618691211,67,1963,2025,F,312,Sydney - North Sydney and Hornsby,1,NSW,In a significant urban area,Major city,0,92379
+8401775414,32,1953,2025,F,503,Melbourne - Inner East,1,NSW,"",Inner regional,0,49979
+4552939788,22,2001,2024,M,601,Gold Coast,3,WA,In a significant urban area,Major city,1,63395
+2643902545,36,1985,2024,M,119,Gold Coast,1,NSW,"","",0,76139
+4446233737,75,1955,2023,F,119,Geelong,1,NSW,In a significant urban area,Outer regional,0,73029
+9137645031,47,1960,2026,F,102,Melbourne - Inner,1,SA,In a significant urban area,Outer regional,0,48962
+9800525157,33,1988,2023,F,127,Melbourne - Inner South,3,NSW,In a significant urban area,Major city,0,45
+5993861527,82,1983,2025,M,213,Perth - Inner,2,VIC,In a significant urban area,Major city,0,2628
+3592721871,42,1960,2023,M,107,Melbourne - Inner,3,NSW,Not in a significant urban area,Major city,0,22560
+6277373091,36,1979,2022,F,301,Australian Capital Territory,2,SA,In a significant urban area,Major city,3,67322
+7614348783,47,1981,2023,M,103,New England and North West,2,VIC,In a significant urban area,Major city,2,847
+2234736073,36,1979,2024,F,118,Melbourne - Outer East,4,NSW,In a significant urban area,"",0,97069
+3460472556,46,1972,2023,M,125,Sydney - Baulkham Hills and Hawkesbury,2,QLD,Not in a significant urban area,"",1,43145
+3850021672,23,1966,2019,F,402,Richmond - Tweed,3,VIC,In a significant urban area,Major city,0,0
+4155915743,42,1971,2024,M,213,North West,3,WA,In a significant urban area,"",0,7103
+3461489287,31,1986,2025,F,506,Melbourne - Outer East,1,WA,In a significant urban area,Major city,0,0
+4870251694,74,1968,2022,M,503,Sydney - Parramatta,3,VIC,In a significant urban area,Inner regional,1,45270
+1157788419,57,1961,2024,F,107,Melbourne - Inner,3,VIC,In a significant urban area,Major city,0,30519
+6666460324,33,1967,2021,F,301,Sydney - Inner South West,3,VIC,"",Inner regional,0,76000
+7221028865,26,1980,2025,F,301,Melbourne - North East,3,QLD,In a significant urban area,Major city,0,30846
+5126996703,42,2003,2024,M,116,New England and North West,3,VIC,In a significant urban area,Major city,0,57293
+3656070369,23,2003,2025,M,211,Northern Territory - Outback,5,SA,Not in a significant urban area,Major city,2,59718
+3213814323,67,1985,2022,F,401,Hunter Valley exc Newcastle,2,WA,"",Major city,2,0
+6717023217,48,1976,2024,F,106,Melbourne - Outer East,2,QLD,In a significant urban area,Major city,2,63276
+2053438252,37,1981,2026,F,111,Northern Territory - Outback,4,QLD,In a significant urban area,Major city,0,373144
+6836180860,37,1966,2023,M,206,Perth - North West,2,VIC,Not in a significant urban area,Inner regional,0,0
+8519586192,50,1991,2022,M,213,Melbourne - West,1,QLD,Not in a significant urban area,Outer regional,0,0
+5701236138,63,1960,2025,M,308,Central Coast,1,QLD,In a significant urban area,Major city,0,4183
+4687854286,56,1961,2023,F,502,Capital Region,3,VIC,Not in a significant urban area,Major city,2,114559
+1922206349,75,1947,2026,F,118,Gold Coast,1,NSW,In a significant urban area,Major city,2,28948
+1689263452,31,1989,2026,M,215,Sydney - Sutherland,2,NSW,In a significant urban area,Major city,0,110152
+5254719226,23,1958,2026,F,107,Sydney - Inner South West,5,VIC,"","",1,0
+8261682920,61,1979,2026,F,119,Western Australia - Wheat Belt,1,QLD,In a significant urban area,Major city,2,24125
+9929543409,40,1951,2022,M,206,Adelaide - North,2,NSW,In a significant urban area,Very remote area,0,45134
+5619899286,34,1989,2025,M,312,Cairns,2,NSW,In a significant urban area,Major city,0,42919
+7309882919,55,1946,2026,M,111,Sydney - Blacktown,5,VIC,Not in a significant urban area,Major city,0,50154
+9164306120,51,1963,2023,F,304,Ipswich,1,NSW,In a significant urban area,"",2,51770
+6195901239,61,1961,2024,M,505,Ballarat,2,NSW,In a significant urban area,Major city,0,34141
+8417761772,37,1986,2023,M,313,Melbourne - North West,1,QLD,In a significant urban area,Inner regional,0,16493
+6027608886,30,1952,2025,M,120,Melbourne - Inner,5,NSW,In a significant urban area,Major city,0,13901
+4811347121,36,1954,2024,F,104,Newcastle and Lake Macquarie,3,VIC,In a significant urban area,Major city,1,62703
+6707779656,53,1967,2026,M,319,"",2,VIC,In a significant urban area,Major city,0,24551
+9970898938,44,1962,2026,F,205,Melbourne - North East,3,VIC,Not in a significant urban area,Outer regional,0,47583
+9886483927,25,1960,2023,F,121,Sydney - Eastern Suburbs,5,NSW,In a significant urban area,Major city,0,136639
+2958275173,40,1958,2025,M,509,Adelaide - West,2,WA,In a significant urban area,Outer regional,5,13616
+3059755713,30,1981,2025,F,502,Adelaide - Central and Hills,2,NSW,In a significant urban area,Major city,0,0
+6148890762,61,2003,2023,M,505,Melbourne - South East,1,VIC,In a significant urban area,"",0,20230
+3913826239,61,1974,2024,M,116,Ipswich,2,QLD,In a significant urban area,Major city,4,36440
+7361550366,56,1971,2025,M,107,Ipswich,1,QLD,In a significant urban area,Inner regional,5,16817
+3832044818,38,1981,2025,F,113,Capital Region,1,ACT,In a significant urban area,Inner regional,0,12012
+2766254583,20,1989,2026,F,117,Sydney - Sutherland,2,QLD,Not in a significant urban area,Inner regional,0,56083
+5221387536,58,1950,2023,F,309,Western Australia - Wheat Belt,4,VIC,In a significant urban area,Major city,0,0
+2324762923,20,1973,2025,F,801,South Australia - South East,1,NSW,In a significant urban area,Major city,2,94805
+6348182979,45,1944,2026,M,504,Moreton Bay - North,1,VIC,In a significant urban area,Major city,0,15444
+1061825909,35,1963,2022,F,305,Geelong,1,NSW,"",Inner regional,1,0
+7156761079,43,1987,2023,M,211,Brisbane - East,1,QLD,In a significant urban area,Major city,0,377374
+5242205894,64,1967,2023,F,207,Melbourne - Inner,2,VIC,In a significant urban area,"",0,116291
+9362296493,66,1968,2024,F,107,Hunter Valley exc Newcastle,3,QLD,In a significant urban area,Major city,0,23052
+6450133119,64,1991,2025,F,604,Perth - South East,1,VIC,In a significant urban area,"",0,376753
+5456860168,41,1966,2026,M,303,Mid North Coast,3,TAS,In a significant urban area,Major city,0,30426
+7189205957,69,1983,2024,M,702,Melbourne - South East,1,TAS,In a significant urban area,Inner regional,2,67450
+3295525913,40,1990,2024,M,121,Sydney - Outer South West,2,VIC,Not in a significant urban area,Outer regional,0,166079
+3614030446,42,1975,2023,F,102,Melbourne - Inner South,1,VIC,In a significant urban area,Major city,1,51618
+1935830299,38,1987,2025,M,407,Melbourne - Inner East,1,VIC,In a significant urban area,"",2,98485
+5906317741,66,1961,2025,M,316,Perth - Inner,2,ACT,In a significant urban area,Major city,0,50899
+1837249450,72,1977,2026,F,125,Adelaide - North,1,NSW,In a significant urban area,Inner regional,3,74762
+8580275582,33,1994,2025,M,119,Sydney - Parramatta,2,ACT,In a significant urban area,Inner regional,0,62715
+5831798457,81,1984,2025,F,306,Brisbane Inner City,3,QLD,"",Major city,1,43545
+6274402503,52,1997,2022,M,506,Gold Coast,1,QLD,In a significant urban area,Major city,0,58140
+5126717505,38,1989,2023,F,207,Sydney - Baulkham Hills and Hawkesbury,2,VIC,In a significant urban area,Major city,2,77058
+3864643950,18,1991,2025,F,506,Moreton Bay - South,1,QLD,"",Major city,1,148121
+6514006706,25,2002,2025,F,310,Adelaide - Central and Hills,3,ACT,"",Major city,0,24421
+9470169312,57,1997,2023,M,309,Sydney - Baulkham Hills and Hawkesbury,5,VIC,In a significant urban area,Major city,2,5777
+5498480155,78,1966,2023,F,403,Cairns,1,QLD,In a significant urban area,Outer regional,0,40064
+5871277217,37,1972,2026,M,319,Sydney - Inner South West,6,QLD,In a significant urban area,Inner regional,0,1319
+5417525354,65,1958,2025,M,101,Launceston and North East,4,QLD,In a significant urban area,Major city,0,171980
+7581630064,49,2005,2026,F,501,Logan - Beaudesert,1,QLD,In a significant urban area,"",1,12654
+3571216355,62,1960,2024,M,120,Sydney - Outer South West,1,WA,In a significant urban area,"",0,152403
+3010358207,67,1952,2025,F,405,Northern Territory - Outback,4,QLD,In a significant urban area,"",1,0
+8387040772,43,1991,2025,F,402,Brisbane - South,4,QLD,In a significant urban area,Inner regional,0,220406
+2276117142,25,1976,2023,F,510,Australian Capital Territory,1,ACT,Not in a significant urban area,Major city,0,
+3402656040,64,1977,2026,F,102,Brisbane Inner City,4,VIC,In a significant urban area,Major city,0,
+1370486879,18,1966,2023,F,214,Melbourne - South East,3,VIC,Not in a significant urban area,"",0,158
+6666194740,62,1990,2021,M,125,Perth - South West,2,QLD,In a significant urban area,Major city,0,0
+2102052894,35,1991,2024,M,118,Melbourne - North West,3,VIC,"","",0,45085
+1366759490,70,1970,2026,F,103,Central Queensland,2,NSW,In a significant urban area,Major city,0,54459
+3622529020,83,1964,2026,F,113,"",1,QLD,In a significant urban area,Inner regional,1,160847
+9150459664,46,1983,2022,M,506,Barossa - Yorke - Mid North,5,SA,In a significant urban area,Major city,1,55856
+4787504564,61,1973,2025,M,102,Mornington Peninsula,5,WA,In a significant urban area,Outer regional,0,95093
+1944224641,44,1998,2022,F,209,Sydney - Outer South West,1,WA,Not in a significant urban area,Outer regional,1,57936
+8889443375,48,1927,2025,F,311,Ballarat,1,VIC,In a significant urban area,Inner regional,0,38434
+2318317691,37,1991,2024,F,309,Moreton Bay - North,1,NSW,In a significant urban area,"",2,110057
+3959538922,30,1989,2022,F,304,Melbourne - South East,3,QLD,In a significant urban area,Major city,0,76522
+5977702987,28,1967,2026,M,206,Hobart,8,NSW,In a significant urban area,Major city,0,21100
+3292662581,27,1982,2025,M,404,Adelaide - South,3,QLD,In a significant urban area,Major city,0,91349
+4228233222,58,1998,2027,F,107,Perth - South East,3,NSW,In a significant urban area,Major city,2,6055
+7853237264,31,1968,2023,F,503,Sydney - North Sydney and Hornsby,2,WA,In a significant urban area,Major city,0,13655
+4378403865,31,1953,2024,M,212,Melbourne - Inner South,3,VIC,In a significant urban area,Major city,1,25969
+3465263448,56,1996,2022,M,208,Melbourne - Inner,3,VIC,In a significant urban area,Major city,0,49990
+9928884890,59,1950,2026,F,206,Illawarra,7,VIC,In a significant urban area,Major city,4,53420
+7164368255,37,1983,2022,F,120,Melbourne - Inner South,5,VIC,In a significant urban area,"",2,58404
+8278081957,43,1982,2024,M,305,Sydney - City and Inner South,1,SA,In a significant urban area,Major city,0,159185
+8271767321,37,1986,2022,M,506,"",5,VIC,In a significant urban area,Major city,0,3467
+1424758305,31,1983,2025,F,106,Melbourne - North East,5,NSW,In a significant urban area,Outer regional,0,0
+3754224462,40,1961,2024,F,203,Brisbane - West,4,VIC,"","",0,27750
+6643409127,50,2004,2023,M,207,Sydney - Northern Beaches,1,SA,Not in a significant urban area,Major city,0,0
+9651016378,16,1982,2026,M,214,Adelaide - South,1,VIC,In a significant urban area,Major city,2,46152
+8830688935,17,1977,2025,F,124,Wide Bay,2,NSW,In a significant urban area,Major city,1,54810
+3148530117,69,1983,2022,M,604,Sydney - City and Inner South,3,VIC,In a significant urban area,Major city,3,88283
+4573981463,82,1988,2022,M,403,Perth - Inner,2,VIC,Not in a significant urban area,Outer regional,0,38520
+2773837688,71,1975,2025,M,310,Perth - Inner,2,SA,Not in a significant urban area,Major city,0,24520
+4801593566,40,1977,2025,F,119,Sydney - City and Inner South,2,NSW,In a significant urban area,Major city,0,133856
+5496507426,23,1954,2024,M,504,Sydney - Parramatta,2,NSW,In a significant urban area,Major city,0,191216
+5240346740,27,2002,2023,M,120,Brisbane - South,1,NSW,In a significant urban area,Major city,0,0
+2485788321,86,1974,2024,M,507,Melbourne - Outer East,1,QLD,Not in a significant urban area,Inner regional,0,0
+1747911017,51,1989,2026,F,206,Sydney - Blacktown,3,SA,In a significant urban area,Inner regional,0,53952
+7107904339,39,1988,2022,M,503,Melbourne - West,3,NSW,In a significant urban area,Major city,0,47866
+6314712895,38,1970,2023,F,507,Cairns,3,VIC,In a significant urban area,Major city,0,107819
+2317685675,20,1956,2027,M,604,Sydney - North Sydney and Hornsby,2,WA,In a significant urban area,Major city,0,91432
+2243314104,26,1961,2027,F,114,Adelaide - North,2,NSW,In a significant urban area,Major city,0,33255
+1333241847,71,1956,2025,M,213,Logan - Beaudesert,2,SA,In a significant urban area,Major city,2,31973
+9472981867,56,1984,2023,M,102,Illawarra,1,NSW,In a significant urban area,Major city,0,36495
+9165097968,43,2001,2026,M,127,Melbourne - South East,3,VIC,In a significant urban area,Major city,1,85780
+6441808614,84,1969,2024,F,306,Shepparton,6,VIC,In a significant urban area,Major city,0,42063
+9837655600,59,1978,2024,F,211,Perth - South West,1,VIC,In a significant urban area,"",0,16861
+6317752882,52,1973,2026,F,507,"",1,VIC,In a significant urban area,Major city,0,82026
+4109683685,47,1963,2023,M,212,Sydney - Parramatta,1,NT,"",Major city,0,1239
+7613539293,50,1994,2026,M,308,Perth - North West,1,"",In a significant urban area,Major city,0,39910
+1684749280,29,1962,2025,M,210,Brisbane - North,3,QLD,In a significant urban area,Major city,0,93823
+8138191192,27,1963,2023,F,115,Newcastle and Lake Macquarie,3,WA,In a significant urban area,Major city,1,86222
+1170073999,24,1958,2026,M,211,"",2,WA,In a significant urban area,Inner regional,2,31791
+6489978913,51,2005,2024,M,203,Hobart,3,QLD,Not in a significant urban area,Major city,0,36946
+7764128384,32,1967,2021,F,124,Mornington Peninsula,2,QLD,In a significant urban area,Major city,1,61728
+7673352891,41,1976,2026,M,108,Cairns,5,TAS,In a significant urban area,Major city,0,12186
+3171652737,80,1968,2025,F,118,Perth - South East,2,VIC,In a significant urban area,Inner regional,0,261
+8009892626,66,1966,2026,M,501,Melbourne - Inner,4,VIC,In a significant urban area,Major city,0,32938
+6437195263,49,1985,2025,F,312,Adelaide - Central and Hills,2,NSW,In a significant urban area,Major city,2,60970
+9960653503,95,1980,2025,F,511,Melbourne - South East,2,WA,In a significant urban area,Major city,0,121894
+7246471895,28,1993,2026,M,211,Sydney - Eastern Suburbs,5,QLD,In a significant urban area,Major city,2,0
+3307379512,19,1987,2025,F,206,Perth - South West,4,NSW,In a significant urban area,"",3,85421
+2466711953,67,1977,2024,M,317,Melbourne - Inner,1,NT,Not in a significant urban area,Major city,2,90845
+7435643798,27,1988,2025,M,213,Sydney - City and Inner South,3,NSW,In a significant urban area,Major city,1,88476
+8647842483,46,1989,2024,M,111,Sydney - Parramatta,1,NSW,Not in a significant urban area,Inner regional,0,12217
+2528936507,47,1996,2022,M,125,Australian Capital Territory,1,VIC,"",Major city,0,109886
+4211490334,46,1989,2023,F,210,Wide Bay,2,NSW,Not in a significant urban area,Inner regional,0,0
+2862947625,34,1995,2025,M,308,Melbourne - North East,4,ACT,"",Remote area,1,39398
+2129377467,27,1997,2022,F,201,Latrobe - Gippsland,2,"",In a significant urban area,Major city,0,437419
+2086456299,51,2003,2024,M,210,Mackay - Isaac - Whitsunday,5,NSW,In a significant urban area,Outer regional,1,0
+9914294281,27,1972,2023,F,214,Melbourne - Inner,2,NSW,In a significant urban area,Inner regional,0,126039
+7652326170,33,1995,2020,M,506,Mid North Coast,3,QLD,In a significant urban area,"",0,39145
+3825111305,51,1959,2026,M,212,Wide Bay,1,QLD,In a significant urban area,Major city,0,89382
+5108822475,49,1944,2026,M,210,Central Queensland,3,NSW,In a significant urban area,Major city,1,57975
+5747000490,40,1957,2024,M,118,Melbourne - South East,7,NSW,In a significant urban area,Major city,0,56100
+5872273288,24,1968,2022,M,308,Brisbane - South,1,VIC,In a significant urban area,Major city,3,57080
+2557786751,59,1992,2026,F,112,Western Australia - Outback (South),1,VIC,In a significant urban area,Major city,0,40519
+9351975892,42,1999,2026,M,312,"",5,VIC,In a significant urban area,Major city,2,88900
+7739404787,65,1974,2023,M,301,Brisbane Inner City,3,NSW,"",Major city,0,41633
+2604789906,32,1986,2021,M,404,Adelaide - West,1,NSW,"",Major city,2,66593
+6131158865,23,1994,2018,F,208,Sydney - Baulkham Hills and Hawkesbury,5,SA,In a significant urban area,Major city,3,166308
+5744541607,22,1964,2022,M,125,Perth - South West,3,VIC,In a significant urban area,"",2,0
+7605564757,45,1985,2022,F,101,Newcastle and Lake Macquarie,1,VIC,In a significant urban area,"",0,84308
+2977130418,59,1957,2023,M,801,Perth - South East,3,"",In a significant urban area,Remote area,0,54319
+6217855190,61,1953,2025,F,110,Wide Bay,4,NSW,In a significant urban area,Major city,0,79156
+6927350004,47,1949,2026,M,602,Sydney - Parramatta,3,NSW,"",Major city,0,0
+7396908621,60,1978,2026,M,113,Sydney - Inner South West,8,VIC,In a significant urban area,Major city,0,466759
+2555703461,27,1983,2025,F,505,Central West,3,NSW,In a significant urban area,Major city,0,117
+2939756958,24,1960,2025,M,401,Melbourne - Inner East,1,NSW,In a significant urban area,Major city,0,57057
+6886513197,23,1945,2027,F,402,Melbourne - North East,1,NSW,In a significant urban area,Major city,0,0
+5098205923,64,1992,2021,F,403,Sydney - Blacktown,4,NSW,Not in a significant urban area,Major city,0,17496
+1723989391,45,1986,2025,F,214,Gold Coast,3,QLD,"",Major city,0,85546
+5083739658,30,1979,2023,M,119,Melbourne - North West,1,VIC,In a significant urban area,Major city,0,97707
+9327615220,33,1965,2023,M,301,Melbourne - South East,3,QLD,In a significant urban area,Major city,0,500651
+4135150189,33,2007,2025,M,117,Brisbane - East,5,TAS,In a significant urban area,Outer regional,0,236369
+7325660769,28,1996,2021,M,206,Sydney - Ryde,2,WA,In a significant urban area,Major city,0,119191
+7272924470,18,1992,2025,M,318,Australian Capital Territory,2,NSW,In a significant urban area,Major city,0,0
+8971763741,58,1956,2024,M,213,Sydney - Parramatta,2,VIC,In a significant urban area,Major city,0,69415
+6340577243,86,1980,2025,F,208,Sydney - Northern Beaches,3,SA,In a significant urban area,Major city,0,
+3946374324,30,1964,2022,M,507,Launceston and North East,3,SA,In a significant urban area,Outer regional,0,55439
+5040643761,20,1996,2026,F,206,Melbourne - West,1,VIC,In a significant urban area,Inner regional,1,117883
+9102232338,45,1974,2024,M,306,Darling Downs - Maranoa,2,NSW,In a significant urban area,Outer regional,0,5067
+8476269223,16,1979,2024,F,212,Melbourne - Inner,1,SA,In a significant urban area,Major city,3,121633
+2962959266,64,1998,2021,M,122,Sydney - Outer South West,1,NSW,In a significant urban area,"",1,0
+5459644760,48,1967,2024,M,206,Sydney - Parramatta,3,VIC,In a significant urban area,Major city,0,41933
+7546589005,31,1984,2024,M,206,Brisbane - West,8,SA,In a significant urban area,Major city,2,26282
+6999403976,40,1963,2023,M,107,Queensland - Outback,2,SA,"",Major city,0,128958
+1102347289,47,2000,2026,F,209,Melbourne - North West,2,NSW,Not in a significant urban area,Major city,0,119593
+2106299766,47,1960,2026,M,213,Brisbane - West,3,NSW,In a significant urban area,Major city,0,65611
+6589113860,53,1954,2024,F,503,Melbourne - North West,3,VIC,"",Inner regional,1,33147
+7665042906,60,1968,2024,M,201,Perth - South West,8,WA,In a significant urban area,Major city,0,53639
+8323323300,27,1962,2022,M,404,Melbourne - West,1,NSW,In a significant urban area,Major city,0,77517
+6346910414,23,1991,2023,M,122,Newcastle and Lake Macquarie,5,NSW,"","",2,120283
+9403719540,31,1972,2023,F,103,Toowoomba,5,QLD,In a significant urban area,Major city,0,89317
+9534872423,64,1970,2023,M,505,Latrobe - Gippsland,6,VIC,In a significant urban area,Major city,0,69484
+1191666085,35,1945,2025,M,212,Perth - South East,3,QLD,In a significant urban area,Major city,0,130585
+3707710480,53,2004,2024,F,319,Illawarra,5,QLD,In a significant urban area,Major city,3,108640
+3372780784,60,1949,2026,F,125,Brisbane - North,5,SA,In a significant urban area,Major city,0,252772
+6262244886,32,1954,2022,F,103,Melbourne - Outer East,5,WA,"","",0,97166
+2704124878,48,1967,2023,F,603,Darwin,5,QLD,Not in a significant urban area,Major city,0,49031
+9107219828,51,2003,2023,M,316,Brisbane - East,3,QLD,In a significant urban area,Major city,0,65204
+4294222417,42,1953,2025,F,123,Perth - South East,2,QLD,In a significant urban area,Major city,3,74433
+7924833865,46,1994,2020,F,316,Sydney - South West,2,VIC,Not in a significant urban area,Outer regional,0,31004
+2138329099,58,1981,2026,M,102,Logan - Beaudesert,2,SA,In a significant urban area,Inner regional,1,13666
+9636377091,31,1992,2023,M,801,Melbourne - North East,2,QLD,In a significant urban area,Major city,0,60238
+3248965704,52,1972,2025,F,125,Barossa - Yorke - Mid North,1,QLD,Not in a significant urban area,Major city,2,0
+9994215036,19,1983,2023,M,121,Sydney - Blacktown,3,NSW,"",Major city,0,78082
+5123198979,53,1964,2023,M,212,Adelaide - West,3,WA,Not in a significant urban area,Major city,0,133062
+8561090381,25,1963,2022,F,503,Perth - South East,1,NSW,Not in a significant urban area,Major city,2,98943
+5575128678,37,1984,2021,M,211,Bunbury,1,VIC,In a significant urban area,Inner regional,0,19618
+8588741610,39,1972,2023,M,116,Melbourne - North East,3,NSW,"",Major city,0,70297
+8217936210,34,1967,2025,F,125,Mid North Coast,5,VIC,In a significant urban area,Inner regional,0,0
+8864730361,35,1976,2022,M,109,Melbourne - Inner South,5,NSW,In a significant urban area,Major city,0,51399
+3401336070,45,1984,2025,F,207,Sydney - Inner South West,5,NSW,In a significant urban area,Major city,0,65784
+6026574701,27,1952,2025,F,105,Sydney - Eastern Suburbs,6,NSW,In a significant urban area,Major city,1,39529
+9852009617,61,1980,2022,F,206,Ballarat,2,WA,In a significant urban area,Inner regional,0,61082
+8163541759,33,1993,2019,F,209,Sydney - Inner South West,1,VIC,In a significant urban area,Major city,2,0
+1699369943,38,2000,2021,M,801,Perth - South East,3,NSW,In a significant urban area,Inner regional,0,116297
+4923277149,57,1998,2024,M,213,Melbourne - Inner East,3,NSW,Not in a significant urban area,Major city,3,83447
+9915016046,50,1969,2021,M,507,Richmond - Tweed,1,QLD,In a significant urban area,Major city,1,13020
+6724851975,70,2001,2023,M,121,South Australia - South East,5,QLD,"","",0,14801
+7503322948,25,1988,2026,M,114,Melbourne - Inner,1,NSW,In a significant urban area,"",1,30840
+7387177160,55,1984,2025,M,127,Brisbane - East,3,QLD,In a significant urban area,"",0,187227
+3424981728,28,1979,2026,F,503,Mornington Peninsula,2,QLD,In a significant urban area,Major city,1,17573
+9293923187,37,1986,2023,M,407,Melbourne - South East,1,VIC,In a significant urban area,Major city,0,187
+9756206843,48,2003,2024,F,205,"",2,VIC,"",Major city,0,0
+4298698606,53,1970,2024,M,126,Capital Region,4,WA,In a significant urban area,Major city,2,86245
+1086115747,26,1991,2026,M,701,Moreton Bay - South,3,WA,In a significant urban area,Major city,0,87215
+8104094602,57,1981,2024,F,212,Sydney - Blacktown,1,NSW,In a significant urban area,"",0,112913
+9362922768,25,1991,2024,F,117,Latrobe - Gippsland,1,QLD,In a significant urban area,Outer regional,0,52384
+4968142366,72,1992,2022,F,210,Central West,2,NSW,"",Major city,1,400
+8602686857,67,1986,2024,M,212,Southern Highlands and Shoalhaven,2,NSW,In a significant urban area,Major city,0,43691
+5083730294,31,1996,2023,M,209,Sydney - South West,3,NT,In a significant urban area,"",1,27329
+8797703523,31,1995,2025,F,317,"",1,WA,In a significant urban area,Major city,0,46009
+2468119000,68,1995,2025,M,205,Gold Coast,1,VIC,In a significant urban area,Major city,0,0
+7172426779,22,1950,2024,M,115,Sydney - Baulkham Hills and Hawkesbury,3,QLD,In a significant urban area,Inner regional,0,10263
+9874503660,51,1996,2024,F,504,Launceston and North East,1,NSW,In a significant urban area,"",0,80141
+2578976757,40,1971,2023,F,318,Perth - South East,2,VIC,In a significant urban area,Major city,1,28618
+6976768137,62,1987,2021,M,503,Toowoomba,5,VIC,In a significant urban area,"",0,163435
+8065260330,49,1968,2023,M,111,Sydney - City and Inner South,2,TAS,Not in a significant urban area,Major city,0,107906
+8225560557,63,1984,2024,F,404,Sydney - Inner South West,1,NSW,In a significant urban area,Major city,0,48470
+5177775014,25,1978,2024,M,121,Gold Coast,1,VIC,In a significant urban area,Major city,1,42255
+1609143210,40,1977,2022,F,206,Perth - South West,1,VIC,In a significant urban area,Very remote area,0,0
+2388233178,62,1982,2026,F,205,Sunshine Coast,1,NSW,"",Major city,0,408729
+1867671957,71,1973,2022,M,205,Sydney - Inner South West,2,WA,"",Major city,0,109087
+7396229919,31,2002,2025,M,117,Sydney - North Sydney and Hornsby,5,NSW,In a significant urban area,Outer regional,0,17226
+5248897617,71,1973,2024,M,213,Coffs Harbour - Grafton,1,VIC,In a significant urban area,Major city,0,110885
+5920478210,30,1974,2027,F,401,Queensland - Outback,1,WA,In a significant urban area,Major city,2,96553
+1656750547,62,1993,2024,M,506,Melbourne - Inner,4,NSW,In a significant urban area,Major city,0,2350
+4081419739,60,1988,2025,M,403,Mackay - Isaac - Whitsunday,2,QLD,In a significant urban area,Inner regional,2,0
+2366702165,30,1993,2025,F,212,Ballarat,3,QLD,"",Major city,3,57435
+9893745590,66,1995,2025,M,118,Melbourne - Inner,2,NSW,In a significant urban area,Outer regional,2,0
+9319158339,36,1992,2026,M,402,Melbourne - North West,5,NSW,In a significant urban area,Major city,0,171030
+2953909039,47,1965,2023,M,506,Richmond - Tweed,1,QLD,In a significant urban area,Major city,0,76337
+2186864740,76,1965,2024,F,314,Geelong,5,TAS,Not in a significant urban area,Major city,0,135836
+7712239072,39,1981,2022,M,125,Perth - North East,2,QLD,In a significant urban area,Major city,0,46471
+4345969890,39,1958,2023,F,107,Bendigo,2,VIC,In a significant urban area,"",0,96775
+9593784369,49,1966,2024,M,103,Sunshine Coast,3,VIC,In a significant urban area,Major city,1,32901
+9713615267,39,1986,2026,M,309,South East,1,NSW,In a significant urban area,Major city,0,62473
+6462791832,79,1979,2025,M,205,"",2,VIC,In a significant urban area,Major city,0,133916
+3855748621,35,1952,2022,F,211,Hume,1,QLD,Not in a significant urban area,Major city,2,0
+1624975551,21,1964,2022,M,801,Perth - North West,5,WA,In a significant urban area,Outer regional,0,180413
+9564643529,40,2000,2023,F,214,Ballarat,3,QLD,In a significant urban area,Major city,0,21442
+9476374223,55,1972,2024,M,208,Melbourne - West,2,VIC,In a significant urban area,Major city,0,48490
+2398949099,19,1962,2022,M,110,Sydney - North Sydney and Hornsby,1,WA,Not in a significant urban area,Outer regional,2,79784
+6059798898,42,1958,2024,F,314,Melbourne - West,3,WA,In a significant urban area,Major city,2,103956
+8522334785,58,1973,2025,M,213,Wide Bay,3,WA,"",Major city,2,20051
+4921900741,25,1975,2024,F,209,Sydney - Inner South West,3,VIC,In a significant urban area,Major city,0,80109
+4166420898,63,1979,2022,M,212,Brisbane - North,1,NSW,In a significant urban area,Major city,0,52760
+1293608364,37,1992,2026,M,701,Australian Capital Territory,2,VIC,Not in a significant urban area,Inner regional,0,0
+9886359089,26,1980,2023,F,602,Brisbane - East,1,WA,In a significant urban area,Major city,2,57600
+5669353467,57,1966,2026,F,104,Brisbane - West,1,NSW,In a significant urban area,Outer regional,1,44905
+7267796101,37,2002,2022,M,127,Melbourne - South East,1,NSW,In a significant urban area,"",1,92654
+5216708678,31,1988,2023,F,404,Sydney - Outer West and Blue Mountains,1,WA,"",Major city,0,24862
+5924153319,29,1994,2021,F,402,Brisbane - East,1,NSW,"","",0,30156
+5803600576,28,1988,2024,F,309,Adelaide - West,2,VIC,In a significant urban area,Major city,1,19226
+9601171757,61,1976,2021,F,209,Adelaide - North,2,NSW,Not in a significant urban area,Major city,0,10738
+1517981059,20,1980,2026,F,801,Gold Coast,2,VIC,Not in a significant urban area,Inner regional,0,116156
+1399623648,46,1998,2025,F,203,Melbourne - Inner,1,VIC,"",Major city,0,16408
+9694693290,49,1967,2022,M,303,"",3,WA,In a significant urban area,"",0,52944
+7955163777,35,1984,2023,F,211,Melbourne - Inner,3,QLD,In a significant urban area,Remote area,1,195356
+6560141018,31,1973,2026,F,122,Gold Coast,1,NSW,Not in a significant urban area,"",1,2090
+5878856358,41,1955,2026,M,310,Newcastle and Lake Macquarie,2,VIC,In a significant urban area,Major city,3,1357
+2531063120,48,1990,2026,F,505,Sydney - Outer South West,2,WA,In a significant urban area,Major city,0,45102
+7248601268,76,1941,2025,M,116,Melbourne - North West,4,SA,In a significant urban area,Major city,0,48834
+7109121425,58,1992,2027,M,102,Launceston and North East,1,QLD,"",Major city,0,20826
+5467662703,26,1996,2023,M,209,Launceston and North East,3,NSW,In a significant urban area,Major city,2,83803
+5755125289,43,1972,2025,F,121,Melbourne - West,2,QLD,In a significant urban area,Major city,0,0
+9141808765,41,1966,2022,M,505,Sydney - Inner West,4,NSW,In a significant urban area,Major city,1,76563
+9112063001,21,1976,2022,F,316,Sydney - Inner West,1,NSW,In a significant urban area,Major city,0,32197
+1313160593,34,1971,2023,M,602,Moreton Bay - North,1,NSW,In a significant urban area,Major city,1,15619
+9387212748,29,1984,2022,F,302,Melbourne - Inner East,2,NSW,In a significant urban area,Inner regional,4,55656
+7007338603,28,1990,2025,F,112,Mornington Peninsula,2,QLD,In a significant urban area,"",0,0
+7178260103,24,1968,2024,M,313,Brisbane - South,1,VIC,In a significant urban area,Major city,0,0
+8492453488,59,1967,2024,M,107,Perth - North East,2,WA,In a significant urban area,Remote area,0,0
+1728920954,43,1959,2022,M,124,Melbourne - Outer East,3,QLD,In a significant urban area,"",2,44978
+1622543932,48,1975,2022,F,319,Sydney - Inner West,3,TAS,In a significant urban area,Inner regional,0,12198
+1263130820,26,1966,2024,F,203,Adelaide - North,2,WA,In a significant urban area,Inner regional,0,49309
+8478465078,75,1980,2025,F,404,Sydney - City and Inner South,1,NSW,In a significant urban area,Outer regional,2,32920
+1442176339,34,1981,2026,M,116,Melbourne - South East,1,VIC,Not in a significant urban area,"",1,85678
+8214474323,30,1960,2025,F,405,Sydney - South West,2,VIC,In a significant urban area,"",0,152580
+5834130641,74,1960,2023,F,505,Sydney - Inner West,3,NSW,In a significant urban area,Major city,0,15769
+4745697603,24,1976,2026,F,801,Richmond - Tweed,3,VIC,In a significant urban area,Major city,0,3898
+7659650128,32,1996,2023,M,212,Sunshine Coast,3,WA,In a significant urban area,Outer regional,2,0
+4251214422,46,1990,2025,F,314,Perth - Inner,6,TAS,In a significant urban area,Major city,2,52323
+1462123657,39,2005,2022,M,124,Sydney - Eastern Suburbs,3,SA,In a significant urban area,Major city,2,36248
+3316157547,57,1980,2021,F,122,Logan - Beaudesert,4,ACT,In a significant urban area,Major city,1,67112
+5641493800,56,1948,2026,M,316,Darling Downs - Maranoa,1,NSW,In a significant urban area,"",2,46312
+9424328858,46,1975,2021,M,601,Perth - North West,6,VIC,In a significant urban area,Inner regional,0,68922
+5657140730,34,1997,2022,M,309,North West,3,NSW,In a significant urban area,Inner regional,1,22857
+4583475314,52,1995,2021,F,307,Melbourne - Inner South,6,VIC,In a significant urban area,Major city,2,59867
+4553203835,19,1993,2027,F,402,Sydney - North Sydney and Hornsby,3,QLD,In a significant urban area,Major city,2,103706
+5032809272,36,1971,2023,M,305,Sydney - Outer South West,5,VIC,In a significant urban area,Major city,3,0
+8076012718,29,1982,2024,F,801,Central Coast,2,QLD,In a significant urban area,Inner regional,2,0
+4879784295,33,1963,2026,F,102,Hunter Valley exc Newcastle,1,QLD,In a significant urban area,Major city,2,118031
+1041594047,32,1969,2024,F,210,Melbourne - West,3,SA,In a significant urban area,Inner regional,0,0
+8349507049,42,1985,2020,F,402,Gold Coast,1,QLD,In a significant urban area,Outer regional,3,21175
+9679099715,43,1970,2023,M,120,Adelaide - West,1,WA,In a significant urban area,Outer regional,2,0
+1273399696,68,1972,2022,M,507,Geelong,1,WA,In a significant urban area,"",3,128878
+8409781549,41,1994,2026,M,306,Perth - North West,2,VIC,"",Major city,0,120178
+8391652388,25,1968,2025,F,311,Cairns,4,NT,In a significant urban area,Major city,0,86368
+8836120802,56,1985,2022,M,107,New England and North West,1,QLD,In a significant urban area,Major city,0,0
+6796922148,68,1987,2025,M,207,Melbourne - South East,1,VIC,In a significant urban area,Major city,1,115722
+6036059642,40,1954,2025,F,312,Perth - South West,1,NSW,In a significant urban area,Major city,2,32334
+5763379464,34,1959,2023,M,501,Perth - Inner,1,VIC,"",Major city,0,33409
+6174049987,31,1966,2025,F,305,Adelaide - West,3,VIC,In a significant urban area,Outer regional,0,0
+1754378505,34,1980,2023,F,203,Sydney - Sutherland,3,QLD,"",Major city,2,20480
+5143235701,20,1971,2026,F,120,Melbourne - Inner South,3,QLD,In a significant urban area,Outer regional,0,96026
+1299974732,37,1985,2022,M,701,Melbourne - North East,3,QLD,In a significant urban area,Major city,0,4124
+4192876717,54,1984,2025,M,209,Sydney - Outer West and Blue Mountains,2,VIC,Not in a significant urban area,Inner regional,2,94012
+8301310127,22,1989,2025,M,215,Cairns,5,SA,Not in a significant urban area,"",4,101259
+3875422958,47,1972,2026,F,206,Logan - Beaudesert,5,WA,In a significant urban area,Major city,0,90256
+2351541932,82,2004,2023,F,125,Sydney - Inner West,3,QLD,In a significant urban area,Inner regional,0,0
+6684436352,28,1984,2023,F,206,Melbourne - Outer East,2,QLD,In a significant urban area,Inner regional,0,24375
+5516319033,22,1959,2026,M,403,Perth - South West,2,VIC,In a significant urban area,Major city,3,192048
+4235899898,29,1974,2023,M,128,Moreton Bay - South,3,NSW,In a significant urban area,Major city,2,44345
+2556794359,36,1990,2025,F,405,North West,1,WA,Not in a significant urban area,Major city,0,67432
+2338562722,47,1968,2026,F,317,Sunshine Coast,2,NSW,In a significant urban area,Major city,0,50539
+1164021436,39,1991,2023,F,801,Newcastle and Lake Macquarie,3,NSW,In a significant urban area,Major city,0,48004
+5573465048,47,1981,2025,M,101,Melbourne - South East,1,QLD,In a significant urban area,Major city,0,68325
+4653636937,26,1944,2025,M,404,Melbourne - Inner,2,ACT,In a significant urban area,Major city,0,114682
+3357433449,63,1937,2021,M,116,Sydney - Northern Beaches,2,WA,"",Major city,4,62174
+5748805117,63,1978,2023,F,303,Sydney - Sutherland,3,NSW,In a significant urban area,"",0,115147
+1825521179,57,1999,2025,F,206,Mornington Peninsula,1,QLD,In a significant urban area,Major city,0,0
+7664240468,75,1985,2025,F,311,Australian Capital Territory,1,VIC,In a significant urban area,Major city,0,80443
+8755202910,50,1990,2025,F,401,Warrnambool and South West,1,SA,In a significant urban area,"",0,135046
+3553496386,57,1984,2022,M,201,Perth - North West,1,VIC,In a significant urban area,Major city,0,38082
+5475225529,63,2000,2026,M,116,Melbourne - Inner,2,NSW,Not in a significant urban area,Major city,0,55334
+7514193819,14,1948,2025,M,210,Warrnambool and South West,2,VIC,In a significant urban area,Major city,2,29694
+9797213134,64,1996,2022,F,308,Mornington Peninsula,3,WA,"",Major city,4,310331
+1657043482,70,1990,2026,M,507,Sydney - Parramatta,3,NSW,Not in a significant urban area,Major city,0,12696
+8805428519,26,1968,2026,F,205,Sydney - Inner South West,3,NSW,In a significant urban area,Inner regional,0,0
+7158783869,55,1987,2025,M,111,Newcastle and Lake Macquarie,1,NSW,In a significant urban area,Major city,2,26686
+3685392113,61,1972,2023,M,210,Melbourne - Inner,4,WA,In a significant urban area,Outer regional,0,116317
+3313325205,48,2001,2022,M,405,Townsville,1,NSW,In a significant urban area,Major city,2,341507
+5639223566,72,1967,2025,F,102,Melbourne - North East,3,VIC,Not in a significant urban area,"",0,151972
+1317595117,59,1969,2023,M,102,Sydney - City and Inner South,1,NSW,In a significant urban area,Major city,0,4819
+5155282899,40,1946,2022,F,403,Gold Coast,4,ACT,In a significant urban area,Inner regional,0,130643
+6382967669,43,1974,2023,M,401,"",4,NSW,In a significant urban area,"",1,0
+8210304082,82,1997,2022,F,702,Australian Capital Territory,5,VIC,In a significant urban area,Major city,0,120757
+1198765298,66,1950,2026,F,801,Melbourne - Inner,3,NSW,"",Major city,2,100711
+8047073196,47,1973,2025,F,508,Shepparton,6,WA,In a significant urban area,Outer regional,0,53657
+8544961562,74,1978,2026,M,308,Gold Coast,3,NSW,In a significant urban area,Major city,0,110544
+7926251276,67,1951,2024,M,310,Sydney - Parramatta,1,QLD,In a significant urban area,Major city,1,39587
+7403130397,36,1988,2021,F,113,Melbourne - Inner,2,QLD,In a significant urban area,Major city,2,111537
+2009739441,47,1971,2026,F,602,Melbourne - South East,1,WA,In a significant urban area,Outer regional,0,84540
+1481649333,47,1956,2026,F,603,Geelong,2,NSW,In a significant urban area,Major city,0,87856
+8540337337,42,1958,2023,M,319,Melbourne - North East,1,VIC,In a significant urban area,Outer regional,0,5677
+1762164004,36,1961,2021,F,214,Adelaide - Central and Hills,2,NT,In a significant urban area,Remote area,3,43350
+8084825396,31,1991,2025,F,206,Sydney - North Sydney and Hornsby,2,SA,In a significant urban area,Major city,0,28533
+9226913129,59,1961,2024,M,119,Melbourne - Inner,4,NSW,In a significant urban area,Outer regional,2,5676
+5035587574,58,1981,2025,M,124,Melbourne - West,3,NSW,In a significant urban area,Remote area,1,122421
+1115189885,52,1986,2024,F,602,New England and North West,4,NSW,In a significant urban area,Outer regional,1,27527
+9366263801,45,1993,2024,M,125,Melbourne - Inner East,1,NSW,In a significant urban area,Major city,1,477880
+9891479090,43,1972,2025,M,211,Townsville,2,NSW,In a significant urban area,Major city,2,46367
+7412521264,28,1964,2026,F,102,Mackay - Isaac - Whitsunday,1,ACT,In a significant urban area,"",0,100351
+2970815102,48,1969,2025,F,511,Sydney - Baulkham Hills and Hawkesbury,3,NSW,In a significant urban area,Inner regional,0,83068
+6775507539,38,1990,2024,M,207,Riverina,2,QLD,In a significant urban area,"",3,217478
+6206456266,72,1985,2024,M,402,Sunshine Coast,5,VIC,In a significant urban area,Inner regional,0,145420
+3401028762,49,1979,2027,F,119,Perth - South East,5,NSW,In a significant urban area,Inner regional,0,38844
+1428950614,45,2002,2022,F,313,Sunshine Coast,1,VIC,In a significant urban area,Major city,0,83156
+2464387464,81,1995,2022,M,211,Latrobe - Gippsland,1,WA,Not in a significant urban area,Major city,0,61806
+3724068948,36,1987,2026,M,111,Sydney - Inner South West,8,WA,In a significant urban area,Inner regional,1,0
+4510039525,30,1995,2025,F,209,Australian Capital Territory,3,NSW,In a significant urban area,Outer regional,0,45074
+9618132809,81,1965,2024,F,316,Ipswich,2,NSW,Not in a significant urban area,Major city,0,85524
+6320374092,38,1979,2023,F,116,Sydney - Blacktown,5,SA,In a significant urban area,Major city,0,13578
+9832127047,51,1994,2023,M,311,Sydney - Eastern Suburbs,3,SA,"",Major city,1,87342
+4775966767,49,1991,2023,"",801,Adelaide - West,1,NSW,Not in a significant urban area,Inner regional,0,24586
+7209661375,48,1992,2023,M,308,Sydney - Parramatta,1,NSW,In a significant urban area,Major city,0,76333
+1008611063,79,1994,2025,M,302,Toowoomba,5,VIC,In a significant urban area,Remote area,1,115217
+7013834516,62,1984,2025,F,210,Sydney - Outer South West,1,VIC,In a significant urban area,Inner regional,0,1702
+9684382102,71,1990,2023,F,303,Gold Coast,1,SA,In a significant urban area,Major city,1,136523
+5649410463,27,1972,2023,F,121,Adelaide - North,1,NSW,In a significant urban area,Major city,1,0
+5895551745,49,1967,2024,M,119,Darwin,1,NSW,In a significant urban area,"",0,0
+2625484693,19,1956,2025,F,211,Perth - North East,2,NSW,"",Major city,0,160387
+4814346389,35,1964,2023,F,125,Melbourne - West,1,NSW,In a significant urban area,"",0,18033
+9628727012,24,1954,2025,M,304,Sydney - Inner West,2,VIC,In a significant urban area,Major city,1,16000
+1826032393,62,1999,2025,M,501,Sydney - Baulkham Hills and Hawkesbury,1,WA,In a significant urban area,Major city,0,56737
+9654484811,75,1987,2022,F,121,Sydney - City and Inner South,2,VIC,Not in a significant urban area,Major city,2,56313
+6467194151,52,1963,2024,M,801,Australian Capital Territory,1,QLD,In a significant urban area,Major city,0,0
+3650132073,51,1957,2026,F,213,Sydney - North Sydney and Hornsby,6,NSW,In a significant urban area,Inner regional,0,101025
+4510022953,46,1958,2026,M,309,Melbourne - North West,2,VIC,In a significant urban area,Major city,2,85593
+2632941583,50,1984,2024,M,210,Melbourne - South East,5,QLD,Not in a significant urban area,"",0,181382
+2314344427,38,1999,2026,F,211,Mornington Peninsula,2,QLD,Not in a significant urban area,Major city,1,12776
+7934356691,62,1961,2024,F,510,Adelaide - North,1,QLD,In a significant urban area,"",0,69060
+4438336168,69,1984,2026,F,113,Sydney - South West,3,QLD,Not in a significant urban area,Major city,0,85043
+4137307211,33,1971,2024,M,505,Melbourne - Inner South,3,VIC,"",Inner regional,1,65030
+4910898855,23,1970,2026,F,601,South Australia - South East,3,QLD,In a significant urban area,Major city,1,55542
+6555985482,34,1994,2024,F,111,Central West,3,WA,In a significant urban area,Inner regional,0,44084
+1441991629,49,1956,2023,M,116,Hume,5,ACT,In a significant urban area,Major city,0,47392
+1984710244,49,1949,2021,F,401,Moreton Bay - North,2,NSW,In a significant urban area,Outer regional,0,102510
+3630117907,42,1989,2021,F,307,Capital Region,2,SA,In a significant urban area,Inner regional,0,47981
+9461363929,32,1981,2023,M,210,Sydney - Northern Beaches,3,NSW,In a significant urban area,"",2,8206
+7543751346,56,2003,2022,M,306,Central West,3,QLD,"",Inner regional,0,99130
+6232008111,48,1982,2023,F,206,Perth - South East,3,VIC,In a significant urban area,Very remote area,0,29972
+7198887294,68,1980,2023,M,506,Sydney - Parramatta,1,WA,In a significant urban area,Outer regional,0,28516
+4794956104,28,1953,2024,F,117,Melbourne - West,3,QLD,In a significant urban area,Major city,2,42957
+3194642616,67,1954,2025,M,313,Brisbane - East,1,QLD,Not in a significant urban area,Inner regional,0,93192
+5684499852,36,1952,2026,F,107,Brisbane - West,3,QLD,In a significant urban area,Major city,0,49983
+7206540351,52,1982,2024,M,212,Richmond - Tweed,1,NSW,In a significant urban area,Major city,0,69652
+7822444132,31,1953,2023,F,215,Brisbane - West,5,WA,"",Major city,0,0
+5822728183,41,1964,2023,M,120,Melbourne - Inner,2,QLD,In a significant urban area,Inner regional,0,199603
+3748934176,62,1982,2022,F,112,Sydney - South West,3,SA,In a significant urban area,Major city,0,57494
+3480391891,75,1975,2025,F,211,Sydney - Eastern Suburbs,2,NSW,In a significant urban area,Major city,0,15497
+6841569037,47,2001,2025,F,208,Brisbane Inner City,1,NSW,Not in a significant urban area,Major city,1,120024
+6983898550,52,1961,2025,F,101,Illawarra,6,NSW,"",Outer regional,0,8186
+8143129779,31,1978,2025,M,801,Logan - Beaudesert,2,"",In a significant urban area,Major city,1,14820
+4012117997,25,1967,2024,F,107,Brisbane - North,1,NSW,In a significant urban area,Major city,1,28761
+3388596632,39,1992,2024,M,119,Sydney - South West,1,SA,In a significant urban area,Major city,0,46774
+3328406060,33,1977,2024,F,212,Adelaide - North,1,WA,In a significant urban area,Major city,0,100739
+8808979712,21,1979,2024,M,602,Sydney - Outer West and Blue Mountains,3,NSW,In a significant urban area,Major city,0,65045
+5259108895,27,2004,2024,F,214,Adelaide - Central and Hills,2,QLD,Not in a significant urban area,Major city,0,11166
+8647427434,29,1993,2022,F,505,Illawarra,8,WA,In a significant urban area,"",0,32871
+1531549800,49,1988,2025,M,112,Sydney - Baulkham Hills and Hawkesbury,3,VIC,In a significant urban area,Major city,0,94169
+7149917817,47,1997,2025,F,505,Melbourne - Inner,5,ACT,In a significant urban area,Remote area,0,74005
+7857205539,38,1986,2022,F,302,Adelaide - North,1,WA,In a significant urban area,Major city,3,55628
+8175965832,43,1966,2025,F,121,Perth - South West,2,NSW,Not in a significant urban area,Major city,1,1604
+1035115275,26,1996,2023,F,108,Sydney - North Sydney and Hornsby,7,QLD,"","",0,58676
+2384907959,61,1990,2022,F,203,Gold Coast,1,ACT,In a significant urban area,Major city,0,35254
+2138080134,31,1999,2025,M,210,Melbourne - North West,5,NSW,In a significant urban area,"",0,49140
+3429246522,34,1979,2026,M,106,Bunbury,1,WA,In a significant urban area,Major city,0,0
+9555051300,50,1995,2026,M,507,Far West and Orana,1,VIC,In a significant urban area,Major city,0,0
+3121033135,74,1987,2024,M,212,Adelaide - South,1,NSW,In a significant urban area,Inner regional,2,440
+3937621553,56,1987,2024,M,304,Melbourne - West,1,WA,In a significant urban area,Major city,0,11174
+9450953065,23,1977,2027,M,203,Melbourne - North East,2,TAS,"",Major city,0,50740
+2850978408,47,1999,2022,M,301,Cairns,1,VIC,In a significant urban area,Major city,0,0
+2817673216,59,1961,2023,M,301,Melbourne - Inner East,3,SA,In a significant urban area,Major city,0,80666
+2242067775,44,1985,2026,M,312,Sydney - Ryde,8,WA,Not in a significant urban area,Inner regional,0,61319
+2150549836,46,1982,2026,M,309,Brisbane - West,1,NT,Not in a significant urban area,Major city,0,0
+6052752619,70,1980,2026,M,208,Brisbane Inner City,1,VIC,In a significant urban area,Major city,0,113096
+2042453195,34,1979,2025,M,127,"",1,VIC,Not in a significant urban area,"",0,34541
+8666182792,59,1974,2023,M,311,Australian Capital Territory,1,NSW,In a significant urban area,Major city,0,151906
+7701810905,30,1999,2022,M,127,Perth - South West,7,VIC,In a significant urban area,"",0,68344
+8444720756,65,1956,2026,M,203,Australian Capital Territory,1,VIC,In a significant urban area,Major city,4,43909
+6777803510,27,1975,2026,M,209,Sydney - City and Inner South,1,VIC,In a significant urban area,Major city,1,203581
+7024429243,30,1982,2023,F,210,Melbourne - North West,3,NT,Not in a significant urban area,Major city,2,0
+7291064319,38,1959,2026,M,127,Western Australia - Outback (South),5,QLD,Not in a significant urban area,"",0,39541
+7659321003,33,1964,2026,M,511,Sunshine Coast,1,NSW,"",Major city,0,33475
+6733143291,20,1952,2025,F,111,Launceston and North East,2,WA,In a significant urban area,"",0,85419
+6536487629,41,1996,2026,M,215,Melbourne - West,1,NSW,In a significant urban area,Outer regional,0,72048
+1171341410,41,1996,2024,F,505,Sydney - Outer West and Blue Mountains,2,QLD,In a significant urban area,Inner regional,2,49473
+4665286910,54,1985,2025,F,404,Adelaide - North,1,VIC,In a significant urban area,Inner regional,0,25101
+9145343609,62,1979,2021,F,506,Wide Bay,2,SA,In a significant urban area,Major city,0,78566
+4837235969,33,1970,2026,M,216,Hobart,6,SA,In a significant urban area,Inner regional,0,96719
+5763696030,62,1979,2023,F,110,Sydney - Inner South West,2,VIC,In a significant urban area,Major city,0,73370
+3669212314,39,1976,2025,M,102,Adelaide - Central and Hills,3,NSW,In a significant urban area,Outer regional,2,0
+2207691321,29,1982,2026,F,208,Western Australia - Outback (North),5,NSW,In a significant urban area,Major city,3,0
+9500006024,24,1971,2026,F,504,Ipswich,3,VIC,Not in a significant urban area,"",4,87985
+2626447486,43,1994,2020,M,206,Sydney - Parramatta,2,VIC,Not in a significant urban area,Major city,0,107904
+5655925648,43,1955,2023,F,116,Brisbane - South,3,NSW,Not in a significant urban area,Major city,3,28113
+2071182860,26,1947,2024,M,503,Brisbane Inner City,1,VIC,In a significant urban area,Major city,0,9909
+2287633618,36,1974,2022,F,317,Latrobe - Gippsland,1,WA,In a significant urban area,Major city,0,18962
+2756161700,57,1993,2024,F,316,"",1,VIC,In a significant urban area,Major city,0,57498
+3468313688,34,1959,2025,M,125,Sydney - North Sydney and Hornsby,3,VIC,In a significant urban area,Major city,0,87499
+7807388399,49,1946,2024,F,209,Brisbane - South,1,VIC,In a significant urban area,Major city,0,55898
+5355403847,56,1965,2027,F,207,Capital Region,2,NSW,In a significant urban area,Major city,0,61982
+5963160542,47,1982,2023,M,305,Toowoomba,1,QLD,In a significant urban area,Major city,0,298967
+9598870441,32,1998,2023,F,507,Sydney - Inner South West,1,VIC,"",Major city,2,56438
+9798596809,53,2001,2022,F,314,Melbourne - Inner East,1,NSW,In a significant urban area,Major city,1,0
+6180901749,45,1995,2025,M,209,Brisbane - East,1,VIC,In a significant urban area,Major city,1,148
+2813733568,27,1950,2023,M,212,Capital Region,2,QLD,In a significant urban area,Major city,0,57637
+2436725216,37,1986,2021,F,101,Australian Capital Territory,1,QLD,In a significant urban area,Outer regional,0,53663
+4918799838,40,1957,2024,F,602,Newcastle and Lake Macquarie,1,"",In a significant urban area,Inner regional,0,0
+8802636881,61,1972,2025,F,207,"",4,QLD,In a significant urban area,Major city,0,0
+5282056457,45,1935,2024,M,207,Melbourne - North East,1,VIC,In a significant urban area,Major city,1,120060
+9982757104,14,1991,2024,M,204,Moreton Bay - North,1,QLD,In a significant urban area,Major city,2,21532
+4146692905,48,1961,2021,M,303,Gold Coast,2,NSW,In a significant urban area,Major city,0,
+1517781937,60,1992,2026,F,503,Melbourne - Inner East,5,NSW,In a significant urban area,Major city,0,75694
+7072936305,45,1945,2024,F,501,Perth - South West,1,WA,In a significant urban area,Major city,0,0
+3363272764,23,1976,2026,F,217,Sydney - Sutherland,4,VIC,In a significant urban area,Major city,4,96414
+7575301437,22,1977,2023,M,303,Newcastle and Lake Macquarie,1,VIC,"",Major city,0,71874
+3374029814,47,1996,2026,M,209,Coffs Harbour - Grafton,5,ACT,In a significant urban area,Outer regional,0,25113
+1046806900,31,1994,2026,F,303,Brisbane - South,1,WA,In a significant urban area,Inner regional,0,72964
+3246607360,29,1972,2026,M,301,Melbourne - West,1,NSW,In a significant urban area,Major city,0,0
+7327181364,33,1976,2026,M,115,Central Coast,5,SA,In a significant urban area,Major city,1,0
+8187823326,72,1965,2025,M,506,Melbourne - Outer East,2,QLD,Not in a significant urban area,Major city,0,100403
+5038659206,33,1999,2023,M,110,Melbourne - West,1,NSW,In a significant urban area,Major city,0,115161
+4289923204,22,2002,2026,M,308,Hunter Valley exc Newcastle,2,VIC,In a significant urban area,Major city,3,42635
+4745781449,51,1943,2023,M,319,Australian Capital Territory,1,SA,In a significant urban area,Major city,0,33001
+6436279226,69,1991,2025,M,305,Mid North Coast,5,QLD,In a significant urban area,Inner regional,0,114497
+1711588858,69,1962,2026,M,216,Sydney - North Sydney and Hornsby,3,NSW,Not in a significant urban area,Major city,0,41215
+6963544888,23,1964,2023,F,124,Sydney - Baulkham Hills and Hawkesbury,2,NSW,"",Major city,0,53628
+1584247198,41,1995,2025,M,125,Sydney - Inner South West,2,VIC,In a significant urban area,Inner regional,0,35770
+1302669349,59,1988,2025,F,213,Sydney - South West,1,VIC,Not in a significant urban area,"",0,54277
+7159677241,30,1974,2022,M,124,Geelong,3,NSW,In a significant urban area,Major city,0,55074
+2179492173,21,1960,2027,M,102,Wide Bay,1,NSW,"",Major city,0,28977
+9419862334,26,1971,2025,F,301,Brisbane - West,1,QLD,In a significant urban area,Outer regional,0,58096
+5013018800,42,1966,2022,M,303,Sydney - Sutherland,1,QLD,In a significant urban area,Major city,0,71707
+4279638819,22,1995,2025,F,125,Barossa - Yorke - Mid North,2,VIC,In a significant urban area,Major city,0,54320
+1340149542,70,1957,2023,F,110,Sydney - South West,1,SA,Not in a significant urban area,Major city,0,55555
+6625854230,51,2006,2024,M,602,Adelaide - North,1,NSW,In a significant urban area,Major city,0,27962
+1220605494,56,1984,2026,F,801,Melbourne - Inner,2,VIC,In a significant urban area,Inner regional,1,4297
+7770961589,19,1965,2022,F,210,South Australia - South East,2,SA,In a significant urban area,Major city,1,38123
+4585052260,32,1951,2025,F,309,Perth - South East,1,SA,In a significant urban area,Major city,1,0
+9652573379,54,1982,2026,M,405,Mid North Coast,1,QLD,In a significant urban area,Major city,0,110307
+8871953838,42,1995,2022,M,103,Sydney - Inner West,1,SA,In a significant urban area,Inner regional,2,9372
+1276886867,55,1961,2022,M,107,Melbourne - South East,1,VIC,In a significant urban area,Major city,0,36446
+2487983494,37,1996,2024,M,510,Perth - South West,3,NSW,In a significant urban area,"",3,68538
+9604600279,62,1960,2026,F,217,Geelong,3,QLD,In a significant urban area,Inner regional,0,60223
+5477495391,18,1998,2023,M,211,Sydney - Parramatta,2,NSW,Not in a significant urban area,Major city,2,0
+8530929074,78,1972,2023,M,303,Far West and Orana,3,WA,In a significant urban area,Major city,0,173709
+1927387458,38,1976,2025,F,504,Sydney - Blacktown,1,NSW,In a significant urban area,Major city,0,62693
+3982596519,43,1956,2023,F,215,Adelaide - West,1,VIC,In a significant urban area,Major city,2,0
+6434350334,41,1956,2023,F,211,Melbourne - South East,1,WA,Not in a significant urban area,"",0,0
+5751919576,70,1992,2022,F,801,New England and North West,5,NSW,In a significant urban area,Major city,0,29733
+6276598632,39,1986,2021,F,601,Perth - Inner,2,VIC,In a significant urban area,Inner regional,0,43983
+9876078022,46,1979,2025,M,701,Melbourne - North East,2,VIC,In a significant urban area,Inner regional,0,64779
+7954270261,40,1966,2021,M,801,Perth - Inner,3,VIC,In a significant urban area,Major city,0,5711
+7938648005,35,1985,2022,F,121,Sydney - Northern Beaches,2,NSW,In a significant urban area,Inner regional,0,0
+6097388502,50,1937,2024,F,309,Perth - North West,1,NSW,"",Major city,0,0
+1012403061,33,1967,2025,M,210,Townsville,5,NSW,In a significant urban area,Inner regional,1,176860

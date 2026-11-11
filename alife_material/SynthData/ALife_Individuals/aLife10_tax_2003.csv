@@ -1,0 +1,1140 @@
+alife_id_001,c_age_30_june,c_birth_fy,c_death_fy,c_gender,c_sa4_id,c_sa4_name,c_state_id,c_state,c_significant_urban,c_remoteness_area,c_anzsco,c_depend_child,c_lodgement_type,c_occupation,c_preparer_type,c_primary_earner,c_resident,i_adjustment,i_allowances,i_annuities,i_div_frank,i_div_unfrank,i_frank_cr,i_gov_payments,i_gov_pension,i_interest,i_salary_wage,ic_taxable_income_loss,ic_total_income_loss,is_bus_npp,is_bus_pp,is_cg_net,is_net_rent,tc_balance_assessed,tc_gross_tax
+5459644760,30,1968,2016,F,118,Melbourne - Inner,2,QLD,In a significant urban area,Outer regional,63,0,PPR,83,A,"",Y,0,390,0,0,238,0,3870,0,0,68048,31826,26775,0,0,0,0,-1462,2318
+1340149542,52,1947,2021,M,801,Perth - South West,3,QLD,In a significant urban area,Major city,83,0,ELS,53,S,"",Y,0,0,0,0,389,0,0,0,15,45308,37313,10777,0,0,0,0,-153,5557
+2366702165,28,1972,2024,M,127,Latrobe - Gippsland,5,VIC,In a significant urban area,Major city,62,1,PPR,13,A,"",Y,0,54,0,0,0,0,0,0,0,13445,18510,556,0,0,0,0,574,7608
+2242067775,58,1974,2018,M,404,Melbourne - South East,3,QLD,In a significant urban area,Major city,73,0,PPR,74,A,"",Y,0,299,0,22394,396,0,258,0,0,32492,83958,77263,0,0,0,0,-499,3776
+3634192986,37,1966,2023,M,206,Gold Coast,1,NSW,In a significant urban area,Major city,74,0,ELS,45,A,"",Y,0,3,0,0,0,0,0,0,0,9236,50001,53801,0,0,0,907,-215,978
+8157336935,32,1966,2026,M,302,Sydney - Eastern Suburbs,1,VIC,In a significant urban area,"",22,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,37274,39043,9225,0,,0,0,-339,0
+7276390163,81,1985,2017,F,601,Adelaide - North,3,SA,In a significant urban area,"",25,1,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,1,20457,54792,22844,0,0,0,0,-202,5451
+9732023676,36,1944,2005,F,319,Perth - South West,2,QLD,Not in a significant urban area,Major city,83,2,PPR,53,A,Primary earner,Y,0,0,0,0,0,0,768,0,370,0,26436,2510,0,0,0,0,-2300,29776
+7315032095,23,1981,2022,M,305,Capital Region,1,VIC,"",Major city,12,0,ELS,21,A,Primary earner,Y,0,0,0,0,0,5842,2021,3724,0,32390,69980,22213,0,0,0,0,-828,10669
+5859325363,51,1963,2010,M,122,Melbourne - North East,3,NSW,In a significant urban area,Major city,32,2,ELS,89,A,"",Y,0,11055,0,37,0,0,0,0,7,34683,12932,17989,0,0,0,0,-650,18088
+2171639810,33,1937,2005,M,113,Sydney - Outer West and Blue Mountains,5,QLD,"","",83,0,ETAX,53,A,"",Y,0,0,9843,0,0,0,0,28,0,0,21140,23777,0,0,2,0,-250,36676
+3012902712,52,1967,2026,M,128,"",1,NSW,"","",39,4,ELS,51,A,Primary earner,Y,,0,0,1488,0,0,1110,0,4,42692,20567,165797,0,0,0,0,-401,10718
+1160123882,40,1973,2012,F,305,Sydney - North Sydney and Hornsby,1,NSW,In a significant urban area,"",25,0,ELS,35,A,"",Y,0,0,0,0,0,0,0,0,0,0,36377,5712,0,0,0,0,-1760,9371
+8576598264,19,1985,2014,F,211,Hume,3,QLD,In a significant urban area,Major city,73,2,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,594,9662,44543,0,0,0,0,187,1794
+9891479090,37,1952,2023,F,503,South Australia - South East,5,NT,In a significant urban area,Inner regional,53,0,ETAX,53,A,Primary earner,Y,0,0,0,0,0,134,0,0,0,26126,67742,11274,0,0,0,0,-1757,1089
+8923622290,31,1934,2018,M,118,Moreton Bay - South,2,VIC,In a significant urban area,"",25,0,ELS,34,S,Primary earner,Y,0,0,0,1189,0,0,0,0,0,23311,32449,25558,0,0,0,0,1107,9092
+4040865769,22,1973,2025,M,101,Geelong,5,NSW,In a significant urban area,"",24,0,ELS,35,S,"",Y,0,0,0,0,0,0,0,0,,95962,70394,1074,0,0,0,4586,-67,9179
+8210304082,27,1962,2010,F,116,"",5,QLD,"","",85,1,ELS,25,A,"",Y,0,0,15266,0,0,0,0,0,0,41464,2139,28086,90,,0,0,-648,3261
+3986569071,34,1959,2023,F,319,Brisbane - West,2,TAS,In a significant urban area,"",83,0,TELE,11,A,"",Y,0,0,0,1061,0,0,0,0,19,0,38796,30251,0,0,0,0,-542,8564
+7598529691,39,1933,2021,M,125,Sydney - North Sydney and Hornsby,4,QLD,"",Major city,45,2,PPR,84,S,Primary earner,Y,0,92,0,0,0,0,0,0,0,15266,72945,6462,0,0,0,0,-444,3923
+3452463676,20,1973,2014,M,319,Sydney - Outer West and Blue Mountains,1,QLD,Not in a significant urban area,"",22,2,PPR,85,S,Primary earner,Y,0,0,0,32,30,0,0,0,0,0,24704,5157,0,0,0,0,-701,16378
+7716230604,58,1972,2016,F,101,Sydney - Baulkham Hills and Hawkesbury,1,WA,"",Very remote area,55,0,ELS,42,S,Primary earner,Y,0,0,0,647,0,18,0,0,0,28262,23023,21001,0,0,0,0,-190,9637
+8345829186,31,1963,2022,F,602,"",1,NSW,In a significant urban area,Inner regional,23,3,ELS,34,A,"",Y,0,0,0,3703,0,0,0,0,0,0,14292,153,0,0,0,29,-2321,8130
+1416154235,53,1985,2017,M,120,Adelaide - South,4,NSW,In a significant urban area,Major city,33,2,ELS,55,A,"",Y,0,0,0,0,0,0,0,0,0,42024,11001,62298,0,0,0,0,1278,13387
+7682827370,59,1925,2024,M,210,Sydney - North Sydney and Hornsby,1,WA,In a significant urban area,Major city,62,3,ELS,25,A,Primary earner,Y,0,0,0,0,0,5,0,0,,0,45417,27090,0,0,0,0,-550,2107
+1863909916,32,1914,2019,F,121,Hobart,2,QLD,In a significant urban area,"",32,2,ELS,89,A,"",Y,0,0,0,0,0,693,3690,0,56,107368,46832,49899,0,0,0,0,-818,11661
+1135931198,40,1976,2021,F,122,Central Coast,1,NT,In a significant urban area,Major city,62,4,ELS,14,A,"",Y,0,0,0,0,0,560,0,0,12,49122,12629,39432,0,0,0,-429,-7,7473
+3400292783,89,1971,2015,F,306,Melbourne - South East,2,WA,In a significant urban area,Outer regional,1,0,ELS,83,S,"",Y,0,0,0,0,0,819,0,0,0,0,5128,11902,0,0,0,0,-7842,4957
+6072471490,16,1961,2026,M,308,"",1,WA,In a significant urban area,Major city,25,0,PPR,55,A,"",Y,0,0,0,0,0,3,0,0,0,20396,6603,9347,0,,0,0,-988,68162
+7935882778,48,1971,2012,M,211,Darwin,1,QLD,In a significant urban area,"",82,0,ELS,42,A,"",Y,0,0,0,0,0,1644,0,0,0,13524,4778,30687,0,0,0,0,-1876,1768
+4496989688,31,1972,2026,M,212,Sydney - Inner South West,5,QLD,In a significant urban area,Major city,1,2,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,11,3210,213996,10816,0,0,0,-3921,-760,3848
+1048445493,42,1985,2010,F,405,Adelaide - South,1,SA,Not in a significant urban area,Major city,13,2,ELS,24,A,Secondary earner,Y,0,0,0,0,0,61,0,0,0,35460,40388,28513,0,,0,13609,-7802,0
+5944756535,44,1949,2019,F,209,Hunter Valley exc Newcastle,1,VIC,In a significant urban area,"",39,0,PPR,53,A,"",Y,0,0,0,24,0,100,0,0,0,34243,14411,4153,0,0,0,0,-6254,0
+3014932762,47,1952,2023,F,403,Brisbane - West,3,NSW,"",Major city,35,2,ELS,52,A,Primary earner,Y,0,0,0,2298,0,0,0,0,0,0,47293,6858,0,0,0,0,-71,24414
+4391386327,53,1963,2013,M,301,Sydney - Inner South West,5,NSW,Not in a significant urban area,Inner regional,53,1,ELS,71,A,Primary earner,Y,0,0,0,,0,0,0,0,0,31108,55512,39745,0,0,0,0,-2419,8360
+9208971002,51,1959,2021,M,216,Adelaide - West,1,VIC,In a significant urban area,Major city,42,0,ELS,42,A,"",Y,0,0,0,0,0,639,0,0,0,66510,30552,47333,0,0,0,0,-717,4819
+1564964914,22,1970,2011,M,212,Hunter Valley exc Newcastle,1,NSW,In a significant urban area,Inner regional,39,0,ELS,55,S,"",Y,0,312,0,1479,0,0,2662,0,0,186,22365,38195,0,0,0,0,-1153,16326
+7309882919,55,1944,2018,F,502,Melbourne - Inner East,3,NSW,In a significant urban area,"",25,0,ELS,52,A,Primary earner,Y,0,151,0,10406,0,0,0,4319,489,73496,25655,9725,,0,49762,0,-1338,29321
+7669874859,17,1957,2012,F,122,Sydney - Baulkham Hills and Hawkesbury,2,WA,"","",53,2,PPR,23,A,"",Y,0,0,0,0,257,0,481,0,0,37696,14332,55471,0,0,0,0,-131,3844
+3427186847,26,1961,2022,M,201,Melbourne - North East,5,SA,"",Major city,81,3,ELS,21,A,Primary earner,Y,0,0,0,0,0,0,,0,487,41482,12828,33164,0,0,0,-2232,-33,1749
+3496936037,68,1956,2026,F,316,Brisbane - North,1,NSW,In a significant urban area,"",61,3,PPR,11,A,"",Y,0,8941,0,0,58,55,0,0,1,22641,17143,33021,0,0,0,0,-1880,700
+9867907205,18,1965,2024,M,121,Perth - Inner,3,QLD,Not in a significant urban area,Major city,24,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,17844,773,30021,0,0,0,5610,-2997,6903
+4332893437,60,1975,2006,M,303,Shepparton,2,VIC,Not in a significant urban area,Outer regional,25,0,ETAX,81,A,Secondary earner,Y,0,0,0,0,0,0,0,3420,0,56137,23573,43277,0,0,0,0,2535,0
+3707710480,38,1983,2003,M,205,Bunbury,5,NSW,"",Major city,14,3,ELS,13,A,"",Y,0,288,0,0,0,8,0,0,0,10557,207362,41253,0,0,0,0,-85,415
+3850021672,62,1965,2026,M,316,Melbourne - Outer East,4,QLD,In a significant urban area,"",14,0,PPR,89,A,"",Y,0,0,0,0,0,367,0,0,1667,0,11053,26615,0,0,0,0,-1806,14253
+3862239970,19,1984,2012,F,305,Melbourne - North West,2,NSW,"",Major city,25,2,ETAX,62,A,"",Y,0,0,,425,92,892,0,1967,54,30688,8755,3772,0,0,0,0,6326,1910
+9362922768,52,1978,2010,M,125,Toowoomba,4,VIC,In a significant urban area,Major city,71,3,ELS,53,S,Primary earner,Y,0,0,37590,0,0,60,0,0,2,35550,77796,13145,0,0,0,0,-492,10898
+3571916822,30,1964,2026,F,602,Illawarra,1,VIC,In a significant urban area,"",24,1,PPR,14,A,Primary earner,Y,0,0,0,12,0,0,0,0,0,6880,5213,2654,0,0,0,0,1083,7080
+5720525070,49,1946,2003,F,317,Latrobe - Gippsland,5,VIC,In a significant urban area,Major city,89,0,ELS,89,A,"",Y,0,0,0,0,0,0,0,10786,299,0,6033,23189,0,0,,0,414,1223
+6277373091,52,1929,2019,M,210,Melbourne - Inner South,3,VIC,"","",52,1,ELS,54,A,"",Y,,0,1507,0,0,0,0,0,0,59354,26160,23359,0,0,0,0,-2687,3960
+7825161660,14,1931,2026,M,304,Melbourne - South East,1,WA,In a significant urban area,"",24,0,ELS,43,S,"",Y,0,0,0,0,0,0,3105,0,0,22494,5014,5129,0,0,0,0,-1445,81
+5657140730,37,1973,2024,F,101,Sydney - Inner South West,5,NSW,In a significant urban area,Inner regional,72,1,ELS,73,A,"",Y,0,0,0,26,0,0,0,0,0,7384,50257,43724,0,0,0,0,-569,6661
+1268611142,56,1957,2008,F,102,Hume,2,SA,In a significant urban area,"",24,0,ELS,84,A,Secondary earner,Y,0,20400,0,0,0,0,0,0,0,0,113039,37030,0,0,0,0,-2797,2351
+2749019405,32,1973,2007,M,206,Perth - Inner,6,NSW,"",Major city,34,1,PPR,55,A,Primary earner,Y,0,0,0,0,0,47,0,0,0,46565,135555,47690,0,0,0,0,11018,2736
+4287969980,36,1982,2013,M,123,Perth - Inner,3,NSW,"",Major city,31,0,ETAX,22,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,12456,17040,21837,0,0,0,0,-1543,23542
+6770182485,50,1976,2010,M,604,Melbourne - West,1,NT,In a significant urban area,Inner regional,1,2,PPR,13,A,"",Y,0,0,0,0,0,16,0,0,0,10382,63007,18781,0,0,0,0,-106,2726
+7581630064,56,1939,2016,M,121,Perth - North West,1,SA,"",Major city,54,0,ELS,22,A,Primary earner,Y,0,0,0,1480,0,0,0,0,0,0,10326,16911,0,0,0,0,-346,643
+6881164759,49,1960,2020,M,304,"",1,NSW,Not in a significant urban area,Major city,42,0,ELS,84,S,"",Y,0,0,0,860,15,0,0,0,0,25213,34072,156782,0,0,0,0,-968,7968
+2009739441,61,1944,2013,F,316,Mackay - Isaac - Whitsunday,5,SA,"","",42,3,ELS,23,A,"",Y,0,0,0,0,0,10,0,0,0,29776,50885,15610,0,0,0,0,-256,2782
+4844374201,36,1972,2022,F,503,Melbourne - Inner East,3,VIC,"",Major city,35,0,ELS,36,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,6242,16211,0,0,0,0,-708,3816
+9450953065,47,1970,2020,M,122,New England and North West,1,NSW,In a significant urban area,"",42,2,ELS,42,A,"",Y,0,0,0,0,0,0,0,0,0,2978,34217,107293,127,0,0,0,763,886
+9994215036,41,1985,2019,M,303,Sydney - Northern Beaches,2,VIC,In a significant urban area,"",22,0,ELS,39,A,Primary earner,Y,0,0,0,108,0,851,0,0,224,14491,19911,44095,0,0,0,126,-181,0
+5486882120,52,1959,2025,F,309,"",2,NSW,"",Major city,62,0,ELS,81,A,Primary earner,Y,0,0,0,0,30,0,0,0,439,91121,7619,47708,0,0,0,0,-754,12277
+9568828755,56,1953,2024,F,214,Ballarat,6,NSW,"","",23,0,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,14,0,26353,39540,-1170,0,0,0,-280,65
+1540812498,55,1962,2026,F,121,Sydney - Ryde,3,NSW,Not in a significant urban area,Outer regional,32,2,PPR,39,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,7471,48845,14478,0,0,,0,-537,5510
+9293923187,46,1965,2014,M,316,Melbourne - West,5,QLD,In a significant urban area,Major city,14,2,ELS,43,A,"",Y,0,0,0,6815,0,0,0,0,9,50328,71234,7053,0,0,0,0,-1078,803
+8376599943,57,1955,2025,F,208,Brisbane - East,1,VIC,In a significant urban area,Major city,33,1,ELS,35,S,Primary earner,Y,0,0,0,0,0,2,537,0,0,7068,6085,37676,0,0,0,0,828,946
+8553154329,29,1979,2013,F,403,Sydney - Inner South West,2,NT,In a significant urban area,Major city,62,0,ELS,22,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,4020,13916,26806,0,0,0,0,-355,0
+1734265220,61,1940,2015,M,307,Melbourne - North East,3,NSW,Not in a significant urban area,Major city,85,2,PPR,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,33396,30471,35454,0,0,0,0,-497,9432
+9366263801,23,1983,2019,F,211,Hobart,3,VIC,"","",26,0,ELS,71,A,Primary earner,Y,0,7,0,0,0,0,0,4305,0,34270,35620,41578,0,0,2646,0,-211,8683
+5467662703,44,1984,2006,F,507,Melbourne - South East,1,SA,In a significant urban area,Major city,25,0,ELS,24,S,Primary earner,Y,0,0,0,0,10,0,0,0,6384,14229,22194,27966,0,0,0,0,-183,1719
+8066633870,30,1979,2022,F,112,"",2,NSW,Not in a significant urban area,Major city,53,2,ELS,35,A,Primary earner,Y,0,1018,0,0,0,0,0,0,0,4427,49528,8915,0,0,0,0,-160,11827
+5798117295,28,1981,2021,F,511,Moreton Bay - North,3,NSW,In a significant urban area,Major city,81,0,PPR,89,A,Secondary earner,Y,0,0,0,0,0,0,0,10528,121,0,18521,-119,0,0,0,0,-2272,414
+2485788321,31,1952,2016,F,102,Adelaide - Central and Hills,3,NSW,In a significant urban area,"",62,0,ELS,24,A,"",Y,0,0,0,172,0,1018,0,0,0,0,83877,73782,0,0,0,0,-209,0
+3740486757,53,1947,2004,M,201,Southern Highlands and Shoalhaven,2,TAS,"",Major city,34,3,ELS,53,A,Primary earner,Y,0,20479,0,315,0,2230,0,2699,0,0,34646,17713,0,0,0,0,-834,41568
+2850978408,37,1981,2013,M,125,Sydney - Blacktown,1,NSW,In a significant urban area,Major city,73,3,TELE,83,A,"",Y,0,0,0,0,0,0,0,0,6407,47859,26168,27563,0,0,0,0,6940,987
+8864730361,48,1942,2023,M,212,Sydney - Blacktown,3,NSW,Not in a significant urban area,"",53,2,ELS,71,A,Primary earner,Y,0,0,,0,0,0,0,0,10,150601,1142,12700,0,0,0,0,-122,1633
+8819302474,50,1930,2018,F,122,Adelaide - North,6,SA,In a significant urban area,Very remote area,42,1,ELS,42,A,Secondary earner,Y,0,0,0,0,0,2605,0,0,1228,47880,52326,13292,0,0,0,0,-2115,1302
+3313325205,22,1926,2015,F,212,Central Coast,1,NSW,"",Major city,51,2,PPR,34,A,"",Y,0,0,0,0,0,0,0,3437,0,23752,32063,24926,0,0,0,0,-502,115
+7879315856,65,1973,2012,M,119,Sydney - Outer West and Blue Mountains,5,QLD,In a significant urban area,Major city,23,0,ELS,63,A,Secondary earner,Y,0,0,0,0,0,5974,0,,679,26388,64616,69968,0,0,0,-7603,-444,711
+3094311775,39,1969,2009,M,111,Melbourne - South East,1,VIC,In a significant urban area,"",62,2,ELS,11,S,Secondary earner,Y,0,28,0,183,0,0,0,0,252,0,39429,26435,0,0,0,0,-4100,6746
+4758944990,31,1946,2006,F,125,Perth - South West,1,WA,In a significant urban area,Inner regional,81,0,ELS,83,A,"",Y,0,0,0,0,0,397,0,0,0,4863,33982,1014,0,0,0,0,17169,5347
+6361441284,54,1970,2025,M,214,Brisbane - South,1,VIC,In a significant urban area,Major city,31,2,ELS,25,A,"",Y,0,0,,0,418,0,0,0,1694,0,52178,42475,0,0,0,0,-828,0
+4365080420,84,1957,2014,F,318,Adelaide - Central and Hills,8,NSW,In a significant urban area,Major city,39,0,ELS,14,S,Secondary earner,Y,0,,0,0,0,164,0,0,2,,59034,12770,0,0,0,0,-489,4993
+1723989391,30,1943,2024,M,211,Sydney - North Sydney and Hornsby,3,NSW,"",Major city,44,0,PPR,61,A,Primary earner,Y,0,0,0,1640,0,0,0,0,0,0,33234,45442,0,0,0,0,430,6185
+8019456506,50,1946,2011,M,121,Sunshine Coast,1,NSW,In a significant urban area,"",53,0,ELS,81,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,30507,,24658,0,0,1889,64,-2339,0
+5271288728,16,1965,2025,F,206,Latrobe - Gippsland,2,VIC,In a significant urban area,"",22,1,ELS,73,A,"",Y,0,12440,0,0,0,51,5383,0,0,0,75832,50062,0,0,0,0,-2896,11322
+2286822152,63,1968,2025,F,126,Melbourne - Outer East,2,NSW,In a significant urban area,Major city,52,1,ELS,39,S,"",Y,0,0,0,0,262,0,0,0,35,0,8062,31579,0,0,22886,0,-264,12577
+1155298142,45,1962,2022,M,102,Western Australia - Outback (South),3,VIC,"","",61,0,PPR,32,S,Primary earner,Y,0,0,0,0,0,0,7392,0,1,15999,29269,25441,0,0,0,0,-6487,11505
+6566174885,43,1938,2024,F,120,Adelaide - South,3,VIC,"",Major city,62,0,ELS,27,A,"",Y,0,0,0,0,0,0,0,0,4485,18061,41015,6904,0,0,0,0,-3626,39045
+3947682557,48,1975,2009,F,127,Australian Capital Territory,1,NSW,In a significant urban area,Major city,23,0,ELS,74,A,"",Y,0,0,0,1027,0,0,0,0,0,8458,30290,29801,0,0,0,0,-505,856
+2427973540,18,1949,2021,F,503,Melbourne - South East,2,VIC,In a significant urban area,Major city,34,0,ELS,35,S,"",Y,0,1,2711,0,0,1,9487,0,0,0,5275,28597,0,0,0,0,-1499,1688
+1191666085,51,1971,2004,M,407,Adelaide - South,4,NT,"",Major city,62,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,145,0,0,312,1950,93740,24999,0,0,0,0,-1129,4606
+2327953060,39,1944,2024,M,506,Brisbane - South,1,"",In a significant urban area,Major city,24,2,ELS,36,A,Secondary earner,Y,0,0,0,64,1132,0,0,0,5499,33822,32037,60059,0,0,0,0,-3970,6587
+4258014835,51,1953,2021,M,210,South Australia - South East,3,NSW,"",Major city,73,1,ELS,32,S,Secondary earner,Y,0,0,0,0,0,0,0,0,0,24534,25006,-612,0,0,0,0,-659,8146
+9201704883,20,1958,2026,F,316,Melbourne - Inner,3,VIC,In a significant urban area,Inner regional,32,0,ETAX,82,A,Primary earner,Y,0,0,0,0,0,0,4363,0,18,14801,10748,37911,0,0,0,0,-144,2943
+8676293340,26,1933,2015,M,316,Sydney - Outer West and Blue Mountains,6,NSW,Not in a significant urban area,"",62,0,PPR,24,A,Primary earner,Y,0,0,0,0,0,0,0,0,346,33755,41560,12415,0,0,0,0,-4015,33315
+6198279897,28,1962,2021,M,108,Cairns,2,NSW,In a significant urban area,"",59,2,ELS,24,A,"",Y,0,0,25249,0,0,0,0,0,0,18925,36167,28804,0,0,0,0,-1177,6565
+3194642616,36,1946,2018,M,110,Melbourne - Inner East,5,NSW,In a significant urban area,Major city,62,2,ELS,73,A,Primary earner,Y,0,0,0,0,0,39,0,0,0,22301,34741,17797,0,0,0,0,-43,14640
+1064585691,25,1937,2025,F,309,Brisbane - East,2,WA,In a significant urban area,Major city,25,0,ELS,55,A,Primary earner,Y,0,0,5504,365,1,389,0,0,,49261,140702,50250,0,0,0,0,-186,0
+5557056069,20,1980,2026,M,117,Sydney - Northern Beaches,1,QLD,In a significant urban area,Outer regional,12,0,ELS,51,S,"",Y,0,0,0,0,0,0,0,0,0,35028,30975,29847,0,0,0,0,7229,11176
+2384907959,47,1978,2015,F,506,Sydney - Northern Beaches,5,NSW,In a significant urban area,"",32,0,ELS,73,A,Secondary earner,Y,0,0,0,0,0,0,0,0,1219,0,13776,24696,0,0,0,0,-2773,3031
+8129300651,49,1980,2013,M,303,Mackay - Isaac - Whitsunday,3,QLD,"",Major city,44,2,ETAX,62,S,"",Y,0,,0,0,0,0,0,0,0,71669,1812,196289,0,0,0,0,287,27090
+4697123794,54,1964,2025,F,115,North West,2,VIC,"",Major city,35,0,ETAX,42,A,Secondary earner,Y,0,0,38859,0,0,0,0,0,0,41418,34853,12638,54674,0,0,-6538,4802,0
+2623984942,46,1954,2020,M,103,Perth - South East,2,VIC,Not in a significant urban area,Major city,54,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,16498,-1842,30636,15325,0,0,0,-914,9038
+9112063001,75,1951,2016,F,316,Coffs Harbour - Grafton,1,VIC,"",Outer regional,13,2,PPR,35,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,54700,34864,0,0,0,5162,-275,561
+5780635506,63,1952,2007,M,124,Gold Coast,4,VIC,"",Inner regional,84,0,ELS,11,A,"",Y,0,0,0,0,0,0,5673,0,0,30106,7269,9537,0,0,0,0,-124,10994
+3075384276,34,1953,2015,F,801,Brisbane Inner City,3,QLD,"","",1,2,ELS,26,S,"",Y,0,0,0,0,0,0,0,0,0,49150,62518,8602,0,0,0,0,5455,
+8204565906,34,1958,2004,M,311,Capital Region,3,NSW,"","",73,1,ELS,81,A,"",Y,0,0,0,0,0,0,0,0,1,3983,35735,11496,0,,0,0,-267,0
+6497038278,22,1961,2022,F,304,Newcastle and Lake Macquarie,2,NSW,"",Major city,43,3,ELS,32,S,Secondary earner,Y,0,0,0,123,0,0,0,0,0,60125,11923,34840,0,,3112,-5512,-521,15850
+3665128941,34,1946,2026,F,205,Richmond - Tweed,5,NSW,In a significant urban area,"",62,0,PPR,89,A,"",Y,0,0,0,0,0,0,0,0,0,50598,11236,87628,0,0,0,0,1964,14458
+4939092465,16,1941,2021,M,202,Perth - South West,1,VIC,In a significant urban area,Major city,55,0,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,183,19228,36440,15181,0,0,0,0,68,2972
+5091948449,33,1967,2008,F,111,Perth - South East,1,VIC,In a significant urban area,Major city,32,3,ELS,11,S,Primary earner,Y,0,0,0,79,0,0,0,0,11,0,7605,49137,-304,0,645,0,245,0
+3695175804,27,1955,2018,F,103,Sydney - Northern Beaches,3,NSW,"",Inner regional,42,0,ELS,11,A,"",Y,0,0,0,0,0,7,0,0,0,71625,82756,11933,0,0,0,-5748,17354,0
+3445620225,41,1961,2021,M,209,Sydney - Outer South West,1,NSW,In a significant urban area,Inner regional,43,1,ELS,11,A,"",Y,0,0,0,0,1267,160,5531,0,1,10731,62829,8518,0,0,0,0,-564,17635
+6150097741,30,1982,2010,F,207,Perth - South East,1,WA,In a significant urban area,Major city,43,0,PPR,83,S,"",Y,0,0,0,0,0,0,0,0,75,77689,63785,64894,0,0,0,0,-3363,3607
+3213814323,66,1963,2018,F,207,Central Coast,3,QLD,In a significant urban area,Inner regional,22,1,ELS,32,S,Secondary earner,Y,0,,0,0,107,0,0,0,0,9865,877,11376,0,0,0,0,-1940,0
+6340577243,42,1973,2016,M,311,Latrobe - Gippsland,3,SA,In a significant urban area,"",52,0,ELS,11,S,"",Y,0,446,0,0,0,1256,0,0,0,18105,16481,74604,0,0,0,0,-103,1350
+1313160593,26,1979,2014,F,318,Perth - North East,2,NSW,In a significant urban area,Major city,14,0,ELS,55,A,Secondary earner,Y,0,0,0,77,0,0,0,0,0,39229,21392,35630,0,0,0,0,-121,9085
+1624551412,74,1978,2022,M,209,Sydney - Blacktown,2,NT,"","",36,2,ELS,61,A,Primary earner,Y,0,0,0,0,0,2845,0,0,2477,0,15629,37650,0,0,0,0,-6201,3268
+2659276993,43,1980,2025,M,316,Capital Region,2,QLD,Not in a significant urban area,Remote area,42,0,PPR,11,A,"",Y,0,0,0,0,197,0,5449,0,0,,53189,31970,0,0,0,0,-1695,5519
+9541018747,50,1967,2003,M,217,Perth - North West,2,QLD,In a significant urban area,Major city,36,1,ELS,59,A,"",Y,0,0,0,53,1,38,0,0,0,26734,34272,26021,0,0,0,0,-1596,42659
+7798881269,26,1979,2021,F,205,Mackay - Isaac - Whitsunday,1,QLD,"","",27,3,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,7096,43081,8020,39217,0,0,0,0,-293,2284
+1683998603,23,1978,2023,M,106,Adelaide - Central and Hills,1,SA,"","",73,2,PPR,24,A,Primary earner,Y,0,0,0,0,0,502,0,0,375,52889,40125,27385,20406,0,0,0,-585,0
+9277273326,36,1956,2003,M,403,Sydney - Northern Beaches,3,SA,In a significant urban area,Outer regional,62,0,PPR,23,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,3052,14938,8851,0,0,0,-483,-3286,5531
+3597881675,56,1983,2017,F,502,Sydney - City and Inner South,1,NSW,"",Major city,39,2,ELS,52,S,Primary earner,Y,0,0,0,258,0,0,0,0,0,3965,14347,34815,0,0,0,0,-12,112
+9870352831,30,1954,2026,M,211,"",1,VIC,Not in a significant urban area,Major city,22,0,ELS,51,A,Secondary earner,Y,0,1818,0,544,0,161,0,0,3,9693,11047,181610,2962,0,0,0,-492,14146
+7478652256,90,1920,2016,F,403,Adelaide - North,4,NSW,In a significant urban area,Major city,44,0,ELS,62,A,"",Y,0,0,0,310,0,0,0,10889,0,0,84709,30996,0,0,0,0,-2175,33933
+6462791832,38,1914,2017,F,407,Gold Coast,2,WA,In a significant urban area,"",33,4,PPR,42,S,"",Y,0,0,0,238,0,0,8390,0,0,10633,84483,20679,0,0,0,0,-68,2616
+9178540390,31,1938,2010,F,701,South Australia - Outback,1,NSW,In a significant urban area,Outer regional,34,3,ELS,34,A,"",Y,0,0,0,0,0,0,0,0,383,,18539,18409,0,0,0,0,4783,5058
+1130226352,27,1957,2023,M,310,Melbourne - North West,2,NSW,In a significant urban area,Inner regional,33,0,ELS,25,A,"",Y,0,0,0,0,0,0,0,9381,0,68871,25839,52979,0,0,0,5,-7441,0
+7770997531,25,1963,2021,M,312,Sydney - Parramatta,2,WA,In a significant urban area,Major city,54,0,ELS,61,S,"",Y,0,0,0,0,0,35,0,0,0,32914,26482,23119,0,0,0,0,-828,3353
+2907909627,19,1939,2005,M,211,Brisbane - East,4,NSW,In a significant urban area,Major city,81,0,ELS,81,A,Secondary earner,Y,0,0,0,26,0,0,0,0,0,56848,8497,67552,0,0,0,0,-262,0
+3720052216,38,1965,2026,F,121,Melbourne - West,4,QLD,"",Major city,42,0,ELS,22,A,Primary earner,Y,0,221,0,0,0,0,0,0,425,0,0,28881,0,0,0,0,-1036,3444
+3861354313,16,1974,2018,F,318,Riverina,2,NT,In a significant urban area,"",56,0,ELS,42,A,Primary earner,Y,0,0,0,0,0,0,0,0,1562,24499,14845,7569,0,0,0,0,-104,3834
+5993861527,50,1977,2024,F,503,Hunter Valley exc Newcastle,5,QLD,In a significant urban area,"",53,2,PPR,62,A,"",Y,0,0,0,157,0,0,0,0,0,41494,58233,93947,0,0,0,0,0,13854
+1974581586,53,1974,2020,M,212,Melbourne - North East,3,QLD,In a significant urban area,"",34,0,PPR,89,S,Primary earner,Y,0,0,0,0,0,0,8766,0,0,59493,5098,45567,0,0,0,-7949,-855,10943
+3699582915,51,1966,2025,M,307,Sydney - Outer South West,3,TAS,In a significant urban area,Major city,55,0,ELS,53,S,Secondary earner,Y,0,0,0,0,0,9,0,0,0,10649,30783,24266,0,0,0,0,-1240,11304
+2356757658,32,1957,2022,F,101,Melbourne - West,1,NSW,In a significant urban area,Major city,62,0,ELS,25,A,"",Y,0,0,0,0,0,0,0,0,11,42462,8096,96918,0,0,0,0,-122,637
+7884789583,33,1978,2013,M,104,Ballarat,3,NT,"","",73,3,ELS,62,A,"",Y,0,0,0,1922,0,136,0,4329,0,30581,60727,15931,0,0,243,0,0,8661
+3630117907,74,1950,2011,M,316,Sydney - Baulkham Hills and Hawkesbury,1,QLD,In a significant urban area,"",61,4,PPR,32,A,"",Y,0,0,0,0,0,0,0,0,0,0,21393,67031,0,0,0,0,-617,8495
+1073626098,33,1977,2006,M,407,Perth - North East,3,VIC,In a significant urban area,"",35,2,ELS,61,A,"",Y,0,0,2852,0,0,0,0,0,0,53160,10790,19581,0,0,0,0,-2630,22633
+1955626568,51,1972,2006,F,603,Brisbane - East,4,VIC,In a significant urban area,Major city,25,1,ELS,54,A,"",Y,0,0,0,4,0,206,0,0,0,22425,45338,60583,0,0,0,0,-1214,575
+8169514971,40,1970,2025,M,207,Adelaide - South,5,VIC,Not in a significant urban area,Major city,55,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,126,24994,32429,28536,0,0,27597,0,70,2608
+8491429772,51,1959,2016,M,301,Perth - South West,1,VIC,In a significant urban area,"",73,2,ELS,61,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,0,29210,29413,0,0,0,0,-340,5580
+2544928831,54,1966,2013,M,125,Australian Capital Territory,2,NSW,"",Inner regional,44,0,ELS,22,A,"",Y,0,0,0,0,0,0,0,0,0,20580,27870,15514,0,0,0,0,190,3080
+3941104727,26,1938,2004,F,314,Richmond - Tweed,1,QLD,In a significant urban area,"",43,1,ELS,55,A,Secondary earner,Y,,0,0,525,0,0,0,0,0,9000,55380,1652,0,0,0,0,-2168,451
+6259147884,70,1967,2026,F,121,Melbourne - Outer East,6,QLD,In a significant urban area,"",35,0,ELS,53,A,Secondary earner,Y,0,0,0,0,141,132,0,8741,0,42040,77771,20818,0,0,0,0,-697,2185
+9029580329,17,1947,2020,F,118,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,24,0,ELS,52,A,"",Y,0,0,0,161,588,0,0,0,0,6928,25056,54821,0,0,0,-2959,-522,84532
+7792981152,43,1971,2025,F,211,"",7,VIC,"","",72,1,ELS,42,A,"",Y,0,0,0,758,1,0,0,0,0,0,12503,36579,0,0,0,0,-1001,7017
+9645531958,57,1985,2022,M,319,Adelaide - South,2,"",In a significant urban area,"",35,2,ELS,11,A,"",Y,0,0,4803,217,0,0,0,0,0,37750,15581,11499,0,0,0,-1206,-304,67017
+1090904786,47,1962,2019,M,216,Cairns,5,QLD,In a significant urban area,"",33,0,ELS,43,A,Secondary earner,Y,0,652,0,0,0,54,0,0,30,35823,22510,92035,0,0,0,0,1433,29
+2146952522,55,1940,2023,F,121,Newcastle and Lake Macquarie,1,VIC,"",Inner regional,25,2,ELS,35,A,"",Y,0,0,0,0,0,650,0,0,0,57587,58802,5408,0,0,0,0,-1768,2111
+9652573379,88,1946,2005,M,213,Adelaide - West,1,QLD,In a significant urban area,"",14,0,ELS,62,S,"",Y,0,0,0,0,0,0,0,0,11,6984,6420,3564,0,0,0,0,-4887,7414
+4854438256,31,1977,2009,M,407,Logan - Beaudesert,2,WA,In a significant urban area,Inner regional,55,0,PPR,43,A,"",Y,0,0,0,0,0,0,0,0,61,39918,43078,34024,0,0,0,0,-1021,259
+3424981728,47,1949,2017,F,128,Melbourne - West,8,NT,In a significant urban area,"",23,0,ELS,25,A,"",Y,0,0,0,0,0,10,0,0,0,0,13433,7066,0,0,0,0,0,0
+7665529841,43,1943,2019,M,128,Perth - North West,2,NSW,In a significant urban area,Major city,31,0,ELS,13,A,Primary earner,Y,0,131,0,0,0,0,0,0,0,1328,50332,8439,0,0,0,0,-97,12514
+9021256103,53,1976,2025,F,118,Melbourne - South East,1,NSW,In a significant urban area,Inner regional,83,0,ELS,43,A,Secondary earner,Y,0,0,0,0,95,43,0,0,3451,0,30099,-321,-63,0,0,0,2202,0
+3137182668,24,1961,2027,F,120,Logan - Beaudesert,2,WA,"",Major city,62,0,PPR,55,A,"",Y,0,0,0,0,0,82,0,0,0,2396,15680,45813,0,0,0,0,-401,8840
+5763379464,34,1968,2021,M,309,Adelaide - West,2,ACT,In a significant urban area,Major city,52,0,PPR,33,S,Primary earner,Y,0,119,0,0,0,0,0,0,0,10018,38864,14436,0,0,0,0,-3260,11470
+4005401651,47,1974,2023,F,108,Melbourne - Inner South,1,VIC,"","",31,1,ELS,12,A,Primary earner,Y,0,0,0,0,1,0,0,0,113,49723,6397,61575,0,0,0,0,-349,2794
+6648430344,30,1945,2020,M,506,Wide Bay,3,QLD,In a significant urban area,Major city,83,1,ELS,89,A,"",Y,0,0,0,0,0,523,0,0,0,0,29070,43152,0,0,0,0,-678,24631
+9555051300,22,1973,2022,M,507,Sydney - Baulkham Hills and Hawkesbury,2,NSW,"",Inner regional,83,0,ELS,43,A,Secondary earner,Y,0,0,0,0,0,0,0,0,7,31935,21625,42542,0,0,0,0,-1435,10436
+6052752619,36,1966,2021,F,123,Hume,1,VIC,"","",55,0,ELS,33,S,"",Y,0,954,7259,0,0,0,0,0,0,0,44587,14879,0,0,0,0,-2449,16093
+7361550366,43,1959,2017,M,801,Murray,8,WA,In a significant urban area,Outer regional,24,0,ELS,59,A,Primary earner,Y,0,0,0,66,0,354,0,0,0,2824,135160,17025,0,0,0,0,-495,7250
+1081844112,42,1951,2017,M,205,"",6,NSW,In a significant urban area,Major city,55,0,ELS,89,A,"",Y,0,167,0,0,0,55,0,0,0,15960,135011,51997,0,0,57,0,-296,5265
+8530929074,50,1955,2016,M,101,Sydney - Sutherland,2,QLD,Not in a significant urban area,"",45,2,ELS,54,S,Primary earner,Y,0,0,0,0,1221,0,0,0,15,10355,61742,7088,0,0,0,0,-2016,3529
+6217855190,56,1983,2020,F,121,Brisbane - North,1,SA,In a significant urban area,"",25,0,ELS,53,S,Primary earner,Y,,0,0,0,0,1059,1458,0,8015,42522,8658,22777,0,0,0,0,-2352,4011
+6518694563,52,1963,2009,F,121,Central West,2,WA,"","",44,2,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,0,36567,9143,0,0,0,0,-3,5258
+5083730294,50,1967,2023,M,204,Brisbane - North,3,SA,In a significant urban area,"",14,0,ELS,22,A,Primary earner,Y,0,17,0,0,0,0,0,0,0,28299,35392,132498,0,0,0,-1810,-350,19141
+5565586152,57,1954,2023,M,108,Mornington Peninsula,3,WA,"","",31,0,ELS,24,A,Secondary earner,Y,0,0,0,43,0,0,0,0,0,36274,10086,35914,0,0,0,0,-724,18729
+4450967451,65,1965,2015,F,109,Brisbane - East,5,VIC,"",Major city,83,3,ELS,53,S,"",Y,0,0,0,0,0,93,1175,0,1735,2315,12474,34829,0,,0,0,-831,14245
+2720093380,17,1924,2010,M,111,Adelaide - South,4,VIC,"",Major city,53,3,ELS,24,A,Secondary earner,Y,0,,0,0,0,0,0,,8,34353,69780,13747,0,0,0,0,-5029,11651
+7428529312,50,1929,2026,M,303,Brisbane - West,5,NSW,"",Inner regional,25,2,ELS,36,A,Secondary earner,Y,0,0,0,0,0,0,0,0,5,10353,7161,25048,0,0,0,0,-221,141
+7265255264,51,1948,2009,M,110,Sydney - North Sydney and Hornsby,4,"","",Outer regional,42,0,PPR,73,S,"",Y,0,0,0,0,0,0,0,0,0,38255,10645,6275,0,0,0,0,-1565,931
+4879784295,32,1954,2024,M,311,Sydney - Northern Beaches,8,NSW,In a significant urban area,Major city,34,1,PPR,73,A,"",Y,0,0,12911,156,0,0,0,0,0,63434,2194,141181,0,0,0,0,-168,27372
+7059559618,49,1978,2025,M,211,Melbourne - North East,5,SA,In a significant urban area,Major city,43,0,ELS,73,A,Secondary earner,Y,0,0,0,167,0,34,0,0,622,47764,33276,16722,0,0,0,0,-130,6979
+7948069949,27,1975,2013,M,404,Perth - North West,3,WA,In a significant urban area,"",22,0,ELS,13,A,Primary earner,Y,0,0,0,0,0,16032,0,0,0,0,3158,45537,0,0,0,0,-484,37367
+9727117711,50,1963,2026,M,121,Melbourne - West,1,QLD,In a significant urban area,"",55,1,ELS,11,S,"",Y,0,2494,0,0,0,67,0,0,402,10299,17347,76390,0,0,0,0,-1390,0
+2728020879,20,1969,2016,F,319,Australian Capital Territory,3,VIC,"",Major city,74,1,PPR,52,A,Secondary earner,Y,0,12964,0,0,0,39,0,0,0,0,32089,21566,0,0,0,0,-287,3103
+2129377467,37,1946,2024,M,318,Adelaide - Central and Hills,2,VIC,In a significant urban area,"",89,1,ELS,55,A,"",Y,0,0,,346,0,0,0,0,24,2247,37598,88904,0,0,7256,0,-1938,10804
+7822444132,36,1967,2011,F,211,Ballarat,5,NSW,"",Major city,14,0,ELS,85,A,"",Y,0,0,0,0,0,0,0,0,0,55903,30091,53670,1493,0,0,0,-819,0
+8519586192,34,1976,2022,F,309,Geelong,4,VIC,"",Major city,13,2,ELS,89,S,"",Y,0,717,0,0,0,0,0,0,0,40811,3200,36096,0,0,0,0,-2894,2220
+4132294260,41,1966,2017,M,211,Far West and Orana,2,SA,"","",13,0,PPR,55,A,"",Y,0,0,0,0,0,178,0,0,0,32218,14968,197625,0,0,0,0,-955,1434
+1918640137,20,1952,2007,F,121,Sydney - North Sydney and Hornsby,2,QLD,In a significant urban area,"",83,0,ELS,13,A,Secondary earner,Y,0,0,0,111,0,19,0,0,0,0,3998,15349,0,0,0,0,-33,1570
+5266361024,22,1958,2024,M,109,Brisbane Inner City,3,SA,In a significant urban area,Remote area,55,1,ELS,73,A,"",Y,0,0,0,,0,0,0,0,0,16963,21323,3569,0,0,0,0,-1553,2938
+5691473828,38,1972,2013,M,215,Adelaide - West,3,NSW,"",Major city,21,3,ELS,62,S,"",Y,0,404,0,200,0,1583,0,0,0,,36685,3905,0,0,0,0,-385,20794
+6822450678,81,1956,2020,F,601,Logan - Beaudesert,4,NSW,"",Inner regional,62,0,ELS,89,A,"",Y,0,0,0,0,0,155,65,0,0,30138,46226,54612,0,0,0,0,-1157,18025
+6942826009,43,1941,2023,M,507,Moreton Bay - North,3,NSW,In a significant urban area,Outer regional,34,0,ELS,11,A,"",Y,0,0,0,0,0,656,0,0,0,0,53732,20312,0,0,0,0,-3313,16771
+9356115056,46,1945,2022,F,217,Melbourne - Inner East,3,NT,In a significant urban area,Major city,55,0,ELS,25,S,"",Y,0,0,0,0,0,128,0,0,0,130399,16612,165544,0,0,0,0,-313,8074
+5248897617,56,1938,2013,M,701,Logan - Beaudesert,2,VIC,In a significant urban area,"",13,2,ELS,84,A,"",Y,0,0,0,0,0,19,0,0,0,37735,14274,30181,0,0,0,0,-723,1821
+8829936170,28,1970,2014,M,505,Moreton Bay - South,1,NSW,In a significant urban area,Inner regional,21,0,ELS,72,A,Secondary earner,Y,0,0,0,9,0,50,0,0,0,25878,47526,10392,0,0,0,0,-4955,2083
+3841657214,42,1973,2024,F,101,Perth - Inner,6,VIC,In a significant urban area,Major city,62,0,ELS,73,A,"",Y,0,0,0,0,0,0,0,0,1250,31244,21666,28417,0,0,0,0,-278,9559
+1163309922,36,1963,2025,F,305,Logan - Beaudesert,5,NSW,In a significant urban area,"",62,0,ELS,71,A,Primary earner,Y,0,0,0,0,0,0,9463,0,0,0,37334,7717,5852,0,0,0,-1976,0
+1903167630,48,1949,2005,F,209,Geelong,5,VIC,In a significant urban area,Major city,22,3,PPR,53,S,Primary earner,Y,0,75,0,0,0,0,2329,0,0,4092,35627,17424,0,0,2434,0,-225,9800
+5982201589,24,1919,2022,M,404,"",5,VIC,In a significant urban area,"",59,0,ELS,59,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,56246,18381,54443,0,0,0,0,-3359,1576
+8678481619,43,1976,2010,M,106,Sydney - Northern Beaches,2,NSW,"","",52,2,ETAX,62,A,"",Y,0,0,,0,0,0,0,0,0,0,53255,69572,0,0,0,0,0,7841
+8806602480,43,1951,2015,M,116,Far West and Orana,8,WA,"","",24,0,ELS,61,A,Secondary earner,Y,0,117,0,535,0,0,0,0,488,0,69228,80958,0,0,0,0,-408,3863
+7799984677,47,1955,2022,M,501,Sydney - Inner West,8,SA,In a significant urban area,Major city,72,0,PPR,51,A,"",Y,0,0,0,3354,0,0,0,0,135,16646,571,12296,0,0,,0,-2394,11254
+1689263452,62,1959,2016,M,211,Gold Coast,4,QLD,In a significant urban area,Remote area,61,1,ELS,23,A,"",Y,0,0,0,0,0,0,0,0,0,27260,39150,28291,0,0,0,0,0,0
+7391429425,34,1953,2020,F,121,Melbourne - Inner South,7,SA,"","",35,2,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,0,14022,11425,0,0,0,0,-195,6599
+9154327144,37,1944,2022,M,122,Sydney - Outer West and Blue Mountains,1,VIC,In a significant urban area,"",74,1,ELS,45,S,"",Y,0,0,0,0,0,0,7346,9925,0,4979,1708,18940,0,0,0,-7919,-177,605
+7531534101,47,1958,2023,F,211,Gold Coast,1,NSW,In a significant urban area,Major city,83,0,ETAX,11,A,"",Y,0,0,0,37,0,0,0,0,0,0,110921,41362,104,0,0,0,-121,468
+2110007519,69,1937,2010,F,119,Melbourne - Inner South,5,QLD,In a significant urban area,"",63,0,ELS,23,A,"",Y,0,0,0,142,0,0,10018,0,0,65384,33488,27456,0,0,0,0,-357,6320
+8591537791,43,1933,2005,M,121,Adelaide - South,1,NSW,"",Remote area,32,2,ELS,35,A,"",Y,0,0,0,0,0,0,0,0,18,0,50727,71070,0,0,0,0,-951,0
+9282241641,62,1983,2017,F,407,Geelong,8,NSW,In a significant urban area,Inner regional,42,1,PPR,84,A,Secondary earner,Y,0,0,0,0,17,0,0,1,0,0,28575,18428,3454,0,0,0,99,8099
+6131158865,57,1976,2019,M,205,Sydney - North Sydney and Hornsby,1,VIC,"",Major city,44,0,ELS,63,A,"",Y,0,0,0,0,0,1,0,0,0,19214,47996,49824,0,0,,0,-428,7360
+2440470260,51,1976,2004,F,122,Melbourne - Inner,2,NSW,In a significant urban area,"",54,0,ELS,32,A,"",Y,0,0,0,0,0,30,0,0,0,,3822,63605,4916,0,0,0,-343,3276
+5100719479,28,1974,2024,F,319,South Australia - Outback,1,WA,In a significant urban area,Inner regional,52,3,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,51667,47124,4585,13257,0,0,-11,-467,0
+7764128384,43,1967,2022,M,209,"",8,WA,"",Outer regional,62,2,PPR,23,A,"",Y,0,0,0,27,0,237,0,0,2,16733,35721,53901,0,0,0,0,117,1878
+1684749280,63,1937,2020,F,119,Melbourne - South East,1,NSW,"","",25,0,ETAX,11,A,"",Y,0,0,0,0,0,0,0,0,0,80488,13221,89340,0,0,0,0,-2325,3133
+9446680590,41,1949,2022,F,404,Sydney - Northern Beaches,2,NSW,In a significant urban area,"",73,1,ELS,24,A,"",Y,0,3236,0,0,0,0,0,0,190,0,51671,8533,0,0,0,0,-65,10362
+2822697723,41,1950,2017,F,701,"",2,WA,In a significant urban area,Major city,31,0,ELS,24,A,"",Y,0,0,0,0,0,0,0,0,0,14492,31411,4214,0,0,0,560,-1417,1669
+1866645024,21,1948,2009,F,120,Perth - North East,3,VIC,"",Major city,32,3,ELS,23,A,Primary earner,Y,0,0,0,0,0,0,0,0,14297,0,26868,42683,0,0,0,0,-740,30952
+9310621530,34,1951,2017,F,214,"",4,SA,In a significant urban area,Major city,72,0,ELS,73,A,"",Y,0,0,0,399,0,0,0,1268,0,32510,20628,146764,0,0,0,-16,-2395,0
+1028864641,53,1944,2015,F,120,Melbourne - North East,2,QLD,"",Major city,62,0,ELS,81,A,"",Y,0,0,0,0,0,0,0,0,0,0,208999,1918,0,0,0,0,-866,14758
+4312986154,51,1965,2020,M,122,Gold Coast,1,WA,In a significant urban area,"",39,2,ELS,33,A,"",Y,0,0,0,0,0,0,0,0,93,195,14074,18486,0,0,0,0,-2443,0
+5242205894,28,1982,2010,F,702,New England and North West,4,NSW,"","",54,0,PPR,73,A,Primary earner,Y,0,0,34085,0,0,0,0,0,73,0,5328,16273,0,0,0,0,8994,273
+3014764230,39,1957,2010,M,212,Melbourne - North West,4,NSW,In a significant urban area,Inner regional,83,0,ELS,73,S,"",Y,0,0,0,41,0,0,0,0,1203,4783,19845,68272,0,,0,0,-2695,100
+2464387464,19,1956,2012,F,209,Bendigo,2,VIC,In a significant urban area,Major city,24,0,ELS,24,A,Primary earner,Y,0,0,0,0,0,0,0,0,3,26288,2923,56707,0,0,0,0,-956,9102
+1032730103,18,1983,2018,M,302,Melbourne - South East,3,SA,"","",83,1,ELS,82,A,"",Y,0,1839,0,297,0,0,0,0,0,28103,7386,-173,0,0,0,0,912,8010
+6262244886,69,1984,2026,M,303,Darwin,1,VIC,"",Major city,56,0,PPR,71,A,"",Y,0,0,0,0,0,0,2388,0,1484,74598,11651,34718,0,0,0,0,-492,631
+9873751486,44,1940,2023,M,303,Richmond - Tweed,8,VIC,In a significant urban area,Major city,36,2,PPR,24,A,"",Y,0,140,0,0,0,0,0,0,0,0,9066,61412,0,0,8,0,-1150,2782
+3791762610,45,1937,2025,M,504,"",8,QLD,In a significant urban area,"",32,2,ELS,52,A,"",Y,0,0,0,0,0,0,0,49,0,32968,51195,10869,0,0,1038,0,1466,8978
+1517781937,82,1934,2015,F,318,Brisbane Inner City,5,NSW,In a significant urban area,Major city,55,2,PPR,53,S,Secondary earner,Y,0,0,0,155,0,0,0,0,16194,56164,14210,1520,0,0,0,0,1457,0
+1086115747,39,1963,2017,M,401,Perth - North West,2,QLD,"","",32,0,ETAX,89,A,"",Y,0,0,0,245,0,0,0,0,0,20695,41289,15652,0,0,7,0,-186,1721
+6652433519,48,1962,2013,F,208,Adelaide - South,2,SA,In a significant urban area,Major city,32,1,TELE,43,A,"",Y,0,0,0,0,0,36,0,0,0,58522,43899,2252,0,0,0,0,2058,0
+2466711953,57,1963,2025,M,124,Australian Capital Territory,5,VIC,In a significant urban area,Inner regional,24,1,ETAX,52,A,Secondary earner,Y,0,2027,0,231,0,0,0,0,0,55146,53235,20102,0,0,0,0,2674,28810
+5744554250,42,1978,2012,M,124,Australian Capital Territory,2,SA,In a significant urban area,"",82,0,ELS,62,A,Secondary earner,Y,0,0,9227,203,0,82,0,0,3816,,30922,81497,0,0,0,0,-464,0
+5498480155,22,1979,2026,M,115,Melbourne - South East,1,NSW,"",Major city,52,2,ELS,14,S,"",Y,0,0,0,0,0,89,0,0,0,0,52484,13831,0,0,0,0,-3008,1159
+7479567932,53,1969,2018,M,315,Gold Coast,5,QLD,"","",62,0,ELS,24,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,47557,49995,0,0,0,0,-2908,8549
+2842480365,30,1915,2011,F,301,Perth - North West,5,NSW,In a significant urban area,Major city,55,0,ELS,35,A,Primary earner,Y,0,0,0,0,0,44,0,0,0,0,49061,23084,0,0,0,0,-397,4532
+5438101327,48,1961,2004,F,125,Western Australia - Outback (South),1,NSW,In a significant urban area,Major city,42,0,ELS,24,A,Primary earner,Y,0,464,0,0,0,0,0,0,17264,0,15579,35017,0,0,0,0,-2098,7308
+6666460324,23,1985,2015,M,109,Coffs Harbour - Grafton,2,VIC,In a significant urban area,Major city,84,6,ELS,35,A,"",Y,0,3269,0,9,0,0,0,0,0,0,46500,19465,0,0,0,0,-2202,583
+6347395681,34,1971,2025,M,310,Latrobe - Gippsland,2,"",In a significant urban area,Inner regional,63,0,ETAX,26,A,"",Y,0,0,0,0,0,,0,0,0,55089,48914,,0,0,0,0,-2112,27996
+4050940950,30,1958,2021,F,308,Sydney - Outer South West,2,SA,"",Major city,55,0,PPR,32,A,"",Y,0,345,0,8929,0,0,0,0,829,0,44014,50050,0,0,2324,0,-218,37347
+3788334078,31,1982,2024,F,101,Gold Coast,1,NSW,In a significant urban area,"",31,0,ELS,24,A,Secondary earner,Y,0,0,0,0,0,0,0,0,1,19698,8743,23512,0,0,0,0,-95,2840
+8214703980,36,1969,2009,F,503,Perth - North West,1,QLD,In a significant urban area,"",26,0,ELS,11,A,"",Y,0,0,0,,0,0,0,0,547,0,24233,19238,0,0,0,0,-524,22192
+3246607360,61,1947,2026,F,216,Far West and Orana,3,VIC,"",Major city,42,1,ELS,83,A,"",Y,0,44,0,0,0,0,0,0,0,10080,50439,57924,0,0,0,0,-756,1305
+1248337151,40,1964,2020,M,402,Brisbane - South,5,TAS,In a significant urban area,"",53,6,ELS,82,S,"",Y,0,0,0,0,0,69,0,0,137,0,26301,33946,0,0,0,0,-5320,6097
+4386829268,80,1981,2018,F,314,Western Australia - Outback (North),5,VIC,In a significant urban area,Major city,43,0,ETAX,71,A,"",Y,0,0,0,619,3,0,0,0,0,0,30228,21243,0,0,0,0,-2672,2115
+5498503837,45,1980,2022,F,124,Sydney - Inner West,1,VIC,"",Major city,11,0,ELS,73,A,"",Y,0,0,0,0,0,381,0,0,1,52670,78684,10999,0,0,0,0,-963,7090
+9368038903,33,1938,2008,M,505,Brisbane Inner City,1,VIC,In a significant urban area,Major city,22,1,ELS,62,A,Primary earner,Y,0,0,0,48,0,0,0,0,0,2774,21401,5820,11658,0,0,0,-1184,20118
+1058304314,38,1978,2005,M,213,Sydney - Blacktown,3,VIC,Not in a significant urban area,Major city,24,0,PPR,83,A,"",Y,0,17,0,0,0,0,0,0,196,0,46191,42140,0,0,0,0,-465,3088
+4137307211,48,1981,2023,M,312,Australian Capital Territory,5,NSW,In a significant urban area,Major city,82,2,ELS,81,A,Primary earner,Y,0,0,0,24765,0,0,0,0,0,25243,46599,27479,0,0,0,0,-5,5644
+5469796191,32,1954,2005,M,205,Melbourne - West,1,NSW,In a significant urban area,Major city,32,2,ETAX,25,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,55319,11379,56945,-624,0,0,0,-7671,6589
+9306812318,55,1959,2014,M,118,Melbourne - South East,3,NSW,"","",13,2,ELS,61,A,"",Y,0,0,0,0,0,0,0,0,1,18994,10491,2985,0,0,0,0,-2935,5842
+2276250509,37,1939,2008,M,201,Toowoomba,1,VIC,In a significant urban area,Major city,24,0,ELS,53,A,"",Y,0,0,0,67,0,6635,0,3366,0,16499,8913,28515,0,0,0,0,4807,5954
+8746482210,42,1949,2011,M,127,Sydney - Outer West and Blue Mountains,2,VIC,In a significant urban area,Major city,45,2,ELS,25,A,Primary earner,Y,0,0,0,0,0,1,0,0,0,7153,58513,68505,0,0,0,0,-1228,0
+4588940288,32,1959,2023,M,106,Melbourne - Outer East,5,NSW,"","",52,0,PPR,44,S,"",Y,0,0,0,0,0,0,57,0,0,9877,7743,91753,0,0,0,0,-991,3473
+3832044818,41,1978,2024,F,319,Illawarra,1,SA,Not in a significant urban area,Major city,23,2,ELS,44,A,"",Y,0,0,0,0,0,0,0,0,0,40898,32667,58570,0,0,0,0,-752,1481
+6286110770,22,1968,2025,F,311,Brisbane - North,2,VIC,In a significant urban area,Major city,26,0,ELS,33,A,Primary earner,Y,0,482,0,126,0,1997,0,0,934,0,19288,14161,0,0,0,0,-3963,14925
+7901043735,28,1960,2006,M,207,Gold Coast,1,VIC,Not in a significant urban area,Inner regional,62,0,PPR,62,A,Primary earner,Y,0,0,0,82,0,10045,5005,0,0,0,18519,40864,12813,0,0,0,-417,5602
+7443557195,38,1978,2005,F,126,Sydney - Blacktown,3,NSW,"",Major city,42,3,ELS,52,S,"",Y,0,0,0,0,0,0,0,0,0,27375,80228,203842,0,0,50634,0,-1468,9534
+2316004193,25,1957,2007,F,403,Perth - South West,1,NSW,In a significant urban area,"",42,2,ELS,23,A,"",Y,0,16,0,152,0,0,0,0,0,64118,15181,6849,0,0,0,0,-1597,9160
+6733818675,45,1959,2019,M,207,Melbourne - South East,5,NSW,Not in a significant urban area,Outer regional,35,0,ELS,83,A,"",Y,0,22789,0,96,0,0,0,0,4,26793,7080,96078,0,0,0,6230,-546,12084
+6814514347,26,1950,2026,M,401,New England and North West,1,NSW,Not in a significant urban area,"",13,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,14,72032,56934,24594,0,0,0,17,3531,2488
+4166683774,42,1938,2018,F,127,Sydney - South West,2,WA,"",Outer regional,89,0,ELS,43,S,Primary earner,Y,0,0,0,218,0,0,0,0,36,27094,11683,30133,0,0,0,0,-1187,13733
+3648016905,28,1972,2011,F,128,North West,1,NSW,"",Major city,82,0,ETAX,11,A,"",Y,0,0,0,0,0,0,0,0,0,22310,28077,36558,0,0,2108,0,-1105,7399
+5550455596,35,1974,2014,M,407,Sydney - Parramatta,1,VIC,Not in a significant urban area,Major city,34,2,ELS,11,A,"",Y,0,0,0,0,0,139,0,0,0,0,77515,24241,0,0,0,0,6001,9694
+9690215654,66,1977,2011,F,113,Sydney - Blacktown,6,NSW,In a significant urban area,Major city,42,1,ELS,27,A,"",Y,0,0,0,273,0,6,0,0,0,0,5489,6463,0,0,0,0,5006,1438
+8608946642,38,1941,2023,F,318,North West,1,QLD,In a significant urban area,Major city,32,2,ELS,32,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,37365,7061,44345,0,0,0,-2488,-1244,4266
+7222424450,45,1982,2025,F,125,Mandurah,2,NSW,"",Major city,7,0,PPR,25,A,Secondary earner,Y,0,0,0,144,0,0,0,0,0,0,13889,28236,0,0,3,0,6190,436
+7824627274,18,1970,2014,M,112,Sydney - Inner South West,6,VIC,Not in a significant urban area,Major city,27,0,ELS,22,S,"",Y,0,0,0,0,0,0,0,0,0,0,47250,10138,0,0,0,0,-737,2333
+6597350284,62,1944,2016,M,209,Far West and Orana,1,NSW,In a significant urban area,Major city,52,2,PPR,53,A,Primary earner,Y,0,0,0,0,0,121,0,0,0,34549,3608,33381,0,0,0,0,8,936
+7659650128,17,1972,2025,M,119,Australian Capital Territory,1,VIC,In a significant urban area,Major city,1,0,ETAX,61,S,"",Y,0,0,0,991,0,0,0,0,1019,0,29025,70590,0,0,0,0,-703,0
+5019177240,27,1970,2023,F,506,Central Coast,3,VIC,In a significant urban area,"",35,0,ELS,53,A,"",Y,0,0,0,0,0,13,0,0,2,34499,48169,214396,0,0,0,0,-101,4959
+5738096375,24,1958,2012,M,212,Brisbane - North,1,NSW,In a significant urban area,Major city,26,0,ELS,11,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,36850,58695,0,0,0,160,-2973,0
+2234736073,28,1973,2018,F,211,Ipswich,2,NSW,"",Major city,39,0,ETAX,23,S,Secondary earner,Y,0,0,0,2550,0,0,0,0,0,16888,43138,72217,0,0,0,0,-490,10389
+6657716564,33,1972,2005,M,215,Central West,1,NSW,In a significant urban area,"",44,0,PPR,61,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,44404,101581,3531,0,0,0,0,285,4187
+5475225529,56,1976,2009,M,403,Sydney - Parramatta,4,QLD,In a significant urban area,Major city,43,3,ELS,89,S,Primary earner,Y,0,0,0,0,625,698,0,0,0,3948,8322,24056,0,0,0,0,4580,3609
+8225560557,57,1945,2023,F,106,Murray,5,QLD,"",Major city,25,3,ELS,34,A,"",Y,0,71,0,0,0,0,2935,0,0,35857,11202,18360,0,0,0,101,-449,10883
+3099694181,40,1976,2010,F,214,Mackay - Isaac - Whitsunday,8,WA,In a significant urban area,Major city,1,3,PPR,55,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,131,57,30993,0,0,0,0,-155,5260
+5038659206,34,1939,2012,F,106,Murray,2,QLD,In a significant urban area,"",55,1,PPR,35,A,Secondary earner,Y,0,0,0,0,0,163,55,0,0,8864,33318,17093,0,0,3112,0,-594,0
+4248967095,42,1946,2023,F,109,Sydney - Blacktown,8,QLD,"",Major city,23,0,ELS,43,A,"",Y,0,0,0,0,0,0,0,0,0,12408,14146,14494,0,0,0,0,-11305,741
+7303576127,33,1979,2006,F,501,Sydney - Baulkham Hills and Hawkesbury,2,WA,In a significant urban area,"",14,0,ELS,24,A,Secondary earner,Y,0,0,0,0,0,8,777,0,0,16201,59305,16249,10884,0,0,0,-823,75367
+2216584046,39,1932,2025,M,203,Bunbury,1,SA,"","",85,2,ELS,62,S,"",Y,0,0,15556,0,0,112,0,,0,0,12669,4139,0,0,0,0,-162,1355
+3251583332,41,1944,2024,F,115,Sydney - Northern Beaches,2,VIC,In a significant urban area,Inner regional,71,0,ETAX,24,A,Primary earner,Y,0,0,0,0,0,315,0,0,0,17655,17190,36555,0,0,287,0,-178,2300
+6250234677,19,1963,2005,M,127,Sydney - Ryde,2,NSW,In a significant urban area,Major city,24,1,ELS,39,A,"",Y,0,0,0,0,0,0,0,0,0,16735,59872,32432,0,0,0,0,-359,5594
+8741981687,25,1959,2011,M,306,New England and North West,5,VIC,In a significant urban area,Inner regional,23,0,ELS,24,S,"",Y,0,,0,0,0,0,0,0,17409,1530,37006,25256,0,0,0,0,-2949,24826
+4293556879,62,1970,2017,F,303,Sydney - North Sydney and Hornsby,1,VIC,"","",24,3,ELS,44,A,"",Y,0,0,0,297,0,0,0,8979,62,41381,45329,29436,0,0,0,0,-1561,793
+6387192941,73,1937,2022,M,406,Moreton Bay - South,3,NSW,"",Major city,52,0,ELS,25,A,Primary earner,Y,0,0,10375,0,0,20,0,0,0,4021,30662,28200,0,0,0,0,-638,0
+2147452796,42,1973,2023,M,801,Hume,2,QLD,In a significant urban area,Inner regional,33,0,ELS,32,A,"",Y,0,12548,0,0,0,0,0,0,0,0,18823,9175,0,0,6,0,-6670,2373
+8104094602,54,1967,2008,M,214,Mornington Peninsula,5,QLD,"",Major city,52,0,ELS,55,A,Primary earner,Y,0,0,0,15,0,0,0,0,0,56051,29985,8335,0,0,0,0,-250,7291
+1462123657,41,1984,2019,M,111,Latrobe - Gippsland,3,NSW,"","",62,0,PPR,31,S,Primary earner,Y,0,,0,1265,0,0,0,0,0,30550,24345,4443,19185,0,0,0,8,5590
+2317685675,74,1947,2018,F,317,Melbourne - North East,1,QLD,"",Outer regional,36,0,ELS,13,A,Secondary earner,Y,0,0,0,44,0,0,0,0,71,0,25857,24560,0,0,0,0,-434,6280
+9723579831,23,1968,2024,M,211,Adelaide - West,3,QLD,"","",73,2,ELS,51,A,Primary earner,Y,0,0,0,0,0,112,0,0,0,0,19480,14165,0,0,0,0,-134,6134
+1785658420,23,1944,2022,M,208,Melbourne - Inner,5,TAS,Not in a significant urban area,Outer regional,74,0,PPR,73,S,"",Y,0,0,0,34,0,0,0,0,0,117410,11347,31186,0,0,0,0,-1343,5933
+2129055413,69,1922,2023,F,403,Sydney - Blacktown,5,VIC,In a significant urban area,"",13,0,ELS,55,A,"",Y,0,0,0,37,0,46,0,0,240,12812,53940,30862,0,0,0,0,0,496
+5822728183,66,1981,2013,M,603,Perth - North West,2,QLD,"","",25,0,ELS,11,A,"",Y,0,0,0,49,0,0,0,0,10,1382,93290,9074,0,0,0,0,-4315,2678
+4984188630,47,1978,2024,F,402,Perth - North West,2,QLD,In a significant urban area,Major city,83,0,PPR,53,A,Primary earner,Y,0,0,0,0,0,53,0,0,0,32362,42894,15941,0,0,0,0,-1739,12854
+1922206349,34,1955,2013,F,319,Adelaide - Central and Hills,4,WA,In a significant urban area,Major city,27,1,ELS,45,A,Primary earner,Y,0,0,0,0,86,377,0,0,0,3585,24905,47812,0,0,0,0,-610,16988
+5740993103,43,1965,2026,F,211,Cairns,1,NSW,"",Major city,55,0,ELS,23,S,"",Y,,69,0,110,64,0,0,0,286,37079,54573,203421,0,0,0,0,-235,9473
+6536487629,36,1967,2020,M,118,Newcastle and Lake Macquarie,3,SA,In a significant urban area,"",54,0,ELS,11,A,"",Y,0,0,0,0,312,0,0,0,0,0,34900,23108,36214,0,0,0,-21,0
+3811053922,30,1975,2023,F,213,Adelaide - North,3,NSW,In a significant urban area,"",89,0,ELS,89,A,"",Y,0,0,0,0,138,8519,0,0,0,0,14490,6602,0,0,0,9584,-421,0
+5879209104,44,1947,2026,M,504,Perth - North West,5,QLD,In a significant urban area,Major city,22,2,PPR,27,A,Primary earner,Y,0,0,0,127,0,0,0,0,0,6189,89047,41777,0,0,0,0,-2658,12379
+2208098689,20,1982,2019,F,121,Illawarra,3,NSW,"",Major city,22,0,PPR,32,A,"",Y,0,0,0,0,0,0,0,0,0,0,11541,8240,0,0,0,0,-2599,1840
+1664776295,35,1932,2007,M,118,Newcastle and Lake Macquarie,4,VIC,In a significant urban area,Inner regional,13,1,ELS,73,A,Primary earner,Y,0,0,0,626,0,0,0,0,37,0,81481,39979,0,0,0,0,-994,
+8890944637,24,1955,2012,F,213,Sydney - Outer West and Blue Mountains,1,WA,In a significant urban area,Major city,1,2,PPR,85,A,"",Y,0,0,0,17,0,,0,0,0,0,6923,149025,0,0,0,-10705,-138,2261
+3780637344,22,1963,2004,F,211,Melbourne - Outer East,8,VIC,In a significant urban area,"",62,0,ELS,59,A,"",Y,0,0,0,0,,56,0,0,0,38158,9966,37616,0,0,0,11866,-405,7790
+7071878908,41,1982,2016,M,122,Cairns,3,QLD,Not in a significant urban area,"",32,0,ELS,13,A,"",Y,0,0,0,0,0,0,2633,0,0,35753,28606,47514,0,0,0,0,-1157,10880
+8830688935,32,1987,2027,F,125,"",2,WA,In a significant urban area,Inner regional,63,2,ETAX,89,S,Secondary earner,Y,0,0,0,0,0,4,0,0,0,53,67656,26113,,0,0,0,-1449,7872
+2958275173,43,1986,2010,F,201,Adelaide - Central and Hills,2,VIC,In a significant urban area,Major city,84,1,ELS,63,A,Primary earner,Y,0,0,0,0,0,110,0,0,4,0,18503,42418,51775,0,0,-11211,-119,6718
+4959294003,28,1961,2019,M,308,"",1,SA,In a significant urban area,Major city,62,1,ELS,26,A,Primary earner,Y,0,0,39645,0,482,0,0,0,122,84102,27979,38264,0,0,0,0,-374,6101
+9506057173,35,1979,2024,F,601,Central Coast,2,VIC,In a significant urban area,"",23,3,PPR,23,A,"",Y,0,426,0,0,0,22,0,0,6,0,59394,25050,60186,0,0,0,-892,22862
+9538746513,27,1931,2012,F,318,Melbourne - North West,2,NSW,In a significant urban area,Major city,25,0,PPR,81,A,Secondary earner,Y,0,1923,0,10570,0,0,10012,0,0,36608,91658,8910,18397,0,0,0,-1547,0
+3501660204,40,1965,2014,M,211,Melbourne - Inner,2,QLD,In a significant urban area,Outer regional,34,2,ELS,24,A,Secondary earner,Y,0,324,0,0,724,0,0,0,0,0,37321,16052,0,0,0,0,-162,5558
+6538202940,84,1955,2015,M,116,Capital Region,1,QLD,"",Major city,61,0,ELS,43,S,Primary earner,Y,0,0,0,0,0,4435,0,0,0,0,8273,148298,0,0,0,0,-294,11968
+6872320402,51,1949,2020,M,109,Mid North Coast,5,WA,"",Major city,55,0,ELS,84,S,Primary earner,Y,0,0,0,252,0,0,0,0,0,21126,80278,16264,0,0,0,0,-519,17358
+4242402828,42,1944,2015,M,107,Adelaide - North,2,VIC,In a significant urban area,"",24,0,TELE,14,A,Secondary earner,Y,0,0,0,120,0,540,0,0,9,48264,8455,46275,0,0,0,0,-3326,0
+9934542465,17,1940,2008,M,310,Capital Region,1,NSW,In a significant urban area,"",83,1,ELS,24,A,"",Y,0,0,0,0,0,1187,0,10506,0,0,51587,9516,0,0,0,0,-806,7562
+8828462106,53,1957,2014,F,801,"",3,NSW,In a significant urban area,"",54,3,ELS,83,A,"",Y,0,0,3991,0,0,0,0,0,0,8929,31445,42785,0,0,0,0,-453,15255
+6052113206,54,1980,2004,M,310,Cairns,4,NSW,In a significant urban area,"",14,0,ELS,22,A,Primary earner,Y,0,222,0,3005,0,0,0,0,12,0,14316,8841,0,0,0,0,-918,6794
+3094160261,20,1954,2026,M,111,Brisbane - South,2,VIC,Not in a significant urban area,"",14,2,ELS,71,A,Primary earner,Y,0,0,0,0,31,0,0,0,60,57656,62956,22785,0,0,0,0,-1665,5335
+3907358457,26,1942,2021,M,208,Newcastle and Lake Macquarie,3,VIC,"",Major city,74,0,ELS,23,A,"",Y,0,0,0,2881,0,0,1709,0,0,4782,9096,13449,0,0,0,0,-78,4568
+5625426500,16,1982,2027,F,301,Melbourne - Outer East,4,VIC,In a significant urban area,"",83,1,ELS,32,A,Primary earner,Y,0,0,0,35,0,0,0,0,0,58300,40806,57463,0,0,0,0,979,903
+6838833591,26,1934,2015,M,602,Melbourne - Outer East,3,NSW,In a significant urban area,Major city,53,2,TELE,42,S,Primary earner,Y,0,0,0,0,0,0,0,0,75,61596,17308,158691,0,0,0,0,10606,2400
+8683409349,22,1973,2021,F,205,Sydney - Parramatta,1,VIC,"",Major city,13,0,ELS,83,A,"",Y,0,0,0,605,0,84,0,0,0,37298,9984,56233,0,0,0,0,0,84981
+7198884945,21,1982,2023,M,506,"",1,NSW,In a significant urban area,"",84,3,ELS,21,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,28112,23157,69152,0,0,0,0,-50,2115
+5914647532,47,1924,2018,M,204,Perth - North East,3,QLD,Not in a significant urban area,Inner regional,13,1,ELS,51,S,"",Y,0,435,0,0,0,0,0,0,0,44437,46453,18411,0,0,0,0,-633,13978
+2425754709,34,1957,2024,M,205,Sunshine Coast,3,NSW,"","",24,0,ELS,23,S,Primary earner,Y,0,128,0,0,0,0,0,0,0,0,81390,65693,0,0,0,0,20,4477
+6558101243,66,1977,2010,F,216,Melbourne - Inner East,2,VIC,"",Outer regional,24,2,TELE,56,S,Primary earner,Y,0,56,0,0,0,0,1105,0,0,27408,59501,38689,0,0,0,0,-2611,12838
+1170073999,20,1942,2021,M,111,Mornington Peninsula,3,VIC,"",Outer regional,59,0,ETAX,62,A,"",Y,0,0,0,2047,0,0,0,0,0,15697,18367,17685,0,0,0,0,-377,572
+7691033799,34,1941,2006,M,108,Newcastle and Lake Macquarie,5,WA,In a significant urban area,Major city,83,0,ELS,89,S,"",Y,0,0,0,7,0,0,244,0,0,10448,8347,78182,0,0,0,-7425,-272,10463
+1769525383,18,1962,2012,M,103,Illawarra,1,QLD,"","",35,0,ELS,53,A,Primary earner,Y,,0,28374,12,0,0,,0,762,0,18435,25567,405,0,0,0,0,2225
+8029437033,29,1933,2007,M,124,Perth - South East,2,WA,In a significant urban area,Major city,71,0,ELS,22,S,Primary earner,Y,0,0,0,0,0,41,0,0,0,42006,30100,10827,0,0,0,-2378,-1927,2438
+8985368591,62,1922,2027,F,212,Cairns,2,WA,In a significant urban area,Outer regional,22,2,ELS,85,A,"",Y,0,0,0,0,0,0,0,0,0,0,11833,44151,0,0,2283,0,1120,34727
+9985926170,29,1980,2012,M,505,"",2,NT,In a significant urban area,Major city,32,0,ELS,24,A,Secondary earner,Y,0,0,0,72,0,0,0,0,845,0,22206,29439,0,0,0,2148,-1133,0
+7781577199,60,1967,2022,M,118,Melbourne - Inner,2,WA,Not in a significant urban area,"",83,0,ELS,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,37417,14056,17172,0,0,0,0,-1483,1310
+7551323654,26,1958,2007,F,310,Perth - North West,1,WA,In a significant urban area,Outer regional,62,0,PPR,84,A,Primary earner,Y,0,0,0,1120,0,0,0,0,0,8421,33035,9278,0,0,0,-2287,1009,8532
+6484936927,76,1965,2020,M,213,Sydney - Inner South West,6,VIC,In a significant urban area,Outer regional,13,0,ELS,89,A,"",Y,0,0,0,0,0,0,0,0,692,0,14670,12792,0,0,0,0,74,183
+2244593207,26,1941,2019,M,101,Mid North Coast,1,VIC,"",Major city,83,1,ELS,43,A,"",Y,0,0,0,5942,0,0,0,0,0,48843,66089,37446,0,0,0,0,4675,5710
+6274732126,32,1953,2022,M,107,Mornington Peninsula,5,SA,Not in a significant urban area,Major city,33,2,ELS,74,A,Secondary earner,Y,0,0,0,0,0,106,6180,0,0,52006,28322,9205,,0,0,0,1440,6213
+3974272590,58,1982,2010,F,119,Sydney - North Sydney and Hornsby,1,WA,In a significant urban area,"",53,3,ELS,11,A,"",Y,0,0,0,0,0,2763,0,0,365,81740,164710,27128,0,0,0,0,266,3701
+8338949716,58,1975,2017,F,403,Bunbury,3,NSW,In a significant urban area,Major city,85,2,PPR,85,S,Secondary earner,Y,0,0,0,0,0,0,0,0,21,21949,26370,29765,0,0,0,0,1311,2037
+7459491521,58,1961,2022,M,211,Adelaide - South,1,NSW,Not in a significant urban area,Major city,71,1,ELS,61,S,"",Y,0,43,0,33,0,0,0,0,1994,19903,33975,48072,0,0,0,0,-1199,3463
+8839208458,19,1984,2019,F,102,Australian Capital Territory,2,NSW,In a significant urban area,Major city,59,2,ETAX,51,A,"",Y,0,0,0,308,0,0,0,0,0,51461,47,9695,0,0,0,0,-1222,17482
+9137645031,54,1971,2015,M,202,Melbourne - West,8,ACT,"",Major city,89,2,ELS,73,A,"",Y,0,0,0,0,0,0,0,0,199,10955,98468,57234,0,0,0,0,-306,3965
+9756683393,18,1943,2013,F,124,Brisbane - West,5,VIC,In a significant urban area,"",24,0,ELS,56,A,Primary earner,Y,0,0,0,0,0,87,0,0,77,47989,4437,50406,0,0,0,7543,-2402,0
+2422242134,48,1987,2024,F,214,Hunter Valley exc Newcastle,2,TAS,In a significant urban area,Major city,62,2,ELS,61,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,97,34282,52301,0,0,308,0,-107,975
+3781917450,37,1971,2024,F,215,"",1,ACT,In a significant urban area,Major city,55,3,ELS,13,S,Secondary earner,Y,0,0,0,119,0,4126,0,7017,1137,51657,19132,17758,0,0,0,0,-437,9001
+3469135187,51,1970,2021,F,314,Far West and Orana,2,WA,In a significant urban area,"",82,0,ELS,41,A,"",Y,0,684,11537,0,0,0,0,0,0,128986,-1515,17885,0,0,0,0,-1390,20137
+3886325340,43,1927,2022,F,401,Melbourne - West,3,VIC,"","",43,3,PPR,11,S,Primary earner,Y,,0,0,,0,0,0,0,0,21219,2301,104752,-1192,0,0,0,-239,1856
+8510597232,35,1944,2025,M,116,Perth - North West,4,NSW,In a significant urban area,"",85,2,ELS,89,A,Secondary earner,Y,0,0,0,0,0,0,0,0,592,29527,30764,51359,0,0,0,0,-2901,17840
+7345978762,53,1974,2011,M,305,Sydney - North Sydney and Hornsby,3,NSW,In a significant urban area,Major city,32,3,ELS,42,A,"",Y,0,341,0,0,0,0,0,0,0,143609,48703,34659,0,0,0,0,0,344
+9960653503,47,1976,2023,F,203,Melbourne - Outer East,1,ACT,In a significant urban area,Major city,33,0,ELS,42,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,18406,73364,0,0,0,0,-236,24027
+9347765363,29,1962,2005,F,203,Brisbane Inner City,2,VIC,"","",72,3,ELS,83,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,37127,5260,0,0,0,0,-735,20964
+5872135729,54,1979,2021,F,108,Gold Coast,1,NSW,In a significant urban area,"",54,2,PPR,59,S,Secondary earner,Y,0,0,0,160,0,0,6791,0,0,18362,32321,8852,0,0,62,0,-2556,9787
+9349543017,36,1974,2016,M,305,Hobart,1,NSW,"",Major city,1,2,ELS,62,S,"",Y,0,0,0,0,0,0,0,0,2,8,22482,12298,0,0,0,0,-7,4414
+6436279226,44,1981,2008,F,116,Hobart,2,VIC,In a significant urban area,Inner regional,32,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,163,34348,39871,61246,2134,0,0,0,199,3435
+1399470363,60,1933,2012,F,117,Illawarra,4,NSW,"",Major city,62,0,PPR,55,A,Secondary earner,Y,0,0,0,0,0,0,0,0,2713,0,846,69842,0,0,0,0,7,4656
+1399623648,41,1960,2017,F,508,Sydney - Inner West,2,NSW,"",Major city,22,0,ELS,26,S,"",Y,0,0,0,7,0,0,0,0,0,0,34461,43111,0,0,0,0,-874,25130
+4819956279,32,1979,2022,F,309,Melbourne - West,2,NSW,"",Inner regional,53,0,PPR,11,A,"",Y,0,0,0,0,0,0,0,0,15953,19944,31553,,0,0,0,0,3479,0
+6555985482,40,1942,2018,M,203,Brisbane - West,1,VIC,"","",45,3,ELS,43,A,Primary earner,Y,0,112,0,1291,0,167,0,3897,0,0,25690,28054,1961,0,0,0,-177,30445
+6826323485,36,1983,2014,M,119,Melbourne - Inner South,5,QLD,In a significant urban area,Major city,24,0,ELS,53,S,Primary earner,Y,0,0,0,1339,0,0,0,0,0,2580,16844,127,0,0,0,0,-1211,0
+1014940637,45,1984,2013,F,206,Sunshine Coast,3,NSW,Not in a significant urban area,Major city,55,0,ELS,31,A,"",Y,0,1181,0,14458,3,0,0,0,774,10580,46529,37358,0,0,112,0,0,1930
+2962959266,35,1974,2003,M,304,Hobart,2,QLD,In a significant urban area,Major city,61,2,ELS,25,A,Primary earner,Y,0,0,0,0,0,21,0,0,0,117002,5063,51643,0,0,0,0,-1708,4482
+2355620197,50,1965,2005,F,210,Perth - South East,2,VIC,Not in a significant urban area,"",52,2,ELS,55,A,"",Y,0,0,0,0,0,12,0,0,0,0,38545,19552,0,0,0,0,-101,8945
+7514193819,23,1973,2024,M,207,Sydney - Parramatta,1,VIC,"",Inner regional,32,2,ELS,62,A,Secondary earner,Y,0,0,0,0,0,1160,0,0,5,0,50163,25911,0,0,0,0,-4899,417
+3415619421,63,1924,2007,F,210,Mackay - Isaac - Whitsunday,1,NSW,"","",33,3,PPR,41,A,Secondary earner,Y,0,1912,0,125,0,0,0,0,0,29610,32092,24385,0,0,0,0,-1293,44226
+3611804242,29,1970,2010,F,126,"",1,"",In a significant urban area,Major city,89,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,0,0,5454,0,59102,28062,57256,0,0,0,0,-1164,21
+4865969422,34,1934,2019,F,122,"",1,WA,"",Outer regional,24,2,ELS,22,S,Secondary earner,Y,0,0,0,15026,0,0,0,0,100,11011,50327,44072,0,0,0,-1480,-324,4854
+5748805117,41,1967,2018,M,117,Western Australia - Wheat Belt,1,NSW,In a significant urban area,Major city,43,2,PPR,39,A,"",Y,0,94,0,0,0,0,0,0,0,84329,38769,68306,0,0,0,0,-908,10506
+5945912914,21,1981,2026,F,112,Illawarra,4,QLD,In a significant urban area,Inner regional,63,2,PPR,55,S,Primary earner,Y,0,0,0,417,0,0,0,0,0,4537,35331,38686,0,0,0,0,-431,2314
+3026663319,28,1972,2027,F,216,Melbourne - Inner,5,QLD,"",Major city,62,0,ELS,11,A,"",Y,0,0,0,0,0,111,0,0,0,10759,183669,30797,0,0,0,0,-466,5656
+2163820332,56,1942,2020,F,122,"",1,VIC,Not in a significant urban area,"",62,0,ELS,42,A,"",Y,0,0,0,92,0,0,0,0,1,58165,21834,40047,0,0,0,-603,-1232,7108
+3416364473,33,1970,2006,M,122,Richmond - Tweed,3,"","","",25,0,ELS,53,A,"",Y,0,0,0,147,0,0,0,0,0,32615,53063,1207,0,0,0,0,-442,8351
+7402474714,21,1949,2023,M,319,Perth - North West,2,VIC,In a significant urban area,Outer regional,53,0,ELS,11,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,34182,32069,146956,0,0,0,0,-3437,73122
+1041594047,63,1956,2007,M,210,Sydney - Baulkham Hills and Hawkesbury,2,NSW,In a significant urban area,"",59,1,ELS,52,S,"",Y,0,19,5896,0,0,0,0,0,0,,23749,23474,54321,0,0,0,-2440,5508
+1246694795,66,1966,2024,M,125,Central West,2,NSW,In a significant urban area,"",41,0,ELS,55,A,"",Y,0,0,12973,0,0,0,0,0,0,50459,33824,15038,0,0,0,-9649,-266,
+7706136933,54,1965,2004,F,204,Richmond - Tweed,2,NSW,"",Major city,42,0,ETAX,42,A,"",Y,0,204,2989,0,0,0,0,0,34,0,44418,69115,0,0,0,0,1520,10851
+9466921322,45,1936,2023,F,211,New England and North West,1,VIC,In a significant urban area,"",33,0,ELS,56,A,"",Y,0,0,0,0,0,0,0,0,0,57736,54245,21758,0,0,0,0,-660,6946
+2698305068,23,1968,2007,M,212,Melbourne - Inner,2,WA,In a significant urban area,"",34,0,ELS,62,A,Secondary earner,Y,0,0,0,0,0,0,0,0,1433,12580,41953,21345,0,0,0,0,872,1857
+6886513197,32,1950,2013,F,125,Melbourne - Inner,2,VIC,In a significant urban area,Inner regional,89,0,ELS,63,A,"",Y,0,0,0,0,0,0,0,0,733,28698,29964,81422,0,0,0,0,-252,7717
+5108822475,21,1965,2024,F,507,"",3,QLD,In a significant urban area,Major city,81,0,ETAX,56,A,"",Y,0,0,0,0,0,,0,0,0,6403,28093,11130,0,0,0,0,311,13364
+9274727498,20,1979,2018,M,402,Adelaide - Central and Hills,1,QLD,"",Inner regional,27,0,ELS,34,A,Secondary earner,Y,0,5976,0,490,0,0,0,0,1018,52935,257,30617,0,0,0,0,-649,85617
+4134797710,83,1956,2025,F,116,Sydney - Inner South West,1,NSW,"","",45,2,ETAX,23,S,Secondary earner,Y,0,0,0,0,0,0,1915,0,0,12683,56161,52196,0,0,0,0,132,1723
+1405836335,59,1979,2017,F,109,Ballarat,6,TAS,"","",71,2,ELS,24,A,Primary earner,Y,0,0,0,4738,0,138,0,0,0,32595,57698,369,0,0,137,0,-366,12652
+1609143210,33,1984,2019,F,108,Geelong,3,NSW,"","",55,1,PPR,11,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,24317,52577,42784,0,0,0,6149,-352,10730
+3571216355,23,1984,2023,M,601,Perth - North West,4,VIC,"","",83,2,ELS,35,A,"",Y,0,0,0,0,0,740,0,0,0,6379,-320,49849,0,0,0,0,-9382,14904
+5408282306,46,1942,2004,M,116,Adelaide - North,5,QLD,In a significant urban area,Inner regional,42,1,ELS,41,A,"",Y,0,75,0,0,43,0,0,0,0,24080,3142,26579,0,,0,0,0,48
+4501359704,33,1980,2022,F,309,Melbourne - South East,4,QLD,Not in a significant urban area,"",83,2,ELS,89,S,"",Y,0,0,0,0,0,0,0,0,0,33059,200905,13403,0,0,0,0,-11924,1123
+8018168955,51,1942,2026,M,604,New England and North West,2,TAS,"",Major city,43,0,ELS,61,A,"",Y,0,0,0,372,0,57,0,0,6194,77227,28351,7320,0,0,0,0,-157,1962
+1772903709,27,1973,2018,F,110,Central Queensland,2,VIC,"",Inner regional,83,1,ELS,55,A,"",Y,0,4757,0,0,0,45,0,0,0,4777,9375,5696,0,0,0,0,112,12911
+1293608364,27,1955,2026,M,309,Adelaide - South,2,NT,Not in a significant urban area,"",89,0,ETAX,53,A,Primary earner,Y,0,0,0,,0,1447,0,0,0,0,42307,7940,0,0,0,0,-3398,2090
+9886359089,65,1927,2021,M,127,Ipswich,3,SA,In a significant urban area,"",55,1,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,15387,16558,46083,5877,0,0,0,2653,789
+7709218121,25,1975,2022,F,303,Sydney - Outer West and Blue Mountains,1,VIC,In a significant urban area,Major city,62,2,ELS,32,A,Primary earner,Y,0,0,0,0,0,3,0,0,0,19567,27341,4071,0,0,0,0,-768,0
+6950165207,43,1982,2021,M,114,New England and North West,4,WA,In a significant urban area,"",52,0,TELE,84,A,"",Y,0,122,0,0,0,0,1855,0,0,68715,40084,43892,0,0,0,0,-2936,11689
+9909412954,56,1957,2013,F,301,Hume,1,VIC,In a significant urban area,Major city,53,3,ELS,81,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,48052,55125,20899,0,0,0,0,466,2119
+5083739658,46,1983,2021,F,702,Melbourne - Inner South,2,SA,In a significant urban area,Major city,34,3,PPR,52,A,"",Y,0,0,0,236,,0,0,0,0,35801,14512,59813,0,0,0,1061,-156,16526
+6661920084,30,1979,2009,F,209,Newcastle and Lake Macquarie,5,NT,"","",27,0,ELS,53,S,"",Y,0,0,0,0,288,0,0,0,0,48312,60801,,0,0,0,-816,-4132,3738
+9342582231,51,1972,2025,F,309,Melbourne - West,1,QLD,In a significant urban area,"",22,0,ELS,36,A,"",Y,0,0,0,1074,0,0,0,0,16451,1066,21495,18799,14145,0,0,-10395,2125,6438
+8104150768,37,1971,2013,F,316,Melbourne - Outer East,2,VIC,Not in a significant urban area,"",25,0,ETAX,62,A,"",Y,0,0,0,0,0,0,2657,0,0,0,104825,21487,0,0,0,0,-6753,745
+9874645686,26,1945,2024,M,203,Melbourne - South East,5,WA,In a significant urban area,Major city,55,0,ETAX,82,S,"",Y,0,0,0,1268,0,0,0,0,0,19482,6302,28360,0,0,0,0,745,2517
+3332280653,20,1974,2024,M,212,Geelong,1,QLD,In a significant urban area,Inner regional,36,1,ELS,59,S,"",Y,0,0,0,530,0,56,0,0,9,0,11633,29988,0,0,0,0,-161,22810
+8476269223,79,1949,2009,M,507,Perth - South West,1,NSW,"",Major city,63,1,ELS,11,A,"",Y,0,0,0,0,0,0,9364,0,12,0,78639,41969,0,0,143,-10687,-254,4604
+2256825586,46,1977,2021,M,511,Perth - North West,1,VIC,In a significant urban area,"",22,2,PPR,11,A,"",Y,0,0,0,0,0,0,1551,0,0,32286,191398,30821,53592,0,0,-767,186,1613
+9281350465,47,1951,2014,F,213,Melbourne - South East,5,VIC,In a significant urban area,Inner regional,51,0,ELS,43,A,"",Y,0,0,0,0,0,0,0,9497,8,38406,59681,9473,0,0,0,0,-1170,4164
+2218837405,20,1924,2013,F,213,Far West and Orana,5,VIC,"",Major city,43,0,PPR,53,A,Secondary earner,Y,0,0,0,0,0,0,0,0,15396,28663,28282,10732,0,0,0,0,-351,1345
+1327992763,38,1970,2007,M,212,Sydney - Inner West,3,QLD,In a significant urban area,"",55,0,PPR,62,A,"",Y,0,0,0,0,86,0,0,9866,0,28455,38963,13061,0,0,0,7958,-722,1169
+7888809095,49,1953,2008,F,106,Darwin,2,NSW,"",Major city,25,0,ELS,24,A,"",Y,0,0,0,147,0,46,0,0,0,15913,0,46536,0,0,0,0,261,14324
+5838269614,50,1977,2009,F,311,Perth - North West,2,NSW,In a significant urban area,Major city,62,0,ETAX,21,S,"",Y,0,298,0,0,256,693,10069,0,218,0,4223,52039,2992,0,0,0,-174,6135
+1622543932,78,1952,2024,F,206,Sydney - Inner South West,1,VIC,"",Outer regional,61,1,ELS,42,A,Primary earner,Y,0,3264,0,0,0,0,0,0,0,24332,44871,12910,0,0,0,0,-495,0
+7954270261,40,1945,2007,M,210,Ballarat,1,NSW,In a significant urban area,Major city,24,0,ELS,39,A,Secondary earner,Y,0,0,0,600,0,0,0,0,0,7933,11449,35897,0,0,0,0,-746,0
+6382967669,41,1926,2024,M,110,Mackay - Isaac - Whitsunday,2,QLD,"",Major city,63,0,ELS,89,A,Primary earner,Y,0,1521,0,0,0,0,4483,3340,0,45810,11331,11368,0,,0,0,-453,10740
+8928938056,31,1981,2022,F,801,Ipswich,2,WA,"","",55,3,ELS,62,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,7892,27632,38115,10397,0,0,0,16,9761
+1061825909,50,1958,2014,M,215,Southern Highlands and Shoalhaven,1,NSW,In a significant urban area,"",62,0,ELS,24,A,"",Y,0,0,30999,0,0,0,0,0,0,45695,30431,35983,0,0,0,0,-1565,0
+2193271915,43,1972,2017,M,120,Mornington Peninsula,3,SA,In a significant urban area,Major city,61,3,ELS,11,A,"",Y,0,0,0,0,0,0,8243,0,0,27765,31846,57058,0,0,0,0,-495,0
+6631107437,42,1956,2014,M,306,Sydney - Sutherland,2,NSW,"",Inner regional,13,0,ETAX,54,S,"",Y,0,0,0,3,0,0,0,0,16445,69757,73793,25223,0,0,0,-2861,4509,19903
+1900458345,39,1965,2017,M,213,Perth - North East,5,SA,In a significant urban area,Major city,21,0,ELS,44,S,"",Y,0,0,0,0,0,550,0,0,0,9009,9890,34502,0,0,0,0,853,179
+4923277149,29,1975,2007,F,317,Brisbane - South,1,NSW,In a significant urban area,Major city,13,2,ETAX,11,A,"",Y,0,0,15398,0,0,465,0,9543,6559,27241,14031,31611,0,0,0,0,-263,4720
+6744097411,25,1987,2024,M,206,Far West and Orana,2,NSW,In a significant urban area,Major city,73,2,ELS,85,A,Primary earner,Y,0,0,0,1562,0,0,0,0,3,8270,39847,34485,0,0,47,0,-557,12871
+3813081100,54,1948,2014,M,120,Ipswich,3,VIC,"",Outer regional,52,2,ELS,32,A,"",Y,0,0,0,0,0,10056,0,0,0,0,20389,27267,0,0,0,2017,-3092,5672
+2069118257,75,1958,2017,M,125,Melbourne - Outer East,1,NSW,"","",61,0,ELS,13,S,Primary earner,Y,0,0,0,0,0,46,0,0,0,35383,26121,47967,-505,0,0,0,7889,4979
+1377014572,45,1945,2006,M,801,Bendigo,5,NSW,In a significant urban area,Major city,63,0,PPR,45,A,"",Y,0,89,0,0,0,0,0,0,486,2393,12520,13711,0,0,0,0,5399,3079
+4921900741,55,1966,2012,M,206,"",1,QLD,"",Major city,53,3,ELS,71,A,"",Y,0,0,0,0,0,0,0,0,0,0,19120,5906,0,0,0,0,-10284,5032
+6882552601,16,1966,2024,M,208,Perth - North West,4,ACT,In a significant urban area,"",1,2,ELS,11,S,"",Y,0,0,0,0,0,0,0,22,0,43211,17263,23245,0,0,0,0,-214,4449
+7526748030,29,1922,2017,M,124,Adelaide - Central and Hills,1,QLD,"","",13,3,ELS,34,A,"",Y,0,0,0,57,0,0,0,3390,3853,35315,,1417,0,0,0,0,-462,1600
+4123113645,32,1955,2019,M,105,Mornington Peninsula,2,NSW,Not in a significant urban area,Major city,42,2,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,36,11087,27990,12241,0,0,0,0,-2632,10171
+9351975892,21,1949,2026,M,210,Melbourne - North East,1,WA,"",Major city,34,0,ELS,32,A,Primary earner,Y,0,7762,0,0,0,0,0,0,1657,0,27113,38901,0,0,0,6539,-728,0
+9023889741,54,1929,2005,M,202,Barossa - Yorke - Mid North,1,VIC,"",Inner regional,32,5,ELS,52,A,"",Y,0,0,0,0,0,46,0,0,0,0,30209,51948,0,0,0,0,-43,709
+1699369943,44,1979,2017,M,302,Adelaide - North,5,WA,In a significant urban area,Inner regional,35,0,ELS,62,A,"",Y,0,0,0,0,0,13,0,7840,191,113211,983,12049,0,0,13910,0,10,9997
+3448619239,40,1964,2018,F,312,Melbourne - Inner South,3,WA,In a significant urban area,Inner regional,36,1,ELS,84,A,"",Y,0,0,0,0,0,0,0,0,0,6578,25800,53952,9890,0,0,0,-1867,9846
+7575301437,87,1968,2021,M,507,Moreton Bay - South,3,NSW,In a significant urban area,"",61,0,ELS,71,A,"",Y,0,0,0,0,0,0,0,0,0,27032,8048,16149,0,0,1698,0,-53,25
+5371397015,77,1974,2003,F,602,South Australia - Outback,1,NSW,In a significant urban area,Major city,63,0,ELS,71,A,"",Y,0,0,0,0,0,124,0,0,0,43,10962,87096,0,0,0,0,-3245,0
+2633603870,27,1956,2024,M,303,Sydney - Parramatta,3,WA,"",Outer regional,1,0,ELS,27,S,"",Y,0,392,0,0,,0,6323,0,8,10360,4476,21852,0,0,0,0,-306,0
+1896307422,40,1947,2006,M,311,Central Coast,3,VIC,In a significant urban area,Major city,25,1,ELS,43,A,"",Y,0,0,31855,0,0,0,0,0,0,6113,17627,62002,0,0,0,0,-1550,1949
+8987049698,31,1974,2019,F,403,Hunter Valley exc Newcastle,1,SA,In a significant urban area,Major city,32,1,ELS,24,A,"",Y,0,0,0,0,0,0,577,0,0,12494,67798,9997,0,0,0,0,-194,2259
+8666182792,57,1972,2025,F,108,Melbourne - North East,1,SA,In a significant urban area,"",53,0,ELS,54,A,Primary earner,Y,0,0,0,0,0,896,0,0,2063,0,54981,7968,0,0,0,0,-337,45
+1920557919,31,1981,2019,M,116,Adelaide - South,3,WA,In a significant urban area,Major city,31,2,ETAX,35,A,"",Y,,0,0,448,0,0,0,0,2356,33600,35159,14400,0,0,0,0,-1089,940
+7313744549,45,1968,2023,M,205,Perth - Inner,2,VIC,"","",26,0,ELS,43,A,Primary earner,Y,0,0,0,,0,0,0,7902,12714,29608,38615,25806,-1391,0,0,313,0,0
+6142493986,33,1975,2015,F,206,Sydney - Eastern Suburbs,3,"","","",55,2,ELS,24,A,"",Y,0,0,0,0,1236,0,0,0,0,61793,38631,23211,0,0,0,0,-4136,2101
+2867283250,18,1954,2024,M,402,Darling Downs - Maranoa,4,NSW,"","",83,2,ELS,81,S,"",Y,0,0,0,0,0,0,0,0,0,46565,11751,31644,0,0,0,0,-316,27658
+5870455998,29,1951,2004,F,309,Central West,3,NSW,In a significant urban area,Inner regional,42,0,ELS,11,A,"",Y,0,0,0,0,0,,0,0,0,34227,80562,82403,0,0,0,0,-232,
+5355403847,45,1985,2023,F,214,Sydney - Parramatta,1,VIC,"",Major city,73,0,ELS,32,S,Primary earner,Y,0,0,0,0,204,0,0,0,27,43480,33308,77932,0,0,0,0,-2835,2015
+8591272630,56,1961,2025,M,206,Sydney - Eastern Suburbs,8,VIC,In a significant urban area,"",55,2,ELS,83,A,Primary earner,Y,0,426,0,0,0,0,0,0,0,22128,122941,50194,0,0,0,0,11814,4125
+5872273288,47,1963,2024,F,109,Sydney - Blacktown,1,QLD,In a significant urban area,Major city,62,1,ELS,36,A,"",Y,0,,0,0,0,0,1750,0,0,31583,11103,28861,0,0,0,2026,332,1553
+4637591206,42,1941,2022,M,309,North West,1,VIC,"",Major city,62,1,ELS,53,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,39921,0,9900,0,,0,0,-3736,1141
+7272607617,35,1936,2013,M,114,Melbourne - Inner South,3,VIC,"",Major city,24,0,PPR,25,A,Primary earner,Y,0,0,0,0,0,587,0,0,0,31032,31331,8817,0,0,0,0,-1545,11744
+7031590198,29,1964,2027,M,505,Sydney - Blacktown,1,WA,Not in a significant urban area,Inner regional,54,0,ELS,43,A,"",Y,0,4305,0,0,0,0,0,0,177,10854,42096,26563,0,0,0,-213,-1823,7174
+8027111466,49,1951,2014,F,108,Sydney - Inner South West,1,NSW,In a significant urban area,Major city,62,1,ELS,73,A,Primary earner,Y,0,0,0,0,0,128,0,10785,874,0,48645,18533,0,0,7,0,2782,786
+1218325974,56,1971,2004,M,109,Perth - North West,4,SA,In a significant urban area,"",73,2,ELS,83,A,"",Y,0,0,0,0,0,289,0,0,1442,21719,9149,17848,0,0,0,13464,9473,37933
+4439886554,18,1943,2012,F,216,Illawarra,2,NSW,"","",25,1,ELS,42,A,"",Y,0,0,0,64,0,0,0,0,0,68912,20721,53581,134,0,26,0,4956,11292
+2441518850,31,1948,2006,M,403,Newcastle and Lake Macquarie,5,NSW,In a significant urban area,Major city,82,3,ELS,35,A,"",Y,0,0,0,0,0,75,0,0,0,33531,44436,71479,0,0,46436,-16,-245,1915
+3480391891,45,1979,2025,M,303,Cairns,1,NSW,In a significant urban area,"",11,0,ELS,63,A,"",Y,0,0,0,0,0,0,0,10166,0,2362,8611,13612,0,0,37,0,-1342,4393
+5003636051,21,1963,2020,F,209,Far West and Orana,2,NSW,In a significant urban area,"",32,0,ELS,23,A,Primary earner,Y,0,321,0,35,0,0,0,0,504,40489,66793,76155,0,0,0,0,557,4157
+7310608979,41,1948,2026,F,104,Melbourne - Inner,2,VIC,Not in a significant urban area,Major city,13,0,ELS,45,A,"",Y,0,0,0,0,0,0,0,0,0,14217,1,22283,0,0,,0,-983,9800
+7902479838,46,1967,2013,F,510,Logan - Beaudesert,2,VIC,In a significant urban area,Major city,25,0,ELS,62,A,Primary earner,Y,0,2,0,0,0,3028,,0,0,1713,15488,49891,0,0,0,0,-864,6139
+6593559477,24,1960,2026,M,206,"",1,NSW,Not in a significant urban area,"",24,1,ELS,62,S,Secondary earner,Y,0,0,0,0,0,54,0,0,890,6978,36664,37220,0,0,0,0,2838,1942
+6796922148,24,1946,2006,M,401,Sydney - North Sydney and Hornsby,4,VIC,In a significant urban area,Major city,23,3,ELS,25,A,"",Y,0,0,0,0,1087,46,0,0,0,42811,9795,49459,0,0,0,-4242,-1449,4961
+3894304620,23,1967,2020,M,206,Sydney - Blacktown,1,VIC,Not in a significant urban area,"",73,0,ELS,11,A,"",Y,0,0,0,0,2,0,0,0,0,0,5357,22352,0,0,0,0,-496,53
+3365902458,31,1965,2021,F,308,Logan - Beaudesert,4,VIC,Not in a significant urban area,Inner regional,42,1,ELS,35,A,"",Y,0,0,5303,0,0,0,0,0,0,17887,52964,39795,1634,0,0,0,-86,2679
+7501951858,24,1976,2015,F,214,South Australia - South East,3,ACT,"",Major city,81,0,ELS,25,A,Secondary earner,Y,0,298,0,0,0,0,0,0,0,1606,29060,78623,0,0,0,0,-57,29792
+3312765930,39,1981,2024,F,123,Sydney - Ryde,1,NSW,In a significant urban area,Major city,53,0,ELS,11,A,Secondary earner,Y,0,0,0,1453,0,0,0,0,0,1464,22493,3737,0,0,0,0,-354,4158
+7566512806,35,1951,2021,F,403,Adelaide - Central and Hills,2,VIC,In a significant urban area,"",22,0,ELS,27,A,Primary earner,Y,0,0,0,1805,0,0,0,0,0,63751,6691,40230,0,0,0,0,69,1482
+5878309104,48,1969,2025,F,208,Sydney - City and Inner South,5,VIC,In a significant urban area,Major city,63,3,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,2148,30617,3732,0,0,0,0,-1602,154
+8516441776,48,1982,2025,M,110,Queensland - Outback,2,TAS,"","",11,2,ELS,24,S,Secondary earner,Y,0,0,0,0,0,0,0,0,1,22691,17791,26816,0,0,0,0,-398,11228
+3681200667,43,1942,2021,M,212,Brisbane - North,3,NSW,"",Inner regional,51,0,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,0,17991,157629,,0,0,45,-1006,-303,333
+9237334748,31,1941,2010,F,212,Perth - North East,3,VIC,In a significant urban area,Major city,52,0,ELS,24,A,"",Y,0,0,0,0,0,0,0,0,183,35462,,72357,0,0,0,0,-2214,34143
+8331393036,45,1964,2026,F,113,Adelaide - South,2,NSW,"",Major city,25,3,ELS,33,A,"",Y,0,0,0,0,0,1,0,0,0,0,949,36273,0,0,0,0,-490,3445
+2766254583,52,1945,2011,F,209,South Australia - Outback,1,SA,"",Major city,52,0,PPR,53,A,"",Y,0,0,0,0,0,77,0,0,3104,61192,50055,12518,0,,0,0,-2648,5644
+4518066296,48,1955,2014,F,211,Perth - South West,1,VIC,In a significant urban area,Outer regional,89,0,ELS,83,A,Secondary earner,Y,0,109,0,0,0,,0,0,0,1513,6500,8402,0,0,0,-5234,-238,3957
+9656867301,54,1931,2024,F,506,Brisbane - West,2,"",In a significant urban area,Major city,22,4,ELS,62,A,Secondary earner,Y,0,0,0,35628,0,739,77,0,32,0,33997,30363,0,0,0,0,-618,8453
+6434350334,18,1982,2013,F,312,Gold Coast,1,VIC,"",Major city,25,1,ELS,42,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,26703,43127,0,0,0,0,0,13400
+3553496386,81,1954,2024,M,401,Melbourne - Outer East,2,NSW,"",Inner regional,26,0,ELS,13,A,Primary earner,Y,0,0,0,2,123,0,0,0,0,50950,42473,57437,0,0,0,0,-639,14044
+2841436135,66,1938,2012,F,207,Sydney - Sutherland,1,NSW,In a significant urban area,Remote area,24,1,ELS,81,S,"",Y,0,0,0,0,0,0,0,0,0,28665,9384,31602,0,0,,0,-7201,2336
+9329860810,34,1965,2022,M,213,Sydney - Sutherland,5,QLD,In a significant urban area,"",55,0,ELS,61,A,"",Y,0,,13036,0,0,3087,2113,0,1,18341,17003,23923,0,,,0,-465,1506
+7198887294,45,1978,2023,M,503,Central Queensland,2,NSW,In a significant urban area,Major city,63,3,ELS,33,S,"",Y,0,0,26227,0,0,32,0,0,1944,0,632,22582,0,0,0,0,-143,1850
+6416038156,8,1955,2020,F,102,Coffs Harbour - Grafton,2,QLD,"",Major city,42,0,ELS,55,A,"",Y,0,0,0,0,61,0,0,0,486,65094,8544,142774,0,,0,0,-440,354
+1916316882,64,1943,2019,M,211,Hunter Valley exc Newcastle,1,VIC,"",Major city,81,1,ELS,26,A,Secondary earner,Y,0,0,0,0,0,151,0,0,68,1336,0,32031,0,0,0,0,-86,14450
+9531032230,52,1973,2014,M,311,Sydney - Sutherland,4,NSW,In a significant urban area,Major city,36,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,28794,5261,40787,0,0,0,0,-1174,10827
+9129139550,44,1983,2008,F,107,Perth - North West,1,QLD,"",Inner regional,35,0,ELS,11,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,24460,6133,31860,0,0,0,0,-648,976
+6128520290,32,1958,2019,F,106,Western Australia - Outback (North),1,NSW,Not in a significant urban area,"",55,0,ETAX,24,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,139740,9945,13769,0,0,0,0,-175,11377
+1935418382,43,1951,2018,M,402,Melbourne - Inner,2,VIC,In a significant urban area,Major city,81,0,ELS,73,A,"",Y,0,0,0,0,0,0,0,0,0,5716,49388,61005,0,0,0,0,-5941,4547
+9821490319,54,1972,2015,M,306,Sydney - Inner West,3,QLD,In a significant urban area,"",23,2,ELS,52,A,Primary earner,Y,0,0,,0,0,292,0,0,0,25378,0,6881,0,0,0,0,-495,462
+7924833865,29,1982,2007,M,203,Adelaide - Central and Hills,2,VIC,"",Inner regional,59,0,ELS,52,S,"",Y,0,0,2514,0,28,0,0,0,7561,9630,7331,135,0,0,1070,-11472,10,3657
+2206419171,32,1948,2020,M,319,Melbourne - Inner,3,WA,In a significant urban area,"",61,3,ELS,35,A,"",Y,0,0,0,0,0,0,0,0,366,840,6852,27928,0,0,0,0,-943,766
+2704124878,29,1981,2009,M,602,Melbourne - South East,1,QLD,In a significant urban area,Major city,44,0,ELS,13,A,Secondary earner,Y,0,0,0,0,0,0,0,0,5,6146,23812,11183,0,0,0,0,-630,329
+3415895882,15,1954,2010,F,208,Adelaide - South,2,NSW,"",Major city,25,2,ELS,32,A,Primary earner,Y,0,0,0,0,0,169,0,0,0,84952,50651,25175,0,0,0,0,-1019,7670
+6152839353,60,1966,2025,M,102,Brisbane - East,3,VIC,"",Major city,62,1,PPR,42,A,"",Y,0,0,0,0,0,7191,0,0,0,27690,50959,34317,0,0,0,0,-285,8380
+5982107785,57,1977,2024,F,101,Melbourne - Inner East,4,TAS,In a significant urban area,Major city,31,0,ELS,54,A,"",Y,0,0,0,0,0,0,0,0,0,16442,28116,13383,0,0,0,0,-2668,3542
+3171652737,28,1944,2003,M,506,Sydney - Inner South West,2,VIC,In a significant urban area,Major city,1,0,ELS,13,A,Primary earner,Y,0,0,,27,0,44,0,0,0,135098,9519,45182,2933,0,0,-1067,-1181,12517
+5645088585,55,1976,2007,F,311,Brisbane - East,1,QLD,Not in a significant urban area,"",35,2,ELS,62,A,"",Y,0,0,0,0,0,0,0,7620,94,0,111656,55381,0,0,0,0,621,4374
+4821050478,62,1949,2016,M,114,Gold Coast,6,QLD,"",Major city,42,1,PPR,21,A,"",Y,0,0,0,0,0,0,0,0,0,0,7475,40692,0,0,0,0,-228,82098
+9653720070,28,1968,2019,F,108,Sunshine Coast,2,NSW,In a significant urban area,"",24,0,ELS,84,A,"",Y,0,0,0,110,0,0,0,0,0,29824,31920,5522,0,0,0,0,-1156,44561
+9419721854,61,1975,2023,F,203,Adelaide - South,1,WA,In a significant urban area,"",32,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,0,0,0,47,30087,,9451,0,0,0,0,-2138,2761
+9935648644,24,1981,2024,M,503,Launceston and North East,4,VIC,Not in a significant urban area,Inner regional,62,3,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,164,13229,11824,30757,0,0,0,0,334,723
+6630578102,62,1962,2003,F,303,Perth - South East,2,WA,"",Outer regional,24,3,ELS,62,A,Primary earner,Y,0,0,16100,0,,94,0,0,0,53678,34169,21509,0,0,0,147,-1141,2838
+1441991629,46,1959,2009,M,506,North West,1,WA,"",Major city,21,1,ELS,25,A,"",Y,0,860,18306,0,0,0,0,0,17168,20308,43259,50221,0,0,0,0,-71,58028
+1040829471,19,1945,2023,M,128,"",4,NSW,In a significant urban area,"",63,0,PPR,25,S,"",Y,0,0,6305,0,0,0,0,0,0,28988,19772,10135,0,0,0,0,-1748,10894
+1104019475,71,1974,2005,M,119,Sydney - North Sydney and Hornsby,6,WA,In a significant urban area,"",62,0,ELS,32,A,"",Y,0,0,0,113,0,369,0,0,0,29970,27184,15625,0,0,0,0,-2399,1118
+4794956104,77,1974,2024,M,106,Melbourne - North East,1,NSW,In a significant urban area,"",73,2,PPR,24,A,"",Y,0,0,0,0,62,0,4052,0,2612,0,1979,1271,0,0,0,-2451,-607,16906
+6149078438,31,1986,2008,M,203,Darwin,4,NSW,"","",83,0,ELS,55,A,"",Y,0,2333,0,0,0,0,0,0,12,1963,42805,4314,0,,0,0,-744,367
+6111347912,49,1961,2026,F,111,Perth - South East,2,NSW,"",Major city,55,0,ETAX,33,A,Primary earner,Y,0,0,0,0,0,700,0,0,0,36590,48173,29736,0,0,0,0,-182,3103
+9914294281,46,1957,2018,F,123,Mid North Coast,2,VIC,"",Major city,22,2,ELS,11,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,6095,39623,38835,0,0,0,0,-33,0
+3295525913,53,1954,2016,F,317,Melbourne - West,5,QLD,"",Major city,71,0,PPR,55,A,"",Y,0,0,0,0,0,0,0,0,6034,49927,32487,137631,0,0,0,0,-1098,15329
+8024901877,41,1971,2027,F,214,Moreton Bay - North,1,SA,In a significant urban area,Outer regional,25,0,ELS,35,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,0,18276,62484,0,0,0,0,-460,2330
+5690610433,50,1971,2023,M,119,Bunbury,3,VIC,In a significant urban area,Major city,62,0,ELS,62,A,Primary earner,Y,0,0,0,111,0,27,0,0,0,24731,2745,69353,0,0,0,0,-1084,3099
+7712239072,33,1976,2019,F,115,Adelaide - South,1,WA,"","",24,0,ELS,26,A,"",Y,0,0,0,100,0,0,0,0,0,43446,11724,4568,440,0,0,-3700,0,6549
+1584866291,55,1944,2018,M,208,Sydney - Blacktown,2,VIC,"",Major city,55,3,ELS,32,A,"",Y,0,0,0,1753,0,0,,0,0,65575,15585,21389,,0,0,0,-2022,12515
+5951034702,56,1949,2023,M,126,Sydney - Inner South West,3,NSW,In a significant urban area,"",42,0,ELS,53,S,"",Y,0,0,0,0,0,134,0,0,0,27112,19116,16617,0,0,0,-1075,-2517,2623
+4801593566,37,1947,2010,M,302,Sunshine Coast,1,VIC,In a significant urban area,Major city,25,0,ELS,21,A,"",Y,0,0,0,0,0,0,0,0,0,0,8918,149570,0,0,0,0,-453,6466
+3148530117,19,1939,2026,F,403,Melbourne - West,4,VIC,In a significant urban area,Major city,32,2,ELS,42,A,"",Y,0,0,0,0,0,0,0,0,0,58598,43790,21793,0,0,1730,0,-6415,7599
+6958282266,46,1953,2012,F,213,South Australia - Outback,2,VIC,"",Major city,25,0,TELE,41,A,"",Y,0,0,0,357,1224,0,0,0,0,0,14854,76266,0,0,6664,0,-76,4153
+8071157768,53,1979,2012,F,311,Moreton Bay - North,1,VIC,In a significant urban area,"",33,0,ELS,62,A,"",Y,0,0,17874,27,83,13629,1188,0,7,52611,0,,0,0,0,1445,14100,1137
+9153596520,46,1959,2025,F,106,Sydney - Outer South West,2,NSW,"","",24,0,PPR,32,A,"",Y,0,0,0,0,0,1501,0,0,0,24142,38646,25723,0,0,0,-967,-1266,6850
+7405790457,41,1924,2014,F,301,Sydney - Inner West,1,ACT,Not in a significant urban area,Major city,26,1,ELS,43,A,Secondary earner,Y,0,0,0,90,0,0,3325,0,0,27557,1,15812,0,0,0,0,-2435,13534
+7016644146,63,1954,2008,F,124,North West,3,SA,In a significant urban area,"",53,2,ELS,83,A,"",Y,0,0,,0,0,0,0,0,0,67211,14559,52161,0,0,0,0,-401,16507
+9327615220,53,1980,2013,F,302,Melbourne - South East,2,NSW,"",Major city,81,0,PPR,32,A,"",Y,0,0,0,0,0,999,0,0,1062,55661,19625,53924,0,0,0,0,1103,2184
+9267617993,55,1952,2023,F,125,Australian Capital Territory,2,NSW,Not in a significant urban area,Outer regional,39,2,ETAX,11,S,"",Y,0,0,0,0,0,0,0,0,0,11500,19727,40791,0,0,0,0,888,25783
+5523069532,21,1954,2011,M,212,Brisbane - South,3,NSW,"","",54,2,ELS,74,A,"",Y,0,0,2238,0,0,0,0,0,0,0,37755,85928,0,0,4,-13501,-693,22195
+3374029814,42,1951,2021,F,105,Bunbury,2,QLD,In a significant urban area,Inner regional,55,0,PPR,25,A,Primary earner,Y,,0,0,1757,0,0,0,0,0,0,23660,15363,,0,0,0,-1443,943
+6251923506,24,1979,2025,F,303,North West,2,VIC,In a significant urban area,Major city,62,0,ELS,33,A,"",Y,0,0,0,0,0,0,0,0,529,0,43483,17110,2838,0,0,0,-350,11601
+8098716514,54,1954,2011,M,505,Sydney - Parramatta,3,VIC,In a significant urban area,Inner regional,62,2,ETAX,74,S,Secondary earner,Y,0,0,0,0,0,0,0,0,0,26819,37896,47738,0,,0,0,-207,5820
+9252548803,21,1985,2024,M,305,Sydney - Inner South West,2,NSW,In a significant urban area,Major city,62,0,PPR,11,A,"",Y,0,0,0,0,0,0,6730,0,0,51929,12987,20138,0,0,0,0,-803,182
+1725145831,62,1950,2008,F,211,Melbourne - North East,2,NSW,"","",11,0,ELS,11,A,Primary earner,Y,0,0,0,23,0,0,0,,904,43046,30962,25669,0,0,834,-1933,-833,9555
+7206540351,35,1959,2026,M,107,Toowoomba,2,NSW,Not in a significant urban area,"",62,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,88,26902,16096,0,0,0,6966,-800,7559
+1937217790,60,1954,2006,F,306,Perth - Inner,4,NSW,"",Major city,1,1,PPR,62,A,"",Y,0,0,0,0,0,0,0,0,0,9511,38748,24181,0,0,0,0,-633,6487
+7617395511,47,1956,2013,M,118,Western Australia - Outback (North),2,VIC,Not in a significant urban area,Major city,33,0,ELS,32,A,"",Y,0,178,0,608,0,0,2060,0,0,9053,42085,28118,0,0,0,0,-515,755
+5013018800,77,1965,2017,F,121,Sydney - North Sydney and Hornsby,2,NSW,"",Major city,24,2,PPR,73,A,Primary earner,Y,0,0,0,,0,0,0,0,235,32732,38203,6048,0,0,478,0,-397,1025
+3313329719,24,1957,2007,F,116,Central Coast,2,QLD,In a significant urban area,"",73,1,ELS,43,A,"",Y,0,279,0,0,0,0,0,0,3,21024,16802,13992,20961,0,0,0,-607,0
+8983600949,44,1970,2007,F,118,Perth - South West,5,ACT,"",Major city,59,2,ELS,23,A,Primary earner,Y,0,0,0,2752,0,0,0,0,0,42952,30319,175227,0,0,0,0,12638,4287
+2430996394,39,1956,2024,F,506,Gold Coast,1,QLD,"","",84,0,ELS,55,S,Primary earner,Y,0,0,0,1144,0,16,0,0,0,375,46759,50493,0,0,0,3615,-1470,0
+1428598272,65,1991,2025,F,120,Brisbane - North,1,NSW,In a significant urban area,Major city,55,0,ELS,32,S,Primary earner,Y,0,15313,0,0,0,328,0,0,314,63992,15695,24505,0,0,0,0,-230,11320
+1176881431,76,1958,2005,M,127,Ipswich,2,VIC,"",Major city,55,0,ELS,23,A,Secondary earner,Y,0,0,0,46,0,0,0,0,144,48309,23561,28545,0,0,0,0,-3422,4508
+2138329099,28,1957,2023,M,212,Sydney - Outer West and Blue Mountains,1,WA,"",Major city,81,0,PPR,59,A,Primary earner,Y,0,0,0,0,0,6833,0,0,333,32449,46966,18454,0,0,0,0,-9511,0
+8113731642,67,1980,2017,M,501,Logan - Beaudesert,3,NSW,In a significant urban area,Major city,24,0,ELS,62,S,"",Y,0,0,0,0,0,948,0,0,0,36526,,37351,0,0,199,0,322,49527
+7980409557,32,1956,2006,F,213,Sydney - Inner South West,1,NSW,In a significant urban area,"",24,0,PPR,84,A,"",Y,0,0,0,309,0,0,0,0,0,13349,4902,47167,0,0,0,0,-1802,2032
+6836180860,61,1955,2023,M,207,Darwin,4,WA,In a significant urban area,Outer regional,25,3,ELS,35,A,Primary earner,Y,0,0,0,380,0,0,0,3547,0,0,1773,19846,0,0,0,0,261,66
+6620997232,51,1979,2016,M,119,Launceston and North East,1,VIC,In a significant urban area,"",35,0,ELS,11,A,"",Y,0,0,0,0,157,0,0,0,0,21210,48199,25652,0,0,0,0,2019,1238
+1596663630,42,1974,2025,F,211,"",3,VIC,In a significant urban area,Major city,13,0,ELS,23,A,Primary earner,Y,0,0,0,0,1315,0,0,0,0,8610,8627,17275,0,0,0,0,-3629,14218
+7932566512,28,1958,2021,F,211,Adelaide - South,2,NSW,"",Major city,62,2,ELS,24,A,"",Y,0,1,0,0,0,0,0,0,0,10779,56402,21052,0,0,,1069,-1048,37481
+4345969890,41,1979,2005,F,111,Adelaide - South,4,QLD,"",Inner regional,45,0,ELS,34,A,"",Y,0,0,0,676,0,0,0,0,0,52397,23944,5123,0,0,0,0,-96,6589
+6489978913,45,1971,2008,F,506,Sydney - Inner South West,2,QLD,"",Inner regional,72,0,ELS,24,A,Primary earner,Y,0,0,0,63,0,17,0,0,9,16149,7280,44152,52705,0,0,0,-353,2628
+9298912946,25,1948,2003,F,302,North West,2,VIC,In a significant urban area,"",14,2,ELS,23,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,12103,8366,31707,0,0,2377,0,-220,6837
+6689913272,34,1946,2014,F,313,Riverina,1,VIC,In a significant urban area,"",31,7,ELS,27,A,"",Y,0,,0,0,0,0,0,0,0,0,18588,11243,0,0,0,0,-1359,3691
+7415733073,50,1966,2015,M,307,Cairns,2,ACT,In a significant urban area,"",83,3,PPR,54,A,"",Y,0,0,0,0,1,0,1206,0,0,43463,9213,27523,0,0,0,0,-879,9258
+8683281300,65,1936,2025,M,505,Gold Coast,4,VIC,Not in a significant urban area,Major city,13,0,PPR,53,A,Primary earner,Y,0,0,0,779,0,0,0,211,0,2953,35055,44656,0,0,0,0,276,3445
+7161420113,49,1971,2017,F,206,Sydney - North Sydney and Hornsby,2,ACT,In a significant urban area,Major city,45,2,ETAX,11,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,18100,154757,71810,0,0,0,-67,3217,7362
+3703713325,45,1979,2006,F,207,Perth - Inner,3,QLD,"",Inner regional,24,1,ELS,36,A,Secondary earner,Y,0,0,0,0,0,0,0,0,29,61406,37634,41832,,0,0,0,-771,9366
+7825210690,57,1972,2019,M,201,Capital Region,5,NSW,In a significant urban area,"",73,1,ETAX,26,A,Primary earner,Y,,0,0,0,0,0,0,0,79,33180,0,38420,0,0,5178,0,4421,231
+8444720756,44,1965,2005,F,120,Sydney - Parramatta,1,VIC,Not in a significant urban area,Major city,84,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,30257,134588,28459,0,0,2529,0,-1781,632
+1754378505,47,1966,2009,F,302,Melbourne - Inner,5,NSW,"",Outer regional,24,2,PPR,22,A,Primary earner,Y,0,0,0,11720,93,0,0,0,0,0,22153,29431,1402,0,67,1055,-5,7978
+9072824866,20,1963,2015,M,212,Cairns,6,WA,"",Inner regional,62,2,PPR,61,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,17060,11492,0,0,0,0,-1454,0
+5040643761,35,1952,2010,F,507,Moreton Bay - North,2,SA,Not in a significant urban area,"",89,0,PPR,83,S,Primary earner,Y,0,0,0,21,241,0,7193,0,0,0,22531,17115,3749,0,0,0,-1484,17462
+2061107774,58,1987,2021,M,305,Australian Capital Territory,3,NSW,In a significant urban area,"",62,0,PPR,32,A,Primary earner,Y,0,0,0,0,0,3542,0,0,0,14024,15671,31801,-833,0,0,0,-383,0
+8871953838,26,1962,2014,F,115,Queensland - Outback,2,VIC,In a significant urban area,Inner regional,73,3,ELS,71,A,"",Y,0,2,0,0,0,74,2531,0,0,44276,18526,,0,0,4,0,-25,1644
+7165503688,29,1979,2023,F,318,Adelaide - Central and Hills,1,VIC,In a significant urban area,"",25,0,TELE,23,A,Secondary earner,Y,0,183,0,154,0,0,0,5211,959,10331,56205,22352,0,0,0,0,-526,1550
+4537189914,41,1957,2024,M,102,Ipswich,4,QLD,"",Major city,39,0,PPR,23,A,"",Y,0,0,0,0,0,0,1612,0,11,48604,53097,26942,3613,0,0,0,699,11904
+3168694269,19,1975,2026,F,128,Ballarat,4,WA,In a significant urban area,Inner regional,24,0,ELS,23,A,"",Y,0,0,0,661,0,0,0,0,0,45849,34923,5357,0,0,0,0,-567,1099
+1568536584,25,1985,2007,M,111,Melbourne - South East,1,VIC,In a significant urban area,"",27,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,36972,50902,49927,0,0,0,0,0,2496
+6297664168,49,1947,2015,F,119,"",1,SA,In a significant urban area,Major city,85,0,ETAX,14,A,"",Y,0,0,0,0,0,0,7151,0,0,3591,55725,6883,0,0,0,-624,-609,13597
+1917549307,22,1985,2021,F,213,Latrobe - Gippsland,3,VIC,In a significant urban area,Inner regional,22,0,ELS,11,A,"",Y,0,138,0,0,0,0,0,0,0,33289,53212,63403,9295,0,0,0,-233,10509
+6059798898,33,1981,2015,M,101,Perth - North East,1,ACT,"",Major city,31,1,ELS,11,A,"",Y,0,4254,0,0,0,0,0,0,0,34383,24448,12977,0,0,0,0,-908,13716
+9811984762,31,1952,2012,M,124,Brisbane - North,2,VIC,Not in a significant urban area,Inner regional,85,1,PPR,13,A,Secondary earner,Y,0,0,0,0,0,0,0,0,5,18590,52092,32702,0,0,0,0,-556,0
+3471498044,28,1951,2013,M,313,Riverina,2,QLD,In a significant urban area,Inner regional,32,0,ELS,61,A,"",Y,0,0,0,0,0,19,0,0,116,43132,13402,8654,0,0,0,0,-586,365
+9817633339,58,1950,2008,M,308,Melbourne - Inner South,1,SA,In a significant urban area,Major city,26,0,ETAX,53,S,Primary earner,Y,0,0,0,0,450,50,0,0,0,3798,24033,45467,0,0,0,0,-527,556
+2877526779,32,1987,2022,M,304,Melbourne - Inner,1,QLD,In a significant urban area,Inner regional,43,1,PPR,24,A,Secondary earner,Y,0,0,0,0,0,0,0,0,163,28453,52101,17109,0,0,0,0,-600,201
+9553177078,40,1979,2019,M,206,Sydney - South West,2,ACT,"",Major city,62,0,ELS,25,A,Primary earner,Y,0,218,0,0,0,0,3283,0,1007,20172,40699,32167,0,0,0,0,-6,1013
+9591922600,21,1956,2010,F,505,Mid North Coast,1,NSW,In a significant urban area,Major city,26,2,ELS,24,A,"",Y,0,0,0,357,0,0,0,0,0,60262,65615,16757,4433,0,0,0,-190,2366
+3181344294,34,1970,2023,M,307,Adelaide - South,4,NSW,Not in a significant urban area,"",35,0,PPR,43,A,"",Y,0,10,0,0,0,0,0,0,0,44266,23276,9437,0,0,0,0,-15,5921
+1469521865,84,1979,2020,F,204,Darwin,3,ACT,"","",13,3,ELS,55,S,"",Y,0,0,0,0,0,0,0,0,0,690,29277,49973,0,0,0,0,3847,0
+3741496096,30,1954,2012,M,602,Western Australia - Outback (North),8,VIC,In a significant urban area,"",1,0,ETAX,35,A,Secondary earner,Y,0,11199,0,0,0,0,0,0,14,0,50010,35419,0,0,0,0,-681,12038
+5863177086,48,1968,2023,F,506,Hume,1,VIC,"",Major city,35,0,ELS,32,A,Primary earner,Y,0,0,0,0,0,0,0,0,119,51707,18410,22975,0,0,0,0,60,4318
+8561090381,28,1954,2021,F,123,West and North West,3,QLD,Not in a significant urban area,Major city,22,0,ELS,72,A,"",Y,0,0,0,0,0,0,0,0,0,,54932,45631,0,0,0,0,-232,6917
+5692115218,64,1989,2010,M,110,Melbourne - South East,5,VIC,In a significant urban area,Remote area,53,1,ELS,62,S,"",Y,0,0,0,1026,0,66,0,0,0,22612,25051,26688,0,0,0,0,-155,716
+4135150189,29,1951,2024,F,801,Toowoomba,3,NSW,"","",42,2,PPR,11,A,Primary earner,Y,0,0,0,0,0,12205,0,0,0,52800,23978,77874,0,0,0,0,-159,13206
+4703358605,60,1964,2020,F,216,Melbourne - North West,2,NSW,In a significant urban area,"",25,0,PPR,31,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,35781,112676,0,0,132,0,494,0
+2086456299,47,1958,2021,M,119,Perth - South East,1,WA,In a significant urban area,"",44,2,ELS,73,A,Secondary earner,Y,0,383,0,1663,0,16,0,0,0,55216,1555,25441,0,0,0,0,-1106,2220
+8856377253,14,1960,2013,F,507,Gold Coast,1,VIC,In a significant urban area,"",54,5,ELS,11,A,Secondary earner,N,0,51,26599,341,0,2586,0,0,36,0,37146,89518,0,0,0,0,-937,9884
+9764257966,82,1964,2008,M,125,Mid North Coast,1,ACT,"",Major city,74,0,PPR,24,A,"",Y,0,0,0,0,0,0,0,0,0,0,28455,11082,0,0,0,0,121,2548
+3004797873,22,1948,2025,M,125,Central West,2,SA,"",Major city,14,0,PPR,31,A,Secondary earner,Y,0,0,0,0,1404,0,0,10286,118,21289,35032,4859,0,0,0,0,-348,2644
+6320374092,15,1955,2024,F,118,Melbourne - Inner,1,NSW,"",Inner regional,62,2,ELS,84,A,Secondary earner,Y,0,0,0,57,0,880,0,0,3,37781,28253,23135,0,0,0,0,-644,4801
+2174963738,55,1977,2012,M,107,Perth - North East,3,QLD,In a significant urban area,"",74,0,ELS,13,S,Secondary earner,Y,0,0,0,0,0,0,0,0,0,23209,37136,34553,0,0,0,0,0,30012
+6562561059,18,1953,2018,M,123,Sydney - North Sydney and Hornsby,2,VIC,Not in a significant urban area,Major city,53,3,ELS,43,A,"",Y,0,0,0,0,0,0,0,0,0,51390,53420,9727,0,0,0,0,-492,0
+9234383982,42,1966,2025,M,303,Melbourne - Inner East,3,SA,"",Major city,53,0,ELS,62,A,"",Y,0,0,0,106,0,47,0,0,1357,0,122662,45359,0,0,0,0,3243,13514
+5033356271,33,1979,2022,F,401,North West,3,WA,In a significant urban area,"",83,2,ELS,53,S,Primary earner,Y,0,339,0,835,0,13730,0,0,0,20569,32072,37304,0,0,0,1670,10027,5381
+2817673216,37,1957,2020,M,308,Barossa - Yorke - Mid North,4,VIC,In a significant urban area,Major city,62,3,PPR,55,A,"",Y,0,0,0,0,0,0,4884,0,0,24687,13479,34074,0,0,0,-1889,1231,1749
+5445715657,48,1972,2009,F,102,Brisbane Inner City,4,NSW,In a significant urban area,"",11,2,ELS,83,A,"",Y,0,0,0,0,0,4,0,0,0,42251,39656,35198,0,0,0,-2166,-2202,17282
+5053826258,52,1972,2017,F,108,Sydney - City and Inner South,2,ACT,In a significant urban area,Inner regional,36,2,ELS,62,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,98695,26491,52834,0,0,0,0,-102,7356
+5270936919,54,1944,2014,M,120,Gold Coast,4,VIC,"",Major city,36,0,ELS,82,S,Primary earner,Y,0,0,0,0,0,74,0,0,0,45508,0,41277,0,0,0,-2480,-8975,8259
+8331387245,44,1964,2003,F,117,Melbourne - North East,4,NSW,In a significant urban area,"",81,0,ELS,52,A,Primary earner,Y,0,0,0,131,0,0,0,0,855,31869,12204,21928,49241,0,84,0,-1190,18353
+6190819502,58,1944,2009,M,212,Melbourne - Inner,3,QLD,"","",26,0,ELS,82,A,Primary earner,Y,0,0,0,0,0,5494,0,9697,0,54453,26842,-144,9310,0,0,0,107,0
+3982908042,54,1971,2026,F,208,Central Queensland,1,QLD,Not in a significant urban area,Major city,24,2,ELS,2,S,Primary earner,Y,0,0,0,0,0,22,6873,0,0,23990,53736,788,0,0,0,0,-260,0
+9880878109,44,1941,2011,F,110,South Australia - South East,4,QLD,In a significant urban area,"",22,1,ELS,85,A,"",Y,0,0,0,1037,780,375,0,0,0,550,38631,103632,0,0,0,0,372,1615
+5768082924,76,1921,2026,M,316,New England and North West,1,QLD,In a significant urban area,"",63,0,PPR,42,S,Secondary earner,Y,0,0,0,0,0,0,0,0,0,32197,28054,31247,0,0,0,0,-755,330
+9603560496,51,1926,2013,M,111,Shepparton,1,WA,In a significant urban area,"",89,0,ELS,62,A,"",Y,,0,0,513,0,0,0,0,118,11906,5014,83525,0,0,0,0,-716,133
+6499741628,38,1943,2017,F,127,New England and North West,2,QLD,In a significant urban area,Major city,52,2,ELS,62,A,Secondary earner,Y,0,98,0,0,0,180,0,0,0,29970,17808,30807,0,0,0,0,-1984,8965
+4148878251,34,1936,2017,M,211,Geelong,3,VIC,Not in a significant urban area,Inner regional,26,1,ELS,25,S,"",Y,0,0,0,0,0,711,0,0,54,53322,201514,122536,0,0,0,0,-340,1218
+7543751346,48,1965,2016,M,109,Bendigo,1,WA,In a significant urban area,Major city,32,2,PPR,62,A,Primary earner,Y,0,0,0,0,0,263,0,0,0,27851,26772,37,27485,0,0,-680,2829,9118
+2952045866,40,1948,2020,F,127,Brisbane - South,5,VIC,In a significant urban area,"",32,0,ELS,42,S,Primary earner,Y,0,0,0,0,0,49,0,0,186,64491,16418,23691,0,0,0,0,-608,12922
+9693508298,63,1954,2013,M,501,Moreton Bay - North,3,QLD,In a significant urban area,"",61,0,ELS,62,A,Secondary earner,Y,0,17,0,0,0,0,0,0,0,11820,13625,95966,0,0,0,0,-32,6748
+3313343457,49,1967,2011,M,801,Illawarra,3,QLD,"",Major city,83,2,ELS,53,A,"",Y,0,0,0,0,0,54,0,0,0,0,40171,82186,0,0,0,0,-19,7436
+9609951351,46,1960,2022,F,114,Sunshine Coast,3,SA,"",Major city,44,0,ELS,89,A,"",Y,0,0,0,0,0,0,0,0,0,33793,8216,16542,0,0,0,0,-4193,221
+6963224834,44,1965,2014,F,507,Ipswich,1,NSW,"",Major city,55,0,ELS,62,A,Primary earner,Y,0,332,0,0,0,154,0,0,0,0,54559,28122,0,0,0,0,1176,1640
+6209032513,37,1961,2016,F,319,Perth - North East,2,NSW,"",Outer regional,34,2,PPR,31,A,"",Y,0,0,0,586,0,0,5117,0,24,5468,34795,339,0,0,0,158,-675,10085
+4811749718,49,1954,2026,F,126,Capital Region,2,SA,"",Major city,32,4,ELS,52,S,Primary earner,Y,0,0,0,0,13,847,7839,0,0,0,95502,9912,2567,0,0,0,-769,377
+2870535202,18,1947,2025,M,801,Melbourne - West,2,WA,In a significant urban area,Major city,22,0,ELS,11,A,Primary earner,Y,,0,0,0,0,1436,0,0,5,36753,50042,33261,0,0,0,0,-1851,1119
+6109168344,76,1945,2014,M,505,Adelaide - Central and Hills,5,NSW,"","",34,0,ELS,85,A,Secondary earner,Y,0,15738,0,0,0,9,0,0,0,23154,1630,5794,0,0,0,0,-1042,9431
+8604965300,44,1958,2026,M,309,Perth - North West,4,WA,Not in a significant urban area,Inner regional,44,0,ELS,13,A,Secondary earner,Y,0,316,0,0,0,49,0,0,0,19895,47034,11908,0,0,0,0,-262,861
+8598766560,79,1972,2017,F,701,Sydney - Northern Beaches,1,SA,In a significant urban area,Major city,56,0,PPR,11,S,"",Y,0,0,0,0,0,36,0,0,0,5612,19293,45188,0,0,0,0,0,1006
+4284869191,20,1944,2015,M,119,Sydney - Blacktown,2,VIC,In a significant urban area,Major city,43,1,ELS,24,A,"",Y,0,0,0,0,0,11,0,0,0,20600,44440,26723,0,0,0,0,-116,7410
+2912374221,51,1945,2024,F,205,Sydney - South West,1,QLD,In a significant urban area,Major city,73,1,ETAX,14,S,"",Y,0,0,0,0,0,120,0,0,0,37002,16368,24601,0,0,0,0,-261,1212
+1598056332,26,1959,2023,F,111,Perth - South East,6,VIC,In a significant urban area,"",23,0,ELS,73,A,"",Y,0,0,0,41,0,0,0,0,151,5520,27030,17760,0,0,0,0,-3232,4414
+7473153112,29,1972,2023,F,213,Riverina,3,SA,Not in a significant urban area,"",39,0,ELS,62,A,"",Y,0,0,0,6001,0,0,0,0,0,46316,94750,18676,0,0,0,0,969,3098
+4168169589,29,1959,2011,M,102,Melbourne - Inner,4,NSW,In a significant urban area,"",71,1,ELS,13,A,Primary earner,Y,,0,0,0,0,16,0,0,0,45532,1,67162,0,0,0,0,-621,721
+8521917178,43,1963,2023,F,401,Wide Bay,4,QLD,In a significant urban area,Outer regional,32,0,ELS,73,A,Secondary earner,Y,0,,0,0,0,50,0,0,4310,14788,586,28307,0,0,9008,0,-802,94
+2044251233,47,1967,2005,F,313,Melbourne - Outer East,8,NSW,In a significant urban area,Major city,73,0,PPR,73,S,Primary earner,Y,0,2819,0,0,0,68,0,0,273,21639,39492,30769,0,0,0,0,-2175,12431
+3855748621,51,1943,2012,M,119,Melbourne - North West,3,QLD,In a significant urban area,Inner regional,63,0,PPR,89,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,39599,25053,15201,0,0,0,0,-1039,5156
+5126717505,45,1981,2017,M,801,Murray,5,ACT,In a significant urban area,"",53,2,ELS,31,S,Primary earner,Y,0,0,0,2168,0,0,0,0,0,22424,29899,38269,0,0,0,-11231,-678,577
+8715604677,35,1980,2009,F,117,Melbourne - South East,5,VIC,In a significant urban area,Major city,32,0,PPR,85,A,"",Y,0,0,0,0,0,735,0,0,0,8918,20203,21889,0,0,0,0,1602,9932
+8333207876,60,1973,2011,M,204,Logan - Beaudesert,1,VIC,"",Major city,73,0,ETAX,82,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,9989,58945,60016,0,0,0,0,-3532,1203
+6898377379,31,1948,2026,F,503,"",2,ACT,"",Major city,83,0,ELS,32,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,24190,125708,25014,0,0,0,-1161,-836,0
+2528936507,32,1962,2005,M,312,Sydney - Outer West and Blue Mountains,3,QLD,"",Major city,24,1,PPR,42,A,"",Y,0,0,0,0,0,0,0,0,0,30943,0,95837,0,0,0,0,1085,1737
+5019093630,48,1943,2014,M,506,Perth - Inner,3,WA,In a significant urban area,"",55,1,PPR,45,A,"",Y,0,359,0,566,0,4,0,4523,2788,34166,13287,69,0,0,7,0,-423,42106
+4327311753,66,1954,2019,M,214,Sydney - Inner West,4,TAS,In a significant urban area,"",73,1,ELS,11,S,"",Y,0,0,0,0,0,0,0,0,776,29882,50838,86607,0,0,0,0,-617,7359
+7768002225,40,1980,2018,F,303,Brisbane - South,3,QLD,In a significant urban area,Major city,39,0,PPR,51,A,Secondary earner,Y,0,0,0,0,342,0,0,0,5,37959,3342,41150,0,0,0,0,-502,3743
+3363272764,13,1952,2014,M,120,Western Australia - Wheat Belt,3,WA,Not in a significant urban area,Inner regional,81,2,ELS,42,A,Secondary earner,Y,0,0,0,0,0,16,0,0,566,0,25510,75758,0,0,0,0,-11367,3556
+6477599379,38,1947,2008,M,801,Central Coast,1,VIC,"","",62,2,ELS,36,S,Secondary earner,Y,0,10,0,0,0,0,0,0,0,39562,25788,5884,0,0,0,0,-144,30722
+5849157380,46,1957,2023,M,109,Newcastle and Lake Macquarie,5,SA,In a significant urban area,"",26,0,ELS,21,S,Primary earner,Y,0,0,0,0,0,0,3825,0,0,72871,,24944,0,0,0,0,-689,15758
+1322880563,52,1946,2014,F,210,Melbourne - Outer East,3,QLD,In a significant urban area,Major city,55,0,PPR,42,S,"",Y,0,0,0,0,0,0,0,0,0,13405,11222,38732,0,0,156,0,-1865,5140
+7302025636,40,1971,2019,M,121,Melbourne - Inner,1,SA,"","",62,0,PPR,73,S,"",Y,0,7065,0,0,0,0,0,0,0,0,9547,11092,-1071,0,0,0,-7694,9380
+4585052260,28,1963,2006,M,206,Sydney - Inner South West,2,VIC,In a significant urban area,Inner regional,1,0,ELS,89,A,"",Y,0,0,0,0,0,0,0,0,2014,5497,38791,15213,0,0,0,0,-12835,2796
+9713615267,87,1976,2022,M,306,Geelong,2,QLD,In a significant urban area,"",62,0,ELS,42,A,"",Y,0,0,0,17,0,0,0,0,0,43108,60405,29718,0,0,0,0,-855,17895
+2812011313,48,1975,2026,M,801,Central Coast,2,VIC,"",Major city,62,0,ELS,74,S,"",Y,0,0,0,,0,280,0,0,0,45856,159389,53742,0,0,0,0,6246,2128
+5155282899,44,1959,2005,F,209,Sydney - South West,1,VIC,"",Inner regional,53,1,ELS,43,A,Primary earner,Y,0,0,0,129,,0,0,0,4,17063,32778,23030,20776,0,0,0,-794,15875
+1935766779,21,1945,2011,M,601,Hunter Valley exc Newcastle,2,NSW,"","",62,0,PPR,44,A,"",Y,0,5403,0,108,0,15,0,0,0,16289,40900,39309,0,0,0,0,0,6256
+1837249450,37,1970,2003,M,126,Melbourne - West,1,WA,Not in a significant urban area,"",13,0,PPR,22,A,Secondary earner,Y,0,0,0,0,0,5120,0,0,3051,16269,33682,41365,0,0,0,0,-1341,18146
+9595787872,40,1956,2026,M,107,Newcastle and Lake Macquarie,1,NSW,In a significant urban area,Major city,39,0,PPR,26,A,"",Y,0,0,0,0,0,0,0,0,528,41438,2657,12708,0,,0,0,-1611,74437
+8676476711,27,1975,2011,M,601,Melbourne - Inner East,3,NSW,"",Major city,61,0,ELS,44,A,Secondary earner,Y,0,0,0,34751,0,0,8341,0,6,62613,48220,698,0,0,0,0,0,3166
+3864643950,39,1983,2017,M,207,Mandurah,1,QLD,Not in a significant urban area,Major city,62,0,TELE,44,A,Primary earner,Y,0,0,0,279,0,10586,0,0,12711,0,27338,17187,18320,0,0,0,-735,364
+9928884890,26,1955,2015,M,216,Townsville,1,SA,Not in a significant urban area,Major city,26,1,ELS,45,S,"",Y,0,0,0,3341,0,0,0,0,0,15478,1266,5966,0,0,0,0,739,5567
+8076012718,28,1974,2021,F,211,Sydney - Eastern Suburbs,4,SA,In a significant urban area,Inner regional,24,0,PPR,83,A,Primary earner,Y,0,0,0,0,0,0,2808,0,0,8368,31143,51475,0,0,0,0,-377,12008
+5038215032,29,1962,2015,F,104,Sydney - Ryde,1,NSW,In a significant urban area,Outer regional,32,0,PPR,81,A,Primary earner,Y,,0,0,0,0,0,0,0,0,864,36653,192658,0,0,0,0,-4113,9010
+9257948939,42,1950,2011,F,110,Australian Capital Territory,3,VIC,In a significant urban area,Outer regional,24,2,PPR,25,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,45151,3780,-610,0,0,0,362,-708,0
+8472655639,32,1936,2020,F,511,Melbourne - Inner East,1,QLD,In a significant urban area,Inner regional,33,0,ELS,56,A,"",Y,0,0,0,0,0,,0,0,0,42498,61179,681,-730,0,0,0,3957,4258
+1229094486,40,1953,2027,M,101,Capital Region,1,NSW,In a significant urban area,Major city,42,0,ELS,13,A,"",Y,0,0,0,0,0,182,0,0,62,9340,15387,19177,0,0,0,-1373,-1662,6261
+3397035074,54,1930,2017,F,210,Warrnambool and South West,4,SA,"","",54,2,ELS,22,S,"",Y,0,0,0,0,9,0,0,8805,0,27476,25719,20962,0,0,18250,0,-701,5784
+8565677819,45,1965,2026,M,117,Perth - North East,4,VIC,In a significant urban area,Remote area,24,2,ELS,83,A,"",Y,0,145,0,0,0,0,61,0,0,0,17422,3066,0,0,0,0,-11930,636
+1112143880,32,1972,2021,M,209,Darling Downs - Maranoa,2,NSW,"",Inner regional,32,0,PPR,11,S,"",Y,0,0,0,0,0,0,0,0,14,7432,1,29279,0,0,0,0,0,4821
+1049686558,64,1949,2018,M,316,Sydney - Inner South West,5,NSW,In a significant urban area,"",23,1,PPR,55,A,"",Y,0,0,0,0,0,0,0,0,39,78407,86488,26353,0,0,0,0,-341,442
+9294809819,49,1981,2012,M,313,Melbourne - Outer East,8,QLD,Not in a significant urban area,Major city,42,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,31853,49464,61120,58795,0,0,0,814,12162
+4279638819,31,1968,2018,M,314,Australian Capital Territory,3,VIC,"",Major city,32,0,ELS,52,A,Secondary earner,Y,0,0,0,0,0,0,0,10593,0,46524,14764,27380,0,0,0,0,-361,6011
+4216324598,37,1957,2006,M,204,Melbourne - Inner,1,VIC,In a significant urban area,Inner regional,56,0,PPR,59,A,Primary earner,Y,0,0,0,97,0,0,0,0,2241,59307,,76737,0,0,0,0,28,4438
+4647840322,38,1947,2003,M,106,Melbourne - Inner South,3,NSW,"",Major city,62,2,ELS,34,A,"",Y,0,0,0,106,104,0,0,0,289,0,8907,10886,0,0,0,0,-111,2259
+9591801187,43,1916,2024,M,105,North West,1,NSW,In a significant urban area,"",25,0,ELS,24,A,"",Y,0,108,0,15088,0,0,0,0,0,4024,67790,94704,16597,0,0,0,-82,3175
+3281315450,32,1935,2026,F,212,Sydney - Eastern Suburbs,2,NSW,In a significant urban area,Major city,63,2,ELS,45,A,"",Y,0,0,0,0,0,0,10085,0,0,68506,61823,82440,0,0,0,0,-2303,1227
+5581552646,33,1955,2026,F,212,Newcastle and Lake Macquarie,3,NSW,"",Major city,25,0,ELS,13,S,"",Y,0,444,0,240,0,0,0,0,0,30438,27365,17890,0,0,0,0,0,5810
+6280669549,42,1950,2022,M,211,Wide Bay,2,"",In a significant urban area,"",24,2,ETAX,82,S,"",Y,0,0,0,0,0,0,0,0,0,38202,10869,106825,0,0,0,0,-180,
+5763696030,24,1964,2022,M,118,Cairns,1,NSW,In a significant urban area,"",72,0,ELS,44,A,Primary earner,Y,0,6303,0,0,354,0,2435,0,0,43869,6303,24863,-568,0,0,0,-1594,4123
+3861043457,28,1955,2020,M,203,Perth - South East,4,VIC,"",Major city,83,0,ELS,53,A,"",Y,0,0,0,0,0,0,0,0,0,935,18346,43804,0,0,0,0,-10187,1816
+2556794359,23,1939,2023,F,319,Sunshine Coast,3,NSW,"","",23,1,ELS,55,A,Primary earner,Y,0,0,0,0,0,63,0,0,0,47413,46533,37005,0,0,0,0,-163,3158
+9800525157,75,1966,2006,F,213,Sydney - Ryde,1,VIC,In a significant urban area,"",61,1,ELS,13,A,Primary earner,Y,0,0,0,0,0,0,0,0,1,1976,0,16438,0,0,0,664,-257,9196
+4402223188,25,1953,2024,M,127,Sydney - Northern Beaches,2,VIC,In a significant urban area,Inner regional,52,0,ELS,62,A,Secondary earner,Y,0,0,0,34,0,0,0,0,631,44078,159314,27894,0,0,0,0,-1523,1819
+4712190414,27,1952,2003,F,303,Coffs Harbour - Grafton,2,TAS,In a significant urban area,Major city,33,3,ELS,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,118345,,16116,0,0,0,0,-449,52884
+8441409089,64,1955,2015,M,202,Moreton Bay - South,3,WA,In a significant urban area,Major city,73,0,PPR,83,A,"",Y,0,0,0,113,996,0,0,0,50,25939,9689,80003,0,0,0,0,-1998,2298
+6180901749,32,1971,2018,M,304,Central West,1,NSW,In a significant urban area,Major city,55,0,PPR,81,S,"",Y,0,0,0,0,130,0,0,,247,0,26169,40622,0,0,0,-3698,-3660,4531
+7775286381,39,1995,2020,M,306,Launceston and North East,2,QLD,In a significant urban area,"",53,1,ELS,22,A,"",Y,0,0,0,0,0,0,0,0,0,59927,22821,17149,0,0,0,0,-321,4112
+5529881572,31,1980,2016,M,206,Sydney - Inner South West,2,WA,In a significant urban area,Major city,55,2,ELS,62,A,"",Y,0,0,0,2413,0,112,0,0,0,0,15817,4683,0,0,0,0,-106,13894
+2640396835,53,1947,2014,M,505,Gold Coast,1,NSW,"","",74,1,PPR,71,A,Primary earner,Y,0,0,0,0,0,0,0,0,1,2532,33076,2937,0,0,0,0,-490,2356
+7075108294,34,1937,2022,F,505,Perth - Inner,1,NSW,In a significant urban area,"",63,4,ELS,32,A,"",Y,0,0,0,825,0,0,0,0,0,23687,22362,25735,0,0,0,0,-97,5468
+3911849625,23,1959,2018,M,213,Logan - Beaudesert,1,VIC,In a significant urban area,Outer regional,26,0,ELS,44,A,"",Y,0,403,0,0,0,110,0,0,0,1718,43794,44332,0,0,0,0,-648,5409
+6480194837,34,1965,2013,M,318,Sydney - Outer West and Blue Mountains,2,VIC,In a significant urban area,Major city,13,0,ELS,55,A,Primary earner,Y,0,0,0,0,0,821,0,0,3,26756,12772,7217,0,,0,0,948,12474
+1575142432,25,1954,2014,M,316,Hobart,6,VIC,"","",33,2,ELS,25,A,"",Y,0,0,0,9578,0,2189,0,0,0,0,20440,11235,0,0,0,0,-506,0
+1209069095,51,1958,2011,F,505,Sydney - Baulkham Hills and Hawkesbury,5,QLD,In a significant urban area,"",26,0,ELS,42,S,"",Y,0,0,0,0,0,0,0,0,377,92745,60885,36707,0,0,0,0,-1472,0
+5768610479,54,1938,2016,M,201,Adelaide - Central and Hills,2,NSW,In a significant urban area,"",35,0,ELS,52,A,"",Y,0,0,0,0,0,0,0,7064,0,0,9392,170419,,0,0,0,-1101,827
+2977130418,61,1974,2008,F,111,Perth - North West,3,VIC,In a significant urban area,"",73,0,ELS,34,A,"",Y,0,1006,0,0,0,0,6495,0,0,41373,18102,34788,0,0,0,0,913,26753
+9179980410,42,1973,2017,M,205,Sydney - Outer West and Blue Mountains,3,NSW,"",Major city,55,1,ELS,62,S,"",Y,0,0,,0,0,0,0,0,0,65056,6956,28719,0,0,0,0,-342,0
+3748754603,73,1912,2024,F,316,Brisbane - South,1,NSW,In a significant urban area,"",59,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,1484,0,0,763,45403,29317,3034,0,0,0,0,-215,11093
+6222985576,39,1947,2016,M,213,Melbourne - North West,1,VIC,"","",26,2,ELS,32,A,"",Y,0,0,0,3544,0,0,0,0,0,2207,11287,5682,0,0,0,0,-331,13524
+8896031833,35,1970,2023,F,209,South Australia - South East,1,NSW,In a significant urban area,Major city,3,1,ELS,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,552,28879,11639,0,0,0,0,-3269,6240
+4192876717,31,1986,2013,M,306,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,51,0,ELS,61,A,"",Y,0,0,0,0,0,8,0,0,230,0,10640,60482,0,0,0,0,-309,
+8076512568,37,1950,2018,M,122,Sydney - Blacktown,2,WA,In a significant urban area,Inner regional,24,0,ELS,22,S,"",Y,0,0,0,0,0,0,0,33,1112,0,72463,21727,0,0,2,0,674,7648
+2958401771,35,1966,2009,M,206,Central Coast,1,SA,"",Major city,54,2,PPR,59,S,"",Y,0,0,0,0,0,45,507,0,0,0,39736,168783,0,0,0,0,775,2241
+1020924406,56,1951,2006,M,124,Sydney - Inner West,1,NSW,In a significant urban area,Outer regional,25,0,ELS,55,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,19784,5742,33525,0,0,0,-739,-1247,0
+8847401938,35,1925,2021,M,119,Melbourne - Inner East,3,VIC,In a significant urban area,Major city,62,0,ELS,62,A,"",Y,0,0,0,17,0,7,0,0,0,32848,76348,33325,0,0,0,0,-243,2196
+1412655520,54,1943,2017,F,801,Hume,5,QLD,In a significant urban area,"",61,1,ELS,43,A,"",Y,0,0,0,0,0,0,0,0,186,24512,44227,3714,0,0,0,0,-779,2826
+3719828257,30,1970,2003,M,213,Sydney - South West,3,VIC,In a significant urban area,"",44,1,PPR,11,A,"",Y,0,0,0,0,0,0,0,6507,1048,27687,24779,,0,0,0,0,-1618,5469
+7156761079,63,1984,2019,M,302,Perth - South East,7,QLD,In a significant urban area,"",42,0,PPR,54,A,"",Y,0,255,0,75,0,0,0,0,0,56678,19388,11220,0,0,0,0,17,0
+2287633618,22,1956,2005,F,316,Brisbane - West,2,WA,"","",62,2,PPR,11,A,Primary earner,Y,0,1171,0,103,0,404,187,0,728,61034,44024,65316,0,0,0,0,-4425,0
+9677028112,61,1934,2016,M,801,Bendigo,3,NSW,In a significant urban area,Major city,27,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,33652,52446,32618,0,,0,0,-10602,3156
+4799830174,42,1971,2023,F,501,Sydney - Eastern Suburbs,2,NSW,In a significant urban area,Major city,25,0,ELS,39,A,Secondary earner,Y,0,3306,0,0,0,0,0,0,0,3840,5617,9414,0,0,0,0,0,2100
+9833286007,38,1967,2022,M,302,Cairns,1,VIC,In a significant urban area,Inner regional,22,1,ELS,11,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,26750,41165,19619,0,0,0,0,-1499,6905
+6326915176,31,1947,2017,M,601,Australian Capital Territory,2,VIC,"","",27,0,ELS,35,A,"",Y,0,265,0,0,1102,509,0,0,0,0,26934,37609,0,0,0,0,-112,7777
+4263170518,42,1972,2007,F,511,Hunter Valley exc Newcastle,2,TAS,Not in a significant urban area,"",43,0,PPR,31,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,42970,1864,128,0,0,0,0,-4,23562
+2833911881,51,1937,2022,F,405,New England and North West,2,NSW,In a significant urban area,Major city,41,2,TELE,11,A,Secondary earner,Y,0,0,0,0,119,30,0,0,425,13142,39645,7053,0,0,0,0,1269,239
+2522129280,61,1985,2018,M,209,Melbourne - West,3,VIC,"",Inner regional,24,0,ELS,73,A,"",Y,0,0,0,0,0,0,0,0,0,31867,41009,75726,0,0,0,0,-1734,6988
+2997329840,73,1985,2013,F,212,Sydney - Sutherland,2,NSW,"",Inner regional,74,0,ELS,83,A,Secondary earner,Y,0,0,0,136,0,0,0,0,0,9283,8486,37240,0,0,0,0,-594,9329
+6711119297,21,1915,2013,M,202,Riverina,2,WA,In a significant urban area,"",43,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,30988,1447,41338,0,0,0,1671,-254,6319
+1452803738,51,1975,2009,M,505,Ipswich,3,NSW,In a significant urban area,Remote area,73,3,ELS,32,A,Primary earner,N,0,0,5980,0,0,0,0,0,0,16723,13598,23128,0,0,0,0,-3032,6586
+8897426450,27,1961,2025,M,307,Sydney - Ryde,5,NSW,In a significant urban area,Major city,1,0,ELS,5,A,Primary earner,Y,0,0,0,0,0,0,1405,0,318,22961,29989,9571,0,0,0,0,-1863,9881
+2071182860,25,1959,2006,F,505,Sydney - South West,2,NSW,In a significant urban area,Major city,1,0,ELS,24,A,"",Y,0,0,0,0,0,0,0,0,0,55256,31122,180418,0,0,0,-1522,-1092,1429
+9226913129,76,1960,2006,M,506,Brisbane - East,2,WA,In a significant urban area,Major city,22,0,ELS,22,A,"",Y,0,34,0,214,0,0,0,0,3121,58170,26471,53820,0,0,0,0,-214,1904
+5181238353,36,1962,2025,F,121,Melbourne - Inner East,5,TAS,Not in a significant urban area,"",81,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,9272,519,65165,7179,16253,0,0,0,0,-1,4595
+8319575584,26,1945,2022,F,214,Adelaide - South,1,QLD,In a significant urban area,Outer regional,62,1,ELS,53,A,"",Y,0,0,0,0,0,886,0,0,4,53446,67912,12776,58074,0,0,3330,-3106,0
+8450169094,65,1967,2022,M,122,Barossa - Yorke - Mid North,8,NSW,In a significant urban area,Major city,83,2,PPR,32,S,"",Y,0,0,0,0,0,89,0,0,448,39369,39622,44612,0,0,0,0,-807,1663
+9664528486,47,1971,2022,M,214,Mackay - Isaac - Whitsunday,1,QLD,In a significant urban area,"",73,2,ELS,11,S,Secondary earner,Y,0,0,0,0,0,65,0,0,406,,50524,24566,0,0,0,0,-347,3756
+5210071363,45,1966,2008,M,506,Melbourne - North East,2,NSW,In a significant urban area,Inner regional,55,0,ELS,11,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,35081,11945,0,0,,0,430,0
+2993076869,51,1947,2020,F,209,"",1,QLD,In a significant urban area,"",31,2,ELS,14,A,Primary earner,Y,0,0,0,0,0,0,5239,0,0,27653,7055,53696,0,0,5244,0,-1156,2075
+7190517163,56,1975,2014,M,402,Melbourne - South East,1,WA,In a significant urban area,"",33,0,PPR,39,A,Secondary earner,Y,0,99,0,0,0,10676,0,0,0,7686,29418,18161,0,0,0,0,8410,647
+8650395642,27,1974,2024,F,121,"",3,TAS,In a significant urban area,"",82,0,ELS,51,A,"",Y,0,0,0,873,0,0,0,0,0,146,13644,19342,0,0,0,0,-599,6949
+6387864484,41,1957,2019,M,505,Murray,3,QLD,In a significant urban area,Major city,22,3,ELS,24,S,Primary earner,Y,0,7164,0,0,0,17,0,0,0,66627,68504,25839,0,0,0,0,-9530,15873
+2484219289,64,1975,2005,M,206,Sydney - Northern Beaches,1,QLD,"",Major city,42,2,ELS,85,A,"",Y,0,1514,0,0,0,0,0,0,0,37034,27274,13591,18028,0,0,0,-2016,59024
+6589113860,16,1940,2026,M,503,Melbourne - Inner East,1,NSW,In a significant urban area,"",53,0,PPR,63,A,Secondary earner,Y,0,2,0,2443,0,0,0,0,0,44494,59315,47598,0,0,0,0,-408,12972
+2667623323,36,1973,2021,F,801,"",5,NSW,"",Outer regional,14,2,ELS,32,A,Primary earner,Y,0,0,11485,4829,0,0,0,0,0,2115,120,45221,0,0,0,0,-136,0
+5400719032,80,1978,2025,M,111,Mandurah,1,NSW,"",Inner regional,23,1,ELS,56,S,"",Y,0,0,0,0,0,0,0,0,14451,34249,19426,48033,0,0,0,0,-21,825
+9488319841,64,1977,2020,M,402,Brisbane - East,3,VIC,In a significant urban area,"",89,0,ELS,61,A,"",Y,0,0,0,0,,0,0,0,101,8820,10004,41602,0,0,0,7240,0,5328
+6923825615,46,1947,2021,M,213,"",2,SA,In a significant urban area,"",22,2,ELS,25,A,Primary earner,Y,0,0,0,194,0,71,0,0,0,40097,191060,11148,0,0,325,0,-179,286
+7446802702,46,1959,2008,F,204,Cairns,3,VIC,In a significant urban area,Inner regional,55,0,ELS,23,A,Primary earner,Y,0,0,,0,1215,0,0,0,0,51064,38005,17168,0,0,0,0,302,510
+7724796134,17,1950,2026,M,123,Sydney - Northern Beaches,3,NSW,In a significant urban area,Major city,71,0,ETAX,32,A,Primary earner,Y,0,0,0,17515,0,0,,0,2323,72994,49281,77302,0,0,0,0,-844,11095
+6360495862,20,1974,2012,M,201,Sydney - Baulkham Hills and Hawkesbury,3,"","",Major city,32,0,ELS,44,A,"",Y,0,0,0,713,0,38,0,0,0,63983,70788,55962,0,0,0,0,-2815,6538
+7654385414,53,1976,2011,M,507,Sydney - Inner South West,2,QLD,"",Major city,62,3,ELS,89,S,Primary earner,Y,0,0,0,37,0,0,0,0,0,21666,54020,6916,0,0,0,0,-755,7832
+8068202656,36,1946,2022,F,209,Riverina,2,NSW,In a significant urban area,Major city,55,0,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,0,0,32311,20020,0,0,0,0,409,651
+4372045684,36,1946,2026,F,121,Melbourne - North East,2,QLD,"","",35,1,ETAX,62,A,"",Y,0,0,0,0,0,0,0,0,0,54016,17689,10598,0,0,163,0,-1736,0
+2143420606,50,1985,2015,M,124,Bendigo,1,VIC,"","",62,2,ELS,53,S,Primary earner,Y,0,0,0,0,0,0,0,0,4,33894,21042,140,0,0,0,0,-1308,0
+9447567533,37,1953,2016,F,121,Moreton Bay - South,3,VIC,"","",89,2,ELS,43,A,Secondary earner,Y,0,0,0,0,0,0,83,0,70,0,39734,19371,0,0,0,-1896,-238,4867
+6470073888,65,1959,2026,M,207,Adelaide - North,3,QLD,In a significant urban area,Inner regional,85,3,ELS,32,A,Primary earner,Y,0,0,,0,0,0,0,0,451,0,37235,21800,0,0,0,-65,-110,76673
+1728920954,34,1962,2012,M,209,Illawarra,5,SA,"","",13,1,ELS,89,A,"",Y,0,0,0,235,,0,0,0,0,13079,25618,9498,0,0,0,0,-1439,28436
+3450966754,64,1962,2023,F,201,Sydney - Inner West,1,NSW,In a significant urban area,Major city,63,2,PPR,83,A,Primary earner,Y,0,0,0,110,0,0,0,0,23,0,-625,76019,,0,0,0,-68,3441
+1656750547,40,1963,2007,F,311,Darling Downs - Maranoa,5,SA,"",Major city,22,1,PPR,23,S,Primary earner,Y,0,238,0,5856,0,0,0,0,0,0,40798,16358,0,0,0,0,-1494,13775
+8478465078,24,1986,2021,F,120,Central Coast,2,VIC,"","",26,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,2,7014,28154,17747,0,0,0,0,-1946,10536
+8535845600,25,1966,2026,F,505,Melbourne - Inner South,1,QLD,In a significant urban area,Major city,32,3,ELS,83,A,Secondary earner,Y,0,0,0,0,340,334,0,0,0,0,6517,30176,0,0,0,0,-240,4040
+7913850838,64,1946,2023,F,114,Adelaide - North,8,NSW,In a significant urban area,Major city,42,4,ELS,39,A,Primary earner,Y,0,0,0,0,0,245,0,0,1047,28304,11497,5,0,0,0,0,0,15140
+1312638863,38,1981,2023,M,316,Sydney - Parramatta,1,WA,Not in a significant urban area,Major city,83,3,PPR,25,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,45558,9482,4731,0,0,0,0,-2038,3170
+5345360315,21,1933,2016,M,205,Perth - North West,5,VIC,In a significant urban area,Major city,33,2,ETAX,73,A,"",Y,0,0,0,0,0,0,0,0,0,24414,26630,74800,15631,0,0,0,-207,8224
+7460729241,34,1983,2014,F,119,Melbourne - West,1,ACT,In a significant urban area,"",24,1,ELS,34,A,Primary earner,Y,0,0,0,,0,0,0,0,0,61315,28910,28633,0,0,0,0,-1047,12188
+5835110466,42,1975,2003,F,122,Northern Territory - Outback,2,VIC,"","",13,0,PPR,33,A,Primary earner,Y,,0,0,0,0,97,8779,0,0,32309,25424,30938,3367,0,0,0,0,10621
+8602420328,40,1959,2024,M,206,Brisbane - South,5,NSW,In a significant urban area,Major city,62,0,ELS,34,A,Primary earner,Y,0,0,0,483,0,0,0,0,12,341,51151,10125,-982,0,10797,0,-260,865
+2336686486,26,1959,2024,F,601,Melbourne - West,1,QLD,"",Major city,24,2,ELS,25,A,Secondary earner,Y,0,0,0,0,0,0,0,0,559,2679,39694,13121,0,0,0,0,-2117,978
+1825521179,22,1953,2012,F,406,Adelaide - North,5,VIC,In a significant urban area,Major city,83,0,ELS,74,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,34732,24017,16873,0,0,132,-4074,-1878,2399
+7882760091,38,1970,2023,M,509,Wide Bay,2,NSW,"",Major city,62,0,ELS,74,S,"",Y,0,14527,0,0,0,1157,0,0,0,,143,28510,18419,0,0,0,-261,0
+2582842099,16,1965,2014,F,213,Melbourne - West,5,ACT,"",Major city,51,0,ELS,42,S,"",Y,0,0,0,0,0,0,0,0,5174,12764,52832,90199,0,0,0,0,-784,14579
+8409781549,31,1955,2013,M,507,Melbourne - North West,1,NSW,In a significant urban area,"",24,0,ELS,61,A,"",Y,,0,0,0,0,1740,7736,0,0,0,73344,1789,0,0,0,-16232,-746,1219
+3946374324,36,1966,2025,F,121,Perth - North West,1,VIC,"",Major city,83,0,ELS,23,A,"",Y,0,0,10166,0,0,0,0,0,59,0,37209,22791,0,0,0,0,-1847,332
+7074867840,27,1958,2021,M,123,Brisbane Inner City,1,NSW,"","",13,2,ELS,42,A,Primary earner,Y,0,0,0,38,375,0,0,0,0,13279,39672,77791,0,0,0,0,-335,1659
+6430393437,40,1966,2021,F,317,Sydney - Northern Beaches,3,QLD,In a significant urban area,"",53,1,ELS,42,A,"",Y,0,6113,0,0,0,0,0,0,3107,0,203777,74444,0,0,0,0,884,22569
+2530579994,60,1966,2022,F,307,South Australia - South East,4,"",In a significant urban area,Major city,21,1,ELS,14,A,"",Y,0,153,0,68,0,6865,0,0,962,0,3159,25015,0,0,0,0,-2042,2429
+2788116967,45,1951,2023,F,118,Melbourne - Outer East,2,QLD,In a significant urban area,"",84,1,ELS,52,A,Primary earner,Y,0,0,0,0,0,0,1003,853,0,0,20669,11068,0,0,0,0,-243,4589
+2219740033,54,1916,2024,M,125,North West,2,WA,In a significant urban area,"",26,0,ELS,62,S,"",Y,0,0,0,0,0,0,2756,0,0,31781,44274,49155,0,0,868,0,83,10542
+3429246522,24,1976,2007,F,319,Sydney - Inner West,1,ACT,In a significant urban area,"",72,2,PPR,45,A,"",Y,0,0,0,0,0,0,0,0,489,20562,33329,12322,0,0,0,0,-1105,0
+6794229098,39,1982,2024,F,123,Perth - South East,2,ACT,In a significant urban area,Major city,61,0,PPR,43,A,"",Y,0,0,0,12,0,0,0,0,15733,0,211447,24322,0,0,0,0,-3896,7368
+2604789906,46,1956,2022,M,112,Sydney - Outer South West,2,NSW,"",Major city,27,0,PPR,11,S,"",Y,0,2052,0,0,0,254,0,4549,0,0,12178,58113,0,0,0,0,-491,16773
+3105776881,41,1944,2006,F,113,Melbourne - Inner East,1,NSW,In a significant urban area,"",55,1,ELS,73,S,"",Y,0,0,0,0,0,198,0,0,6,15276,17880,41335,0,0,0,0,-945,6093
+9174185115,49,1962,2016,F,508,Sydney - Sutherland,2,VIC,Not in a significant urban area,"",82,0,ELS,25,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,44432,34933,0,0,0,0,-349,5910
+5592270168,56,1980,2016,F,125,Sunshine Coast,4,NSW,In a significant urban area,Outer regional,32,2,PPR,53,S,"",Y,0,0,0,0,0,0,0,0,0,6289,54425,42814,0,0,0,0,-444,11243
+5282056457,35,1986,2008,F,109,Adelaide - North,2,WA,In a significant urban area,Major city,34,4,ELS,24,A,Primary earner,Y,0,0,39848,15,0,0,0,0,1,0,42111,56409,0,0,0,0,-217,9986
+6125162349,47,1962,2022,M,127,South Australia - South East,5,NSW,"",Outer regional,36,2,ELS,89,A,"",Y,0,50,0,0,0,0,0,0,10,81791,62135,40427,0,0,0,0,-2708,3655
+3277099823,42,1985,2025,F,404,Melbourne - North East,5,TAS,In a significant urban area,Major city,1,0,ELS,44,A,"",Y,0,0,0,0,0,0,0,0,1545,0,22998,19570,0,0,0,0,-1842,4726
+9562249127,25,1959,2022,M,303,Perth - South West,1,NSW,In a significant urban area,Major city,24,0,ELS,32,A,Secondary earner,Y,0,0,0,0,761,0,0,0,0,19608,37410,15076,0,0,0,0,-196,0
+5708619532,34,1981,2020,F,509,Sydney - South West,1,WA,In a significant urban area,"",81,0,ELS,33,A,Secondary earner,Y,0,21885,0,0,0,0,0,0,0,81108,14011,17882,0,0,0,-10448,-1479,6220
+8613694942,29,1960,2027,M,402,Newcastle and Lake Macquarie,1,QLD,In a significant urban area,Major city,25,0,ELS,34,S,"",Y,0,0,0,0,0,84,,17,,0,23574,49726,0,0,0,0,13466,4959
+9899932734,57,1955,2017,F,403,Melbourne - Inner,5,NSW,"","",83,0,ELS,41,A,"",Y,0,229,0,0,0,0,0,0,0,47098,21705,25517,0,0,0,0,8554,338
+1914199700,36,1951,2015,M,214,Melbourne - Inner East,2,QLD,"","",55,0,ETAX,81,A,Secondary earner,Y,0,0,0,0,0,0,64,0,0,48698,15104,11405,0,0,0,0,-332,5388
+1300867010,27,1981,2025,M,208,Far West and Orana,1,SA,In a significant urban area,"",7,0,ELS,23,A,Secondary earner,Y,0,0,0,0,0,0,27,0,0,45547,11514,36438,11686,0,0,0,-1225,7312
+5718246214,47,1944,2008,M,401,Perth - South East,5,QLD,Not in a significant urban area,"",8,4,ELS,83,A,"",Y,0,334,0,492,0,18,0,0,3384,4818,40227,35383,0,0,0,0,2345,0
+9896553484,35,1949,2007,F,117,South Australia - South East,2,NSW,"",Remote area,83,2,ELS,44,A,"",Y,0,0,39273,4012,0,0,0,0,1,68675,848,16467,0,0,0,0,-568,4279
+6148890762,38,1951,2026,M,602,Perth - South East,3,WA,In a significant urban area,"",74,3,ELS,34,A,"",Y,0,0,0,0,0,92,0,0,0,0,8846,47921,0,0,0,3074,634,393
+1735791907,50,1967,2021,F,314,West and North West,2,VIC,"",Inner regional,54,0,ELS,24,S,"",Y,0,0,0,0,0,130,0,0,0,0,13624,120479,0,0,0,0,3924,9521
+8946954496,53,1953,2004,F,402,Perth - South East,4,QLD,In a significant urban area,"",62,2,ELS,42,S,Primary earner,Y,0,0,0,0,0,0,0,0,759,57328,34039,7760,0,0,0,0,-253,0
+9852009617,53,1977,2010,M,120,North West,1,NSW,In a significant urban area,Major city,24,1,ELS,59,A,Secondary earner,Y,0,0,,0,0,0,0,0,0,25849,17357,68726,0,0,0,1035,-3250,4282
+3249525323,29,1977,2012,M,115,Adelaide - South,1,VIC,"",Major city,25,0,PPR,73,A,"",Y,0,703,0,0,0,108,0,0,0,27049,34251,20183,0,0,62,-18565,-157,3146
+1796053519,45,1943,2026,M,209,Sydney - Parramatta,5,QLD,In a significant urban area,"",55,2,ELS,44,A,Secondary earner,Y,0,,0,0,0,0,0,,70,38176,77223,35408,0,0,0,0,-479,24019
+7991819382,29,1965,2008,F,115,Mornington Peninsula,3,QLD,In a significant urban area,Major city,61,0,ELS,55,A,"",Y,0,0,0,0,405,0,0,0,0,47211,5509,23949,7666,0,49,0,-346,10315
+8387040772,18,1979,2013,F,801,Central West,3,NSW,In a significant urban area,Major city,62,1,ELS,55,S,"",Y,0,51,0,0,0,224,0,0,0,41316,28063,14634,0,0,0,0,-2902,0
+4021648908,37,1955,2009,F,115,Geelong,2,NSW,In a significant urban area,"",84,2,ELS,73,A,Primary earner,Y,0,0,0,0,0,23,0,0,4,37457,10601,51995,0,0,0,0,-975,7170
+1413845050,44,1950,2014,M,124,Moreton Bay - North,1,VIC,"","",54,0,ELS,39,A,Secondary earner,Y,0,0,0,0,0,67,0,0,0,50528,53802,22774,0,0,0,0,-241,16197
+9315496047,54,1979,2009,M,105,Brisbane - South,2,QLD,In a significant urban area,Major city,1,1,ELS,22,A,Secondary earner,Y,0,17855,0,0,0,0,0,0,30,1297,44520,45867,0,0,0,-1006,-484,8700
+8968307291,54,1952,2021,M,117,Hume,3,ACT,In a significant urban area,"",27,0,ELS,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,14250,3217,0,0,0,0,1082,7674
+5123198979,51,1953,2005,M,407,Ipswich,4,SA,"",Major city,53,2,ELS,27,A,"",Y,0,93,0,215,0,0,7425,0,9137,39912,9332,27245,0,0,0,0,-6507,4346
+2250767783,46,1965,2016,M,123,Latrobe - Gippsland,6,VIC,In a significant urban area,"",81,1,PPR,73,A,"",Y,0,0,0,0,0,0,0,0,0,50107,70927,1027,0,0,0,0,-542,0
+2232361751,52,1975,2012,M,216,Central West,1,VIC,"",Major city,72,0,ELS,36,S,Secondary earner,Y,0,0,0,0,0,335,0,0,0,4918,66888,55538,6524,0,0,0,-931,553
+5054193297,58,1972,2018,F,207,Melbourne - North West,5,VIC,In a significant urban area,Inner regional,55,0,ELS,43,A,Primary earner,Y,0,0,0,0,0,0,0,0,1577,0,58836,39042,0,0,0,0,5877,2268
+3072419761,19,1958,2019,M,217,Mid North Coast,4,VIC,In a significant urban area,Inner regional,62,0,ELS,62,S,Secondary earner,Y,0,0,0,417,0,175,0,9862,0,0,74447,52794,0,0,0,-4614,-65,3187
+9951253357,42,1958,2025,M,206,Gold Coast,4,VIC,"",Major city,55,0,ELS,83,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,95870,49485,36105,0,,0,0,-6861,2134
+6922236153,19,1952,2020,F,211,Hume,8,NSW,"","",36,0,PPR,51,A,Primary earner,Y,0,0,0,575,0,0,0,0,0,51612,14751,29517,0,0,0,0,-89,6435
+6505483905,23,1929,2026,F,210,Perth - Inner,2,WA,In a significant urban area,Major city,83,1,ELS,14,A,Secondary earner,Y,0,2440,0,44,0,0,0,0,28,29516,31385,37593,0,0,0,0,-595,3846
+2533240697,51,1985,2025,M,407,Cairns,3,VIC,In a significant urban area,"",89,1,PPR,71,A,"",Y,0,0,0,0,0,0,0,0,439,16073,67704,16876,0,0,0,-10291,-1188,10758
+2017418025,51,1970,2017,F,112,Melbourne - Inner South,1,NSW,"",Inner regional,53,0,ELS,27,A,"",Y,0,803,0,0,0,0,0,0,1452,30485,27624,29214,0,0,0,0,-743,3495
+3497363591,67,1973,2021,M,309,Sydney - Parramatta,2,NSW,In a significant urban area,"",61,3,ELS,11,A,Primary earner,Y,0,0,0,0,0,11,0,0,49,22661,59552,15521,0,0,0,0,-384,2755
+1221583810,42,1956,2023,M,502,Perth - North West,5,NT,In a significant urban area,Inner regional,39,2,ELS,22,A,Primary earner,Y,0,0,0,0,0,0,4310,0,0,0,17692,20232,0,0,0,0,501,3419
+5201335927,76,1959,2021,M,105,Gold Coast,5,SA,"","",32,1,ELS,25,A,Primary earner,Y,0,3699,14099,0,0,60,0,0,0,0,24125,16549,0,0,0,0,-99,4322
+9816114694,56,1975,2026,F,214,Mornington Peninsula,1,NSW,In a significant urban area,Major city,14,0,PPR,26,A,Primary earner,Y,0,0,0,0,0,0,0,0,3336,29291,103781,57152,0,0,0,2233,-32,1159
+2248942695,20,1976,2026,M,402,Geelong,4,VIC,In a significant urban area,Major city,23,2,ELS,42,S,Secondary earner,Y,0,0,0,0,381,0,0,0,205,90845,15822,74766,3204,0,0,0,-2799,9248
+6638884140,63,1951,2023,M,310,Brisbane - North,1,VIC,In a significant urban area,"",39,0,ELS,24,S,Primary earner,Y,0,0,0,0,0,699,0,0,0,18729,190478,45632,0,0,0,-615,-87,1677
+1595629710,22,1970,2019,F,204,Sunshine Coast,1,QLD,"",Major city,25,0,ELS,31,A,"",Y,0,0,0,1350,0,0,0,0,0,12,53482,43462,0,0,0,0,-1003,756
+5415692676,49,1970,2024,F,407,Sydney - Outer South West,1,NSW,Not in a significant urban area,"",22,1,PPR,24,A,Primary earner,Y,0,0,0,64,0,0,0,0,0,24,8650,26607,0,0,0,0,-5,0
+8306907582,39,1963,2016,F,119,Adelaide - South,1,WA,In a significant urban area,Inner regional,52,0,ELS,53,A,Primary earner,Y,0,0,0,276,0,0,0,0,1,0,71432,67742,0,0,0,0,-334,910
+6045744093,64,1963,2005,M,210,New England and North West,2,WA,In a significant urban area,"",1,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,16181,0,10449,84,15060,10337,53777,0,0,0,0,-1196,35881
+6841569037,37,1941,2005,F,303,Perth - South West,3,VIC,In a significant urban area,Major city,61,2,PPR,14,A,"",Y,0,0,0,0,0,116,0,0,0,31470,10332,46758,0,0,7,0,245,4265
+4081419739,53,1957,2017,M,213,Adelaide - North,3,"","","",62,0,ELS,26,A,Secondary earner,Y,0,11,0,0,0,0,0,0,9,0,23078,30535,0,0,0,0,-128,10150
+7164368255,59,1978,2020,M,216,Brisbane - East,3,WA,Not in a significant urban area,Outer regional,59,0,ELS,25,A,Primary earner,Y,0,0,0,0,0,95,0,0,0,0,15041,54383,0,0,0,-11067,-617,6855
+6174049987,25,1936,2004,F,507,Bendigo,6,NSW,In a significant urban area,Major city,22,0,ELS,43,S,"",Y,0,0,0,327,454,0,0,0,0,67250,73417,33391,0,0,55,0,-1203,1438
+3157064254,41,1943,2025,F,303,Adelaide - North,2,VIC,Not in a significant urban area,Major city,25,0,ELS,85,S,"",Y,0,0,0,0,0,0,7416,0,4,0,34488,22969,0,0,0,0,-1370,1361
+9427092153,44,1968,2025,F,305,Melbourne - Outer East,1,VIC,In a significant urban area,Major city,35,1,ELS,62,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,13651,25841,0,0,0,0,-344,15143
+5428036822,33,1964,2026,M,506,Melbourne - West,1,SA,"",Major city,13,3,ELS,55,A,Secondary earner,Y,0,8798,0,0,0,0,0,0,0,19850,21935,15165,0,0,0,-3615,1052,3269
+4151141465,22,1970,2010,F,305,Central Coast,1,VIC,In a significant urban area,Major city,73,1,PPR,22,A,Primary earner,Y,0,0,0,0,0,0,0,0,1126,35685,9087,73461,0,0,0,0,-478,34523
+1600953945,31,1967,2007,F,202,Perth - South East,2,NSW,"","",24,0,ELS,36,A,"",Y,0,198,0,132,0,0,4500,0,0,37076,11086,26752,0,0,0,-1356,-891,992
+9875298838,63,1932,2026,M,111,Brisbane - South,1,WA,In a significant urban area,"",11,2,ETAX,55,S,Primary earner,Y,0,12,0,0,15,0,0,0,5516,36210,48243,22155,0,0,0,0,-554,11809
+9419862334,20,1965,2016,M,121,Brisbane - South,1,WA,"","",25,1,ELS,22,A,"",Y,0,0,0,0,0,0,0,0,0,4599,17268,54010,0,0,1002,0,-3077,25188
+5650804316,24,1972,2008,F,119,Moreton Bay - North,2,WA,"",Major city,85,0,ELS,1,A,"",Y,0,0,0,0,0,0,771,0,0,5938,11289,58982,0,0,0,0,-173,11626
+3891596271,41,1981,2012,M,207,Darwin,5,WA,In a significant urban area,"",14,0,ETAX,62,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,44393,26270,46742,0,0,0,0,-3022,14774
+8143791000,37,1981,2013,M,309,Gold Coast,1,NSW,In a significant urban area,"",74,0,ELS,89,S,"",Y,0,0,0,0,0,45,0,0,0,0,41168,12316,0,0,0,-726,4316,2612
+4463024576,40,1974,2007,F,501,Brisbane - South,1,VIC,"",Major city,62,1,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,3591,10978,11561,0,,0,0,-498,3531
+4700736109,48,1958,2019,F,208,Adelaide - Central and Hills,3,NSW,"",Major city,13,0,ELS,83,A,"",Y,0,22,40739,0,0,0,0,0,0,0,9203,46916,0,0,0,0,18295,1488
+5254719226,19,1955,2025,F,316,Barossa - Yorke - Mid North,4,NSW,In a significant urban area,"",23,2,ELS,62,A,Primary earner,Y,0,20,0,0,0,427,0,0,10,19351,42421,884,0,0,0,0,1811,10854
+8391652388,33,1943,2026,F,311,Sydney - Inner South West,2,QLD,"",Major city,62,2,ELS,32,A,Secondary earner,Y,0,1246,0,0,0,0,0,0,156,36336,13898,51979,0,0,0,0,-456,13389
+6666194740,51,1944,2013,F,601,Southern Highlands and Shoalhaven,4,NSW,In a significant urban area,Major city,42,0,ELS,14,A,"",Y,0,0,0,0,0,501,0,0,0,0,29104,20538,0,0,0,0,-173,4629
+8062132120,28,1939,2023,M,309,Mornington Peninsula,2,NSW,"",Inner regional,34,0,ELS,42,A,"",Y,,0,0,66,0,0,0,0,803,54213,10809,46674,0,0,0,4361,-15,2036
+9855312390,24,1949,2021,F,311,Central West,4,WA,Not in a significant urban area,Outer regional,26,4,ELS,13,A,"",Y,0,0,0,0,0,0,7793,0,0,751,5348,49767,0,0,0,0,-315,3995
+6983898550,34,1963,2024,M,501,Melbourne - North East,2,VIC,Not in a significant urban area,Outer regional,1,0,ELS,39,A,"",Y,0,0,0,0,0,0,6692,0,0,16094,1,30475,0,0,0,0,-7524,39434
+4387517401,32,1921,2013,F,306,Latrobe - Gippsland,1,QLD,Not in a significant urban area,Inner regional,62,3,ELS,25,S,"",Y,0,0,0,0,0,0,0,0,1,40457,19115,13319,0,0,0,0,976,110
+3254607856,40,1951,2016,M,117,Australian Capital Territory,2,NSW,In a significant urban area,Major city,61,2,PPR,23,A,Primary earner,Y,0,4025,0,122,0,0,0,0,4240,15507,18832,77049,0,0,0,0,-1053,17666
+8830116242,30,1982,2026,F,205,Latrobe - Gippsland,5,NSW,"",Major city,53,0,ELS,11,A,"",Y,0,0,0,0,0,0,0,0,0,43810,24718,18890,0,0,0,0,-3638,21995
+9948513393,43,1945,2026,M,301,Melbourne - Inner South,3,QLD,In a significant urban area,"",25,2,ELS,39,A,"",Y,0,0,0,0,0,3037,0,0,3025,17521,18792,16404,0,0,0,14819,19,9717
+7506085040,35,1952,2005,M,201,Cairns,1,NSW,In a significant urban area,Major city,62,1,PPR,82,A,"",Y,0,0,0,734,18,395,0,10969,531,22622,37230,5188,0,0,0,0,-497,0
+7665042906,30,1931,2021,M,203,Melbourne - Inner,4,NSW,"",Major city,43,2,PPR,11,A,Primary earner,Y,0,32,0,0,0,149,0,0,0,5109,,-360,4050,0,0,-1493,4773,9385
+1171341410,35,1915,2007,M,309,Sydney - Inner South West,2,VIC,In a significant urban area,Major city,71,0,ETAX,62,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,44545,29755,34047,0,0,0,0,-2953,11227
+2232822965,23,1926,2014,F,212,Perth - Inner,1,QLD,In a significant urban area,Major city,26,0,ETAX,11,S,"",Y,0,0,0,0,0,0,0,0,0,2229,20795,81869,0,0,0,0,-1077,154
+8175461773,37,1973,2016,M,403,Melbourne - Inner South,4,"","","",25,4,ELS,72,A,Primary earner,Y,0,0,0,384,0,0,0,0,71,40458,17667,35076,0,0,0,0,0,2354
+8845512072,39,1984,2017,F,125,Newcastle and Lake Macquarie,2,SA,In a significant urban area,"",73,2,ELS,24,A,"",Y,0,0,0,0,0,79,0,0,0,41910,30809,14695,0,0,0,0,-555,3944
+4837235969,31,1977,2021,M,506,Sydney - Ryde,1,WA,In a significant urban area,Major city,74,2,TELE,27,A,Primary earner,Y,0,0,0,0,0,0,0,0,8,0,78816,49175,0,0,0,5820,-2570,5503
+8434163689,22,1957,2021,F,115,Far West and Orana,3,VIC,In a significant urban area,Major city,62,0,ELS,34,A,"",Y,0,0,0,0,0,758,0,0,0,10334,25558,576,0,0,0,0,-2029,511
+4653636937,31,1972,2018,F,506,Brisbane Inner City,1,SA,"","",53,0,ELS,42,A,"",Y,0,0,0,0,0,336,0,0,1687,6061,19224,17172,0,0,0,0,-1196,0
+4827856905,20,1983,2018,F,207,Illawarra,3,NSW,"",Major city,24,0,PPR,51,A,"",Y,0,34,0,0,0,0,0,0,0,0,19056,197179,0,0,0,-13347,-770,1157
+8349507049,48,1939,2026,F,402,Ipswich,8,WA,"",Inner regional,62,0,ELS,53,A,"",Y,0,0,0,0,0,454,0,0,0,20626,53568,23973,0,0,0,0,-828,1239
+2531063120,70,1939,2021,F,511,Sydney - North Sydney and Hornsby,3,NSW,In a significant urban area,Outer regional,32,2,ELS,52,A,Primary earner,Y,0,3,0,126,1,0,0,0,1,0,26789,59607,0,0,0,0,-418,3346
+6622903784,23,1938,2018,M,211,Townsville,5,NSW,"",Major city,62,0,ELS,83,A,"",Y,0,0,0,0,0,0,0,0,0,10847,4783,12646,0,0,0,0,-1421,9830
+5524979363,39,1964,2026,M,120,Australian Capital Territory,6,WA,"",Major city,55,0,ELS,73,S,"",Y,0,65,0,0,,20,0,0,0,9511,12006,72469,0,0,0,0,-358,3917
+4814346389,46,1946,2015,F,122,Hume,2,WA,In a significant urban area,Major city,89,3,ELS,34,A,"",Y,0,0,39620,8,0,0,32,0,0,65974,13078,44688,,0,0,0,-601,57185
+8399237900,35,1940,2017,F,309,Sydney - City and Inner South,3,NSW,"",Major city,14,0,ELS,63,S,"",Y,0,0,0,836,0,0,0,0,0,0,19215,58922,0,0,0,0,-591,11109
+9604600279,60,1976,2015,F,403,Perth - North West,6,QLD,Not in a significant urban area,Inner regional,53,0,ELS,53,A,"",Y,0,0,0,0,0,4,0,0,0,41643,28250,25063,0,0,0,0,-263,5287
+1611135625,38,1961,2005,M,209,Sydney - Eastern Suburbs,6,SA,"","",62,0,ELS,83,A,"",Y,0,0,0,0,0,0,1776,0,0,0,13289,54150,0,0,0,0,-49,11918
+3294068163,83,1980,2022,F,209,Perth - South West,1,QLD,"","",53,0,ELS,13,S,"",Y,0,0,0,0,0,0,1363,0,0,83398,53928,24351,0,0,0,0,-1547,6139
+3537171323,66,1964,2022,F,307,Melbourne - Inner South,1,NSW,In a significant urban area,Major city,83,0,ELS,32,A,Primary earner,Y,0,0,0,5734,0,49,0,0,0,137711,13651,32182,0,0,0,0,-295,40597
+6075872468,55,1943,2025,F,111,Sydney - Sutherland,2,VIC,In a significant urban area,Major city,53,1,PPR,61,S,Primary earner,Y,0,0,0,0,,0,0,0,0,18304,15907,9820,0,0,0,0,-3710,0
+5129887451,75,1952,2012,F,106,Moreton Bay - South,1,QLD,In a significant urban area,"",44,4,ELS,34,S,"",Y,0,167,0,0,0,0,0,0,0,0,42470,39256,0,0,0,0,310,10173
+7120415635,39,1936,2013,F,104,Melbourne - North East,8,WA,Not in a significant urban area,Major city,62,1,ELS,84,S,"",Y,0,2151,0,0,0,0,0,0,0,41012,21444,13765,0,0,0,0,-507,3717
+2589608854,46,1951,2007,F,107,Logan - Beaudesert,3,WA,"","",42,0,ELS,43,S,"",N,0,57,0,64,0,52,0,0,0,129889,3628,32775,0,0,0,0,886,2466
+3599973543,71,1943,2024,M,212,Melbourne - South East,1,NSW,"",Major city,39,1,ELS,35,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,34760,21299,51422,0,0,0,0,-1355,3877
+4378403865,60,1955,2020,M,212,Sunshine Coast,3,SA,In a significant urban area,Major city,62,0,ELS,62,A,Primary earner,Y,0,8825,0,0,0,0,0,0,694,0,0,25610,0,0,0,0,-1966,6961
+9519150332,56,1983,2022,F,303,Brisbane - North,6,WA,Not in a significant urban area,Inner regional,83,0,ELS,53,A,"",Y,0,1583,0,3920,0,30,0,0,0,0,18860,15917,0,0,0,0,-1943,4710
+9317682175,27,1980,2026,F,604,Melbourne - North East,1,SA,In a significant urban area,Outer regional,81,0,ELS,62,A,"",Y,0,0,0,0,0,35,0,0,,21133,42200,26033,0,0,0,7441,1541,7811
+9443002091,20,1949,2022,F,108,Richmond - Tweed,6,NSW,In a significant urban area,Inner regional,53,1,ELS,83,A,Secondary earner,Y,0,,0,27,0,0,188,0,0,6008,154105,45550,0,0,0,0,-5206,29083
+1024720012,47,1966,2017,F,206,Warrnambool and South West,1,QLD,"",Outer regional,54,0,ELS,13,S,"",Y,0,0,0,0,0,3046,0,0,0,38516,19620,34676,0,0,0,-138,-363,1409
+7556781215,46,1943,2017,F,204,Sydney - Outer West and Blue Mountains,1,QLD,In a significant urban area,Outer regional,83,1,PPR,22,A,"",Y,0,0,0,0,0,0,0,0,4,1808,35660,27865,0,0,0,0,-43,394
+7485104758,21,1978,2013,M,213,Melbourne - North East,1,NSW,"",Inner regional,73,1,ELS,52,A,"",Y,0,107,0,0,0,0,0,0,0,6205,33336,29071,0,0,0,0,146,1370
+9824597559,35,1947,2024,F,501,Melbourne - North East,3,VIC,In a significant urban area,Major city,62,2,ELS,62,S,"",Y,0,0,0,34353,0,122,0,0,0,18473,14429,77779,0,0,0,0,1736,5153
+7149917817,49,1955,2013,F,114,Adelaide - North,4,VIC,"",Major city,54,0,ELS,84,S,"",Y,0,0,0,0,0,0,0,0,1766,19111,49099,61170,0,0,0,-7763,-339,1792
+6657200756,56,1983,2007,M,122,Townsville,3,QLD,"",Inner regional,62,2,PPR,32,A,"",Y,0,0,0,0,0,28,0,0,0,87565,29720,50977,-9,0,0,0,-2880,36629
+8905277686,59,1975,2017,M,121,Adelaide - Central and Hills,4,WA,In a significant urban area,Major city,42,0,ELS,43,S,"",Y,0,0,0,287,0,22,0,0,0,8217,19710,7151,0,0,0,0,-1236,1437
+9478213547,50,1976,2015,M,311,Adelaide - Central and Hills,8,VIC,In a significant urban area,"",27,1,ELS,32,S,Primary earner,Y,0,81,0,0,0,0,0,49,0,12355,45357,21785,0,0,0,0,-756,52682
+5469510837,20,1974,2006,F,316,Newcastle and Lake Macquarie,4,VIC,In a significant urban area,Major city,32,0,ELS,25,A,"",Y,0,0,0,27,0,309,44,8549,0,0,17885,212664,0,0,152,0,-16,4275
+1428950614,39,1983,2015,M,309,Melbourne - South East,2,NSW,Not in a significant urban area,Major city,34,0,TELE,34,A,"",Y,0,0,0,443,0,0,0,0,0,72078,180438,24290,0,0,71,0,-1408,17775
+3402656040,53,1952,2006,M,507,Gold Coast,5,NSW,In a significant urban area,"",55,0,ELS,83,S,Primary earner,Y,0,0,0,0,0,32,48,461,0,0,47673,4841,0,0,0,0,-673,2249
+9476374223,37,1951,2013,F,119,Townsville,1,NSW,In a significant urban area,Major city,73,2,ELS,32,S,Primary earner,Y,0,0,0,0,0,0,0,0,190,55265,36183,21493,0,0,0,0,-442,189
+8743148111,62,1976,2007,F,122,Melbourne - Inner East,3,VIC,In a significant urban area,Inner regional,1,1,ELS,25,A,"",Y,,0,0,0,0,0,0,0,0,63749,40823,,12783,0,0,0,-1363,13045
+7387177160,46,1958,2025,F,505,Toowoomba,4,QLD,In a significant urban area,Major city,13,1,ELS,32,A,"",Y,0,0,0,0,0,0,0,0,0,6519,15202,201833,0,0,0,0,-368,3669
+1428225609,33,1977,2025,M,119,Melbourne - South East,2,VIC,"","",73,0,PPR,61,A,"",Y,0,0,0,0,0,0,0,3336,,26970,20887,51937,0,0,668,0,-160,505
+4903094236,22,1939,2025,M,505,Sydney - Eastern Suburbs,2,VIC,"","",62,2,ELS,62,S,"",Y,0,0,0,90,0,203,4999,0,5,26153,110755,59722,0,0,0,0,-84,18015
+6653181821,42,1972,2008,M,114,Sydney - South West,1,VIC,In a significant urban area,Inner regional,35,0,PPR,23,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,45475,30628,22726,8178,0,0,0,-614,16874
+4417428370,24,1984,2019,F,205,Shepparton,3,VIC,In a significant urban area,Major city,81,1,ETAX,22,A,"",Y,0,0,0,45,0,0,0,0,0,34090,20501,56183,0,0,0,0,1136,8531
+8455221022,51,1973,2016,M,205,Australian Capital Territory,3,NSW,In a significant urban area,Major city,34,3,ELS,25,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,41198,14066,23759,0,0,0,-12817,-971,1942
+9042583804,41,1952,2011,M,207,Darling Downs - Maranoa,2,SA,In a significant urban area,"",62,1,PPR,62,S,Secondary earner,Y,0,0,0,0,0,0,0,0,0,27583,21150,27968,1553,,3,0,3066,1627
+3123331103,73,1929,2022,M,121,Sydney - Inner South West,3,VIC,"",Major city,63,3,PPR,42,A,"",Y,,0,0,194,0,41,0,0,68,50355,-1786,29582,0,0,0,0,-422,75187
+1825712729,39,1944,2005,F,103,Sydney - North Sydney and Hornsby,1,QLD,In a significant urban area,"",63,2,ELS,39,A,"",Y,0,0,0,0,0,0,0,0,0,24357,10749,29089,0,0,0,0,773,3330
+8506012220,52,1960,2008,F,404,Mandurah,1,WA,In a significant urban area,"",85,0,PPR,89,A,"",Y,0,0,0,88,0,0,0,0,0,0,28374,1522,138,0,26,0,-879,5420
+9512344687,47,1974,2014,F,201,"",5,NSW,"","",11,1,ELS,82,S,Secondary earner,Y,0,0,0,0,434,0,0,0,102,34910,49482,16855,0,0,0,0,-2762,4954
+6945410683,40,1945,2012,F,121,Newcastle and Lake Macquarie,2,NSW,Not in a significant urban area,"",24,0,PPR,41,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,18331,41906,0,0,0,0,-953,19906
+4037332538,22,1952,2014,M,506,Melbourne - West,1,SA,In a significant urban area,Inner regional,33,1,ELS,35,A,"",Y,0,0,0,0,0,0,0,0,199,46024,13710,53130,0,0,0,0,-4175,14006
+3703266379,28,1957,2015,M,217,Latrobe - Gippsland,1,SA,In a significant urban area,Major city,27,1,ELS,31,S,"",Y,0,0,0,1197,0,0,0,0,112,8434,10405,53103,0,0,0,0,-892,16268
+7614408709,39,1968,2004,M,602,Illawarra,2,QLD,In a significant urban area,"",62,0,ELS,24,S,"",Y,0,7074,0,0,1,0,0,0,0,5948,42426,3864,0,0,0,0,-525,2100
+4236260463,21,1957,2018,F,401,Perth - South West,1,WA,In a significant urban area,"",39,3,ELS,55,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,43625,11283,0,0,0,0,-543,9188
+2218548901,45,1976,2025,M,209,Sydney - Eastern Suburbs,4,WA,In a significant urban area,Major city,32,3,ELS,54,A,"",Y,0,0,0,45,0,109,3224,0,0,32106,138029,4596,0,0,0,0,0,6353
+2988779032,22,1967,2020,F,109,Mornington Peninsula,1,SA,In a significant urban area,"",26,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,6903,3,6268,47426,23300,0,0,0,0,-2612,4521
+3606451840,77,1954,2025,F,205,Gold Coast,3,VIC,"",Inner regional,25,0,ELS,62,A,Secondary earner,Y,0,0,0,103,0,0,4629,0,5,1729,33345,39060,0,0,0,0,-1186,5603
+2516174099,26,1949,2003,M,101,Adelaide - North,4,NSW,In a significant urban area,Major city,54,2,ELS,31,S,"",Y,0,7,0,0,0,0,655,5953,133,31625,64796,8795,0,0,0,0,-419,12322
+7871517270,41,1956,2023,F,505,Newcastle and Lake Macquarie,5,NSW,"",Major city,73,0,PPR,24,S,Primary earner,Y,0,0,15331,0,0,0,0,0,0,24318,18170,43414,0,0,0,0,-2110,2591
+6462599347,49,1948,2009,F,801,Melbourne - Inner,4,VIC,"","",62,3,ELS,25,S,"",Y,0,1752,0,0,0,0,0,0,291,0,34033,24583,0,0,160,0,-2573,5482
+4260419192,19,1960,2026,M,303,Hume,1,VIC,In a significant urban area,Major city,7,0,ELS,13,S,"",Y,0,108,0,296,198,0,0,0,0,752,26966,17720,9930,0,0,-10535,-1846,15813
+3669212314,46,1983,2020,M,508,Melbourne - West,1,NSW,"","",25,0,ELS,89,A,Primary earner,Y,0,0,0,0,0,0,0,0,3,6254,168,59788,0,0,577,0,-681,63896
+4724308824,31,1950,2025,M,119,New England and North West,1,NSW,In a significant urban area,Major city,23,0,ETAX,52,A,Primary earner,Y,0,0,0,145,0,0,0,0,0,37722,9373,2571,0,0,0,0,1119,1195
+3850192049,35,1982,2020,M,405,Melbourne - Outer East,3,NSW,In a significant urban area,Major city,83,0,ELS,71,A,"",Y,0,0,0,0,0,0,0,0,0,0,38455,35890,8301,0,0,783,-61,24682
+8225217009,43,1970,2013,F,119,Brisbane - East,5,VIC,In a significant urban area,Major city,24,0,ELS,22,A,"",Y,0,219,15373,0,0,0,3689,0,0,57838,42982,14103,0,0,0,0,-1228,3084
+7924432587,66,1950,2022,F,402,Mandurah,1,QLD,"",Major city,89,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,2998,43396,33884,0,0,0,0,-3244,7461
+3211958975,31,1954,2023,M,801,Gold Coast,2,NSW,In a significant urban area,"",22,0,PPR,22,A,Primary earner,Y,0,0,0,70,0,0,0,0,877,3183,28440,62189,0,0,0,0,-764,949
+5655925648,34,1961,2016,M,103,Townsville,3,NSW,"",Major city,12,2,ETAX,55,A,Secondary earner,Y,0,898,0,0,0,0,0,0,0,6387,54081,53143,0,0,0,0,-709,365
+1944224641,50,1975,2006,M,212,Sydney - Outer West and Blue Mountains,2,NSW,"","",74,0,ETAX,11,A,"",Y,0,0,0,0,0,0,0,0,0,0,27958,28444,0,0,0,0,-1087,6815
+1644269269,47,1956,2024,M,208,Brisbane Inner City,2,WA,In a significant urban area,"",36,3,ELS,61,A,Primary earner,Y,0,0,0,608,0,106,0,0,0,43616,59661,7553,0,0,1603,0,-973,1041
+8802636881,51,1969,2006,M,307,Melbourne - Outer East,3,QLD,"",Major city,74,1,ELS,56,A,"",Y,0,896,0,0,0,196,0,0,0,28470,13013,26492,0,,0,0,-593,453
+3443431342,49,1974,2025,F,311,West and North West,5,QLD,In a significant urban area,Major city,32,0,PPR,62,S,"",Y,0,0,0,0,0,11,8474,0,0,23779,11463,26126,0,0,0,0,-1586,2685
+1649199371,42,1986,2023,M,111,Latrobe - Gippsland,1,QLD,In a significant urban area,Outer regional,62,2,ELS,62,A,"",Y,,0,0,22,0,0,0,0,0,42939,30438,397,0,0,0,0,-2579,0
+2981335362,40,1982,2016,M,602,Melbourne - Inner East,2,VIC,"","",13,2,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,6475,19184,40990,0,0,,0,-326,5872
+3680363762,36,1967,2023,F,510,Sydney - South West,2,VIC,In a significant urban area,Remote area,25,0,ELS,35,S,"",Y,0,0,0,249,0,40,2032,0,0,0,23403,45443,0,0,0,-222,-1357,1085
+4510039525,32,1969,2026,M,319,Central West,7,QLD,In a significant urban area,Inner regional,52,0,ELS,13,S,"",Y,0,0,35816,0,0,0,690,0,0,27660,15548,9875,0,0,0,-3669,-462,0
+8920193394,61,1973,2009,F,505,Australian Capital Territory,1,TAS,In a significant urban area,"",54,0,ETAX,33,A,"",Y,0,0,0,37,0,0,0,0,0,0,52413,59494,0,0,0,0,-192,7420
+8236849520,29,1963,2012,F,212,"",6,SA,Not in a significant urban area,Major city,82,0,ELS,83,A,"",Y,0,0,0,551,0,397,0,10540,0,70369,21593,5359,0,0,0,0,-71,11313
+7069364083,42,1971,2024,F,208,Bendigo,3,QLD,In a significant urban area,Major city,1,2,TELE,54,S,"",Y,0,0,0,2470,0,0,0,0,13,52,17739,21088,0,0,0,0,-221,6439
+7570898256,36,1945,2014,F,402,Melbourne - Inner East,4,NSW,"","",25,0,PPR,53,A,Secondary earner,Y,0,0,0,0,0,88,0,0,1701,0,28506,25131,12545,0,0,0,-660,13797
+9989037453,47,1987,2011,M,207,Cairns,5,QLD,In a significant urban area,"",81,1,ELS,54,A,"",Y,0,0,0,5112,0,0,3554,0,0,20257,32198,5647,0,0,0,8010,-373,6813
+3812865620,58,1958,2008,F,125,Adelaide - South,6,VIC,"",Major city,14,0,ELS,13,A,"",Y,0,7368,0,0,0,20,0,0,0,73516,7870,7043,0,0,20,0,-1270,454
+4968875829,37,1985,2010,F,209,Perth - North West,1,NSW,In a significant urban area,Major city,54,2,PPR,25,A,"",Y,0,0,0,0,0,20,0,9407,202,25753,16910,20439,0,,0,0,801,10947
+3242690989,36,1961,2011,M,117,Newcastle and Lake Macquarie,1,NSW,In a significant urban area,Major city,42,0,PPR,13,A,"",Y,0,0,0,0,0,0,0,0,0,0,112915,63703,0,0,0,0,-385,0
+8541651373,32,1973,2019,M,402,Gold Coast,4,QLD,In a significant urban area,"",25,0,PPR,53,A,Secondary earner,Y,0,0,0,322,286,19,0,0,0,1056,35065,58540,0,0,0,0,-711,2345
+4072500341,60,1949,2023,M,112,Moreton Bay - North,3,VIC,In a significant urban area,"",62,1,ELS,11,A,"",Y,0,737,0,0,17,0,0,0,,0,31429,8647,0,0,66,0,22059,0
+3835189265,72,1942,2024,F,121,Brisbane - South,3,SA,Not in a significant urban area,"",62,0,ETAX,83,A,"",Y,0,0,0,0,0,0,0,0,0,0,49524,22352,0,0,5464,0,14,15328
+2106299766,41,1959,2018,M,217,Melbourne - North West,2,NSW,"",Major city,62,2,ELS,11,A,"",Y,0,0,0,0,0,217,0,0,0,0,20059,1575,0,0,0,0,-3701,2881
+4015460976,27,1969,2023,M,206,Far West and Orana,3,VIC,In a significant urban area,Major city,13,2,ELS,44,A,Primary earner,Y,0,0,0,679,0,0,0,0,1,36121,37114,74011,0,0,272,0,-554,31441
+3292662581,30,1979,2025,M,506,Riverina,2,WA,In a significant urban area,Inner regional,45,2,ELS,11,A,"",Y,0,0,0,363,127,0,2714,0,329,19325,61731,42696,0,0,0,0,-41,2193
+4262818163,42,1961,2019,M,119,Melbourne - Outer East,1,VIC,In a significant urban area,"",32,3,ELS,11,A,"",Y,0,0,0,45,0,0,0,0,,64880,32747,19805,0,0,0,0,-908,250
+9893745590,56,1934,2008,F,311,"",3,NSW,"","",53,1,ETAX,61,S,Secondary earner,Y,0,10,0,0,0,0,0,0,1608,40337,34648,2447,0,0,0,480,87,0
+5184176117,45,1939,2014,M,506,Sydney - Eastern Suburbs,2,NSW,"","",21,1,PPR,62,A,Secondary earner,Y,0,0,0,0,0,809,0,0,0,0,31185,225630,0,0,5072,0,-11764,53797
+1601373554,25,1922,2025,M,801,Central West,1,NSW,In a significant urban area,Major city,14,1,TELE,81,A,Primary earner,Y,0,0,0,198,0,0,0,0,0,4510,9329,12842,13140,0,0,0,-366,0
+3412733455,27,1944,2019,F,309,Shepparton,1,SA,In a significant urban area,"",51,3,ELS,83,S,"",Y,,,0,0,0,129,0,0,0,25051,20154,6142,0,0,0,0,0,4825
+5865440162,43,1939,2011,F,114,Bendigo,1,QLD,"",Major city,61,0,ELS,11,A,Primary earner,Y,0,0,0,0,0,12679,0,0,0,,40864,1084,0,0,0,0,-388,7652
+6663196372,74,1928,2007,M,126,Adelaide - South,6,NSW,"",Major city,56,2,PPR,61,A,"",Y,0,0,0,946,0,0,0,747,13,18699,682,17483,0,0,29,0,-1992,18123
+1732098660,19,1975,2019,F,503,Sydney - City and Inner South,2,VIC,In a significant urban area,Inner regional,22,0,ELS,53,S,"",Y,0,367,0,0,0,0,0,0,0,32878,17749,22007,0,0,0,0,-265,2147
+8892933414,36,1975,2026,F,310,Australian Capital Territory,2,VIC,"","",35,0,PPR,53,A,"",Y,0,0,0,2958,0,0,0,0,0,20720,24923,9189,-1358,0,0,0,-697,1785
+8745688651,62,1929,2003,F,316,Mornington Peninsula,3,QLD,"",Major city,25,3,ELS,81,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,27809,34780,16065,0,0,0,0,-1144,1043
+8817607635,49,1941,2020,M,801,Southern Highlands and Shoalhaven,2,TAS,In a significant urban area,Major city,25,0,ELS,14,A,Secondary earner,Y,0,0,0,0,0,518,0,0,140,0,26222,23545,0,0,0,0,-1922,9317
+5228115634,48,1945,2025,M,117,Adelaide - North,8,QLD,In a significant urban area,"",53,0,ELS,33,A,Secondary earner,Y,0,0,0,0,0,682,0,0,0,35790,39683,3213,0,0,0,0,-1586,17832
+1494208533,39,1970,2003,M,112,Sydney - Sutherland,1,QLD,"",Major city,73,0,ELS,21,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,797,10866,48094,,0,0,2072,22,11517
+1041721198,24,1976,2015,M,209,Australian Capital Territory,3,QLD,Not in a significant urban area,Major city,42,1,ELS,11,A,Primary earner,Y,0,0,0,0,0,399,0,0,0,25738,27655,54033,0,0,0,0,-1727,0
+9328876471,44,1931,2004,F,602,Hume,2,NSW,In a significant urban area,Inner regional,53,0,ELS,34,A,Primary earner,Y,0,0,0,1052,771,15,0,0,776,17789,24844,16359,0,0,0,0,759,0
+9665733563,54,1968,2015,M,212,Sydney - Baulkham Hills and Hawkesbury,3,SA,"",Major city,83,2,ELS,73,A,"",Y,0,486,0,0,919,268,0,0,18180,33951,18794,36348,-1055,0,0,0,-261,1487
+6103659907,65,1966,2013,M,121,Toowoomba,2,NSW,"",Major city,83,0,ELS,84,A,Secondary earner,Y,,0,0,0,0,16,0,0,791,81086,34182,55047,0,0,0,0,-1402,1105
+7664717066,72,1949,2007,M,312,Mandurah,1,QLD,In a significant urban area,"",39,0,ELS,83,A,"",Y,0,0,0,0,0,0,0,0,0,0,35180,28575,0,0,0,-7752,-184,1136
+5001079230,16,1945,2005,F,118,Melbourne - Inner,1,VIC,In a significant urban area,"",73,0,ELS,81,A,"",Y,0,0,0,0,0,0,0,0,0,20552,36639,33277,0,0,0,0,-686,0
+1518281894,51,1982,2024,M,311,Far West and Orana,3,QLD,In a significant urban area,Inner regional,81,2,ELS,53,A,Primary earner,Y,0,,0,0,0,0,4060,0,0,0,29363,217587,48338,0,,0,-3229,15965
+1271993684,54,1962,2026,F,407,"",5,NT,In a significant urban area,Major city,1,3,PPR,39,A,Primary earner,Y,0,469,0,,0,286,0,0,324,13306,54930,44757,0,0,0,0,-152,2604
+4910898855,46,1955,2008,M,510,Perth - North West,3,QLD,In a significant urban area,Major city,21,0,ELS,42,S,Primary earner,Y,0,0,0,251,0,0,0,0,0,19900,32754,59033,0,0,0,0,-492,11023
+5322519023,47,1952,2024,M,317,Richmond - Tweed,3,NSW,Not in a significant urban area,Major city,11,2,ELS,62,S,"",Y,0,0,0,0,0,84,0,0,0,0,29438,30787,0,0,0,-5299,0,0
+9691609329,64,1958,2017,M,211,Perth - South East,1,VIC,"","",61,0,ELS,25,S,Primary earner,Y,0,161,0,0,0,0,0,0,63,0,17274,,0,0,0,-14811,4344,4617
+1584247198,37,1969,2017,F,309,"",3,"",Not in a significant urban area,Inner regional,32,0,ELS,89,A,Primary earner,Y,0,0,0,946,0,0,0,0,0,0,69974,53391,0,0,0,0,-431,17429
+3431216432,44,1962,2026,F,318,"",2,QLD,In a significant urban area,Major city,42,1,ELS,54,A,Primary earner,Y,0,0,0,329,0,992,29,0,204,46219,4504,23660,0,0,0,0,350,9021
+1392968445,45,1956,2025,F,319,Sydney - North Sydney and Hornsby,1,NSW,Not in a significant urban area,"",31,3,ELS,23,A,Primary earner,Y,0,0,0,2728,0,0,0,0,0,13332,333,76548,0,0,18700,-402,212,
+5110965603,28,1971,2003,F,309,Melbourne - North West,2,VIC,In a significant urban area,"",31,1,ELS,11,A,"",Y,0,0,0,0,0,11,1861,0,0,50106,5240,14835,0,0,0,0,-11588,13735
+7412521264,53,1965,2024,M,102,West and North West,1,QLD,"","",83,0,ELS,24,A,Primary earner,Y,,188,0,0,,0,0,3687,0,11731,49746,76765,0,0,0,0,-535,1362
+9107219828,74,1974,2007,M,401,Melbourne - North West,1,QLD,In a significant urban area,"",61,0,ELS,33,A,"",Y,0,0,0,182,0,0,1322,0,0,114541,23360,46695,,0,0,0,1622,1189
+7701810905,20,1972,2004,F,205,Bunbury,2,VIC,In a significant urban area,"",74,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,0,112702,15356,31111,0,0,0,0,1347,12149
+4499101159,32,1969,2022,F,121,Logan - Beaudesert,1,WA,"",Major city,27,0,PPR,41,S,"",Y,0,1114,0,0,0,25,1909,0,481,68754,62283,45343,0,0,0,0,-677,37132
+8992988686,25,1943,2007,F,117,Adelaide - North,1,VIC,In a significant urban area,Major city,42,1,ELS,11,A,"",Y,0,0,0,0,0,613,0,0,2815,8709,36308,103016,0,0,0,0,-3280,580
+5229448697,20,1966,2019,M,307,Cairns,7,VIC,In a significant urban area,Major city,81,0,ELS,53,A,"",Y,0,0,0,103,0,0,0,0,0,36958,18914,35944,0,0,0,0,-162,2124
+4915357518,22,1980,2012,M,503,"",1,ACT,"",Major city,23,1,ELS,72,S,"",Y,0,0,0,0,0,0,0,6388,0,48899,140759,50092,0,0,0,0,-950,6970
+1600434441,58,1966,2021,M,112,"",6,QLD,"","",32,1,PPR,22,S,"",Y,0,0,0,0,0,0,0,0,0,,89961,32534,0,0,0,0,-631,0
+2681348627,35,1968,2018,M,311,South Australia - South East,5,NSW,Not in a significant urban area,Major city,59,0,PPR,83,A,"",Y,0,0,0,0,0,0,0,0,0,0,20128,66545,0,0,0,0,-2055,1806
+9387212748,52,1973,2023,F,101,Sydney - Ryde,1,QLD,In a significant urban area,"",42,0,ELS,83,A,"",Y,0,0,0,0,0,0,55,0,2196,20348,31890,28964,0,0,0,0,-16,5300
+7260272388,22,1949,2012,M,214,Bendigo,1,QLD,In a significant urban area,"",54,2,ELS,89,S,Primary earner,Y,0,25,24592,0,0,0,0,0,0,7794,4233,16523,0,0,0,-3776,-706,0
+8301310127,63,1947,2023,M,101,Sydney - Outer West and Blue Mountains,2,VIC,In a significant urban area,"",59,0,ELS,33,A,"",Y,0,2830,0,0,0,0,0,0,0,44054,33127,36960,0,0,0,0,-438,5960
+5810240314,51,1925,2020,F,506,Sydney - South West,3,QLD,In a significant urban area,"",74,2,ELS,81,A,"",Y,0,758,0,143,0,0,0,0,1,0,52879,19480,0,0,0,0,-6048,
+9807028626,44,1962,2024,M,503,Mid North Coast,4,NSW,"",Major city,42,2,TELE,89,A,Primary earner,Y,0,0,0,0,0,52,0,0,0,41893,10215,49169,,0,0,0,-788,2719
+7494557517,50,1957,2003,M,306,Geelong,1,NSW,"",Major city,41,3,PPR,62,A,"",Y,0,0,0,0,0,0,0,0,0,0,0,1102,0,0,0,0,-782,4182
+5051709514,49,1958,2009,M,207,Perth - South East,1,VIC,In a significant urban area,Major city,83,0,PPR,11,A,"",Y,0,653,175,0,0,0,0,0,1,11161,679,27208,0,0,0,0,-756,11306
+7919126421,46,1950,2023,M,311,Melbourne - Inner South,2,VIC,"","",83,0,ETAX,23,A,Primary earner,Y,0,2561,0,0,0,0,0,0,113,0,46002,4064,0,0,0,0,17,5285
+6766164759,52,1953,2025,F,126,Townsville,4,QLD,In a significant urban area,Major city,85,3,ELS,45,A,Primary earner,Y,0,14138,0,225,0,637,0,0,0,0,26344,13719,0,0,0,0,-77,7640
+6018119659,34,1959,2018,F,206,Sydney - Inner West,6,VIC,In a significant urban area,Major city,22,1,ELS,13,S,"",Y,0,0,0,0,0,0,0,0,9,25487,15808,7724,37694,0,0,0,127,1142
+5753704165,50,1936,2023,F,121,Brisbane - South,5,SA,In a significant urban area,"",26,0,ELS,43,S,"",Y,,0,0,0,0,489,0,8946,16218,42874,50642,32135,0,0,0,0,1198,10439
+9625746211,30,1974,2009,F,120,Melbourne - Outer East,5,QLD,"",Inner regional,42,0,ELS,33,S,"",Y,0,0,0,0,0,64,0,0,0,37148,16416,46597,0,0,24067,0,-492,12814
+1719779128,25,1966,2025,F,318,Sydney - Outer South West,1,WA,"","",26,1,ELS,13,S,Primary earner,Y,0,0,0,155,0,0,0,0,0,55467,,34267,0,0,1532,0,-2060,1643
+3441738233,54,1980,2026,M,801,Wide Bay,1,NSW,In a significant urban area,Inner regional,33,0,ETAX,22,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,56010,25595,0,0,0,0,-6370,7279
+3523517381,36,1961,2024,F,801,South Australia - South East,3,SA,In a significant urban area,Outer regional,71,2,PPR,61,A,"",Y,0,0,0,0,0,0,0,0,0,1084,51265,53889,0,0,0,-1076,-470,1395
+4953691023,20,1968,2025,M,505,Sydney - Sutherland,2,NSW,"",Major city,83,0,ELS,45,A,Primary earner,Y,0,0,0,120,0,954,0,0,106,30816,30997,47874,0,0,0,0,-456,2181
+8790324925,29,1974,2021,M,308,Perth - South East,3,ACT,"",Inner regional,62,0,ELS,81,A,"",Y,0,0,0,0,0,0,0,0,0,33666,27504,16223,0,0,0,0,-918,1204
+3482878646,19,1965,2021,M,801,Mid North Coast,1,QLD,In a significant urban area,Major city,32,1,ELS,84,A,Primary earner,Y,0,0,0,0,0,31,0,0,0,0,19882,14463,0,0,0,0,-57,9268
+5878856358,23,1947,2023,M,603,Melbourne - West,3,NSW,"",Outer regional,26,2,ELS,31,A,"",Y,0,771,0,512,0,0,0,0,50,0,17641,51929,0,0,0,0,-111,23653
+8261682920,69,1953,2018,F,213,South Australia - South East,1,SA,In a significant urban area,Major city,27,0,ELS,34,A,"",Y,0,0,0,0,1318,,0,0,0,37312,50185,337,0,0,0,0,-323,8856
+7212169457,43,1979,2011,F,205,Bendigo,3,SA,In a significant urban area,Major city,33,2,ELS,39,A,"",Y,,0,0,245,0,0,0,0,3,12911,78600,58811,19,0,0,0,-357,10232
+1787912376,60,1948,2021,M,211,Melbourne - North West,1,VIC,"","",53,0,ELS,25,S,Primary earner,Y,,309,0,0,732,0,0,7779,0,25594,17878,53172,0,0,0,0,-829,7835
+7916936672,81,1980,2025,M,505,Central Coast,8,NSW,In a significant urban area,Major city,63,0,ELS,83,S,"",Y,0,0,0,0,0,0,10071,3855,0,0,34403,17090,0,0,0,0,-12458,1296
+9962062158,28,1981,2012,F,213,Sydney - Sutherland,1,NSW,Not in a significant urban area,Inner regional,42,3,ETAX,62,A,"",Y,0,0,0,0,0,288,19,0,0,0,39542,45532,0,0,0,0,-329,10920
+1765474664,31,1950,2012,M,318,"",2,QLD,In a significant urban area,"",59,0,ELS,62,A,Primary earner,Y,0,0,0,0,0,10,0,0,0,0,18570,10192,0,0,0,0,-1757,3572
+3934219688,36,1948,2019,M,508,Melbourne - North West,3,VIC,In a significant urban area,"",73,1,ELS,11,A,Secondary earner,Y,0,0,0,0,0,0,0,0,323,0,1,49642,0,0,0,0,341,7021
+10000898940,52,1957,2021,M,113,Melbourne - Outer East,5,NSW,In a significant urban area,"",39,0,PPR,45,S,Primary earner,Y,0,0,0,930,91,69,0,0,1511,18309,103512,58173,0,0,0,9,-849,13128
+5513842503,50,1975,2017,F,206,Richmond - Tweed,1,VIC,Not in a significant urban area,"",61,0,PPR,11,S,"",Y,0,0,0,3925,0,0,,0,0,34624,26164,31246,-1257,0,0,0,-494,488
+8323372349,78,1939,2023,M,505,Adelaide - South,2,NSW,In a significant urban area,"",22,3,PPR,34,A,"",Y,0,0,0,0,0,0,0,0,0,23415,17165,42240,0,0,0,-2012,-176,2991
+6654739140,31,1976,2018,M,103,Melbourne - Inner,2,QLD,In a significant urban area,Major city,41,3,ELS,55,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,15564,24685,19808,0,0,0,0,-800,5018
+4215767807,40,1988,2016,M,311,Bendigo,1,VIC,In a significant urban area,Outer regional,44,2,ELS,13,S,"",Y,0,1203,0,0,500,0,1610,0,5690,33,30894,22841,0,0,0,0,-2824,0
+9327962158,38,1942,2017,M,206,Newcastle and Lake Macquarie,1,NSW,In a significant urban area,Major city,55,2,ELS,13,A,"",Y,0,0,0,0,0,0,0,0,0,38426,48228,27602,0,0,0,0,-724,3839
+6622517230,33,1954,2021,F,303,Melbourne - South East,1,NSW,Not in a significant urban area,Inner regional,24,0,ELS,25,A,"",Y,0,0,0,85,0,292,8192,0,0,87069,27076,7511,0,0,0,0,-2051,3968
+4068336427,32,1962,2025,F,506,Sydney - Eastern Suburbs,3,NSW,In a significant urban area,Major city,43,1,PPR,62,A,"",Y,0,0,0,94,0,0,0,0,1,0,24569,32326,0,0,0,0,-505,834
+2130847593,62,1965,2018,F,203,Sydney - Northern Beaches,3,TAS,In a significant urban area,Major city,62,0,ELS,62,A,"",Y,0,0,0,201,,0,0,0,35,73239,29506,107275,35392,0,0,-398,-2706,10633
+8229952384,35,1963,2026,F,407,Melbourne - South East,1,WA,In a significant urban area,Major city,25,2,ELS,44,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,52583,23669,112697,0,0,131,-6494,443,5414
+5947421667,35,1975,2018,M,508,Sydney - Eastern Suburbs,3,NSW,In a significant urban area,"",22,1,ELS,62,S,"",Y,0,0,0,0,231,0,0,0,8,34137,4609,19220,0,0,0,0,-899,6342
+3459111251,39,1975,2024,F,402,Perth - South West,2,VIC,"",Major city,13,0,ELS,25,A,"",Y,0,0,0,152,0,0,0,0,0,38132,23089,10058,0,0,0,0,-160,25020
+8967751703,44,1952,2022,M,507,Mackay - Isaac - Whitsunday,2,NSW,Not in a significant urban area,"",42,2,ELS,81,A,"",Y,0,0,0,0,0,0,0,0,75,0,56560,67995,0,0,0,0,-2083,34012
+1263130820,47,1963,2022,M,216,Perth - South East,8,NSW,In a significant urban area,"",31,1,PPR,33,S,"",Y,0,0,0,0,0,0,0,3516,0,19315,40057,15682,3889,0,11149,0,-494,1549
+9033611979,50,1975,2005,M,208,Shepparton,3,QLD,In a significant urban area,"",51,0,ELS,72,S,Secondary earner,Y,0,0,0,,85,0,0,0,119,0,48620,46494,0,0,0,0,-3997,2468
+5333267559,22,1985,2024,F,209,Sydney - Blacktown,3,QLD,In a significant urban area,Major city,43,0,PPR,11,A,Primary earner,Y,0,1202,0,0,0,34,0,0,44,14791,8168,65438,0,0,0,0,-157,580
+6638737261,21,1943,2004,F,308,Illawarra,2,TAS,"","",33,1,ELS,36,A,Primary earner,Y,0,0,0,208,0,415,0,0,0,0,14944,63696,3956,0,0,0,-291,4810
+2901594096,60,1947,2015,F,204,Hume,2,QLD,Not in a significant urban area,"",53,3,PPR,39,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,7669,6358,34143,0,0,0,0,1110,5151
+9415875684,35,1969,2023,M,303,Central Coast,3,QLD,In a significant urban area,"",83,0,ELS,53,A,Primary earner,Y,0,0,0,0,0,45,0,0,0,10554,35267,32684,0,0,0,0,-318,16964
+2278819921,48,1966,2007,M,122,Melbourne - Inner,5,NSW,In a significant urban area,Major city,62,2,ELS,53,A,"",Y,0,0,0,273,0,133,0,0,20,34014,19727,17481,0,0,0,0,-1574,0
+7545872312,41,1974,2022,M,303,Melbourne - Inner East,1,NSW,"",Major city,74,2,ELS,32,A,"",Y,0,0,0,0,0,6295,0,0,0,432,52363,23875,0,0,0,0,-3369,6575
+8977508447,43,1973,2027,M,506,Hunter Valley exc Newcastle,5,VIC,In a significant urban area,Outer regional,73,0,TELE,31,S,"",Y,0,49,0,1440,1307,2,0,0,3224,0,39317,18108,0,0,0,0,-195,3339
+6981777188,20,1971,2012,F,120,Hunter Valley exc Newcastle,2,NSW,Not in a significant urban area,Major city,13,1,ELS,14,A,Primary earner,Y,0,0,0,0,0,0,0,0,10045,86798,67725,22509,,0,0,0,-1381,9619
+9269959421,54,1958,2011,F,203,Western Australia - Outback (South),1,QLD,"","",11,1,ELS,11,A,"",Y,,0,0,0,0,0,0,0,0,12236,15729,54414,0,0,0,0,-1225,10824
+5669823785,30,1984,2026,M,206,Sydney - Outer South West,1,QLD,"",Inner regional,31,2,ELS,24,S,"",Y,0,0,0,16,0,0,0,108,169,39895,9114,48413,0,0,0,0,-1239,10015
+5098205923,52,1950,2024,F,211,South Australia - South East,2,SA,"",Inner regional,55,0,ELS,11,A,"",Y,0,0,0,3711,0,0,4735,0,636,19821,1505,28079,0,0,0,256,-611,70256
+6452282627,45,1964,2025,F,214,Melbourne - Inner,1,VIC,"",Outer regional,13,2,ELS,39,A,"",Y,0,0,0,0,0,10,0,0,0,7168,136853,10341,0,0,0,0,2314,14891
+8340212524,21,1946,2009,F,602,Gold Coast,1,VIC,In a significant urban area,Major city,62,0,ELS,55,A,"",Y,0,0,0,0,0,27,0,5510,0,23554,9308,12122,0,0,0,0,-420,2909
+4802305815,31,1963,2012,M,211,Mornington Peninsula,2,VIC,In a significant urban area,Major city,27,3,PPR,33,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,73268,31145,41003,0,0,0,0,-293,18915
+9333010425,44,1943,2017,F,118,Melbourne - North West,1,VIC,In a significant urban area,Major city,74,0,ETAX,62,A,"",Y,0,0,0,12023,0,0,0,0,0,21263,13163,52889,0,0,0,0,-1924,327
+8664229713,22,1953,2020,M,503,Adelaide - North,4,QLD,In a significant urban area,Inner regional,13,2,ELS,63,A,"",Y,0,0,0,0,0,0,0,0,0,0,32113,25863,0,,0,0,10933,11878
+8187823326,17,1949,2013,M,213,Wide Bay,5,VIC,"",Major city,31,3,ELS,43,A,Primary earner,Y,0,0,0,83,0,0,0,0,0,20583,114630,12680,0,0,0,0,-182,7710
+7066712796,58,1976,2010,M,214,Sydney - Outer West and Blue Mountains,1,WA,"",Outer regional,85,0,ETAX,61,A,"",Y,0,0,12179,0,0,114,0,0,281,44384,25666,13220,0,0,0,0,-1661,8128
+4284024633,65,1953,2021,M,316,Perth - Inner,2,QLD,"","",27,2,ELS,23,A,"",Y,0,0,0,0,0,0,9225,0,83,0,1,44669,0,0,0,0,-3224,1578
+6948239096,27,1938,2021,M,506,Sydney - South West,3,VIC,In a significant urban area,Inner regional,81,0,PPR,25,S,Primary earner,Y,0,0,0,0,0,0,2161,0,0,52195,9246,29502,-208,0,0,0,-4700,4972
+4477685054,28,1944,2009,F,210,Sydney - Eastern Suburbs,1,VIC,In a significant urban area,Major city,71,2,ELS,73,S,"",Y,0,0,0,0,0,0,0,0,17337,20540,58502,72628,0,0,0,0,-38,0
+9514826817,32,1966,2019,F,319,Western Australia - Outback (South),1,NSW,"","",54,2,PPR,11,A,Primary earner,Y,0,648,0,4730,79,0,0,0,0,25547,88,45004,0,0,0,0,-312,7194
+2924810536,36,1956,2015,F,402,Hume,3,QLD,In a significant urban area,"",11,1,ELS,13,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,22287,119598,908,-169,0,35062,0,-1508,0
+6916409653,74,1966,2021,F,401,Newcastle and Lake Macquarie,1,VIC,In a significant urban area,Inner regional,85,2,ELS,53,A,Primary earner,Y,0,0,0,0,0,0,0,0,2031,42187,39209,9448,0,0,0,0,-312,1280
+5021180716,44,1968,2011,F,119,Townsville,3,VIC,In a significant urban area,"",32,0,ELS,22,S,Primary earner,Y,0,183,0,118,1430,0,0,0,0,0,31921,19313,0,0,0,0,-946,5379
+2355927214,30,1962,2025,F,305,Sydney - Outer West and Blue Mountains,3,WA,In a significant urban area,"",53,2,ELS,25,A,"",Y,0,0,0,0,0,0,0,0,0,31823,16729,108875,0,0,8192,0,-8627,10506
+1032382773,44,1970,2004,F,119,Sydney - Baulkham Hills and Hawkesbury,3,VIC,Not in a significant urban area,Major city,33,0,ELS,72,A,Secondary earner,Y,0,0,0,259,1467,0,0,0,0,25565,24353,27818,0,0,0,0,11871,7270
+4975713940,31,1961,2019,M,108,Adelaide - North,2,NSW,In a significant urban area,Major city,35,0,ELS,42,A,"",Y,0,0,0,0,,0,0,0,3,0,37928,39213,0,0,0,0,-568,6189
+5806958738,43,1944,2006,M,405,Sydney - South West,1,QLD,In a significant urban area,Major city,24,0,ELS,33,A,Primary earner,Y,0,0,0,1807,0,0,8222,0,0,18530,16041,65372,0,0,0,0,-399,1667
+7272924470,24,1954,2020,M,511,Sydney - South West,3,SA,"","",21,0,ELS,39,A,"",Y,0,0,16369,69,37,0,0,0,0,53786,90885,6124,0,0,0,0,-1603,2523
+1130639959,43,1954,2013,M,305,Adelaide - Central and Hills,1,NSW,"","",22,0,ELS,72,A,"",Y,0,149,34227,11,0,12247,0,0,0,21637,71774,26011,0,0,0,0,1120,11095
+7881350696,58,1934,2020,M,212,Moreton Bay - North,2,WA,"","",72,2,ELS,89,A,"",Y,0,0,0,0,0,0,0,0,0,0,24854,225945,0,0,0,0,-2962,21872
+2087344191,62,1983,2021,F,311,Illawarra,2,VIC,In a significant urban area,Major city,35,0,PPR,85,A,"",Y,0,0,0,64,0,0,0,257,4,24546,29840,8943,0,0,0,0,-1493,11647
+5513621360,52,1980,2024,M,127,Melbourne - North East,1,VIC,"",Major city,54,0,ELS,74,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,89916,19935,26033,0,0,0,0,-4460,8727
+2338562722,17,1975,2024,M,212,Adelaide - Central and Hills,5,VIC,In a significant urban area,"",13,0,PPR,56,A,"",Y,0,0,0,99,0,0,0,0,0,7719,24446,31978,0,0,62,0,-1523,5798
+7324486323,25,1932,2016,F,211,Sydney - Baulkham Hills and Hawkesbury,1,ACT,In a significant urban area,Major city,83,4,ELS,44,A,Primary earner,Y,0,0,0,0,2,0,0,0,0,36711,6955,46955,0,0,0,0,-2887,1432
+7189205957,60,1976,2022,F,405,Melbourne - West,2,VIC,"","",32,0,ELS,11,A,Secondary earner,Y,0,194,20234,0,0,0,0,0,0,1671,46325,12475,0,0,0,0,101,16058
+6647222050,29,1980,2026,M,122,Melbourne - North East,1,NSW,In a significant urban area,"",83,0,ELS,62,A,"",Y,0,0,0,0,0,0,0,0,1220,123743,12677,8817,0,0,0,0,-149,5950
+6585197319,32,1966,2022,M,604,Latrobe - Gippsland,8,VIC,"",Inner regional,31,0,ELS,56,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,0,22227,30786,0,0,0,0,-37,1628
+6476692886,38,1915,2024,F,206,Brisbane - West,3,NSW,"",Major city,81,0,ETAX,82,A,"",Y,0,5183,0,0,0,0,0,0,0,119646,56860,39435,0,0,0,0,-353,0
+8096929999,24,1939,2014,M,801,Perth - South West,1,QLD,In a significant urban area,Inner regional,25,0,ELS,73,A,"",Y,0,0,0,16,1077,0,0,0,0,20865,62846,24820,0,0,0,0,-2451,3935
+7403839368,40,1951,2007,F,502,Shepparton,4,VIC,"",Major city,62,0,ELS,85,A,Secondary earner,Y,0,0,0,0,0,0,0,0,0,5669,53324,7245,0,0,0,0,-1523,1203
+3461489287,26,1972,2020,F,316,Sydney - Northern Beaches,5,"",In a significant urban area,Inner regional,35,1,ELS,44,A,Primary earner,Y,0,0,0,68,0,0,0,0,2,47720,4244,40114,0,0,2137,0,28,5517
+7637933410,61,1973,2018,F,211,Adelaide - Central and Hills,3,NT,Not in a significant urban area,Major city,56,1,ETAX,25,A,Primary earner,Y,0,0,0,81,251,0,0,9798,0,7074,186325,47503,1850,0,0,0,-367,2433
+5936804986,52,1978,2018,F,401,Sydney - South West,1,NSW,In a significant urban area,Major city,89,0,ELS,89,A,"",Y,0,0,33103,369,0,1,2734,257,354,0,22171,36735,0,0,0,0,-1029,1249
+1600861772,39,1977,2004,F,202,Mornington Peninsula,5,QLD,In a significant urban area,"",39,0,ELS,42,A,Secondary earner,Y,0,96,0,0,0,0,0,0,0,13029,10069,44488,0,0,0,0,-336,4777
+1657043482,39,1942,2019,M,404,Sydney - Northern Beaches,3,VIC,In a significant urban area,Major city,71,2,ELS,25,S,Primary earner,Y,0,0,0,0,0,66,0,0,16,32280,69738,19773,0,0,0,0,-1422,0
+9163534565,30,1948,2026,M,118,Sydney - Inner South West,1,QLD,"",Major city,13,0,PPR,71,A,Primary earner,Y,0,0,,0,0,0,0,0,148,53988,15882,634,-769,0,0,0,1422,0
+9141808765,48,1970,2020,M,119,Sydney - Outer South West,2,NSW,"",Major city,71,0,ELS,45,S,Primary earner,Y,0,2027,0,0,0,0,0,0,0,14296,5394,26089,0,0,0,0,-470,41632
+4502566600,51,1966,2011,M,202,Gold Coast,1,ACT,In a significant urban area,Major city,83,0,ELS,53,A,Secondary earner,Y,0,0,0,0,0,12,1329,0,0,27328,29679,51075,0,0,0,-6228,-8924,667
+5516319033,74,1937,2026,M,403,Melbourne - South East,7,NSW,"",Major city,32,2,ELS,89,A,"",Y,0,0,0,0,0,0,0,0,0,7324,85346,26969,-414,0,0,-2783,766,74631
+8276445742,53,1926,2008,F,119,South Australia - South East,1,QLD,"",Inner regional,24,0,ELS,22,A,Secondary earner,Y,,0,0,0,0,5733,0,0,0,46197,2324,16230,0,0,0,0,-835,24762
+2738485279,29,1948,2015,M,211,Capital Region,1,SA,"",Inner regional,41,0,ELS,54,A,Primary earner,Y,0,0,0,33,0,0,0,0,0,6417,56789,27269,0,0,0,0,492,1375
+5681106314,70,1952,2024,M,501,Melbourne - North East,3,QLD,In a significant urban area,Major city,23,0,ELS,22,A,Secondary earner,Y,0,0,0,106,0,0,0,0,,61423,58201,56543,0,0,0,0,-442,925
+1806310210,41,1964,2025,F,203,Brisbane Inner City,1,VIC,"",Inner regional,62,0,ETAX,89,A,Primary earner,Y,0,9070,0,0,0,20,0,0,0,20659,34991,12567,0,0,0,0,-1252,472
+3867271875,22,1929,2021,F,205,Central Queensland,2,QLD,In a significant urban area,"",52,3,TELE,71,A,"",Y,0,0,0,0,0,0,0,0,0,43225,14033,1586,0,0,0,-935,-585,1102
+2713733683,60,1959,2013,F,505,Brisbane - South,2,VIC,In a significant urban area,"",62,0,ELS,23,A,"",Y,0,218,0,0,0,0,0,0,195,37960,25790,43462,0,0,336,2151,-2240,1187
+7664240468,21,1955,2018,F,206,"",5,NSW,Not in a significant urban area,Major city,23,3,PPR,42,A,Primary earner,Y,0,670,0,0,0,546,0,0,0,1741,20373,2246,0,0,0,0,1119,0
+8889443375,18,1945,2013,M,509,"",5,NSW,Not in a significant urban area,Inner regional,72,0,ELS,81,S,"",Y,0,123,0,0,0,0,0,0,0,10556,15218,13987,0,0,0,0,3684,14674
+9756206843,32,1944,2023,M,310,"",3,VIC,Not in a significant urban area,"",14,2,ELS,11,A,Primary earner,Y,0,0,0,19,0,1098,0,0,0,0,56200,17674,0,0,0,0,-7,0
+1555638588,26,1960,2023,M,207,Adelaide - West,3,NSW,"",Major city,26,1,ELS,62,A,"",Y,0,0,0,0,0,10,0,0,0,28084,20761,58645,0,0,0,0,-2676,527
+2839752944,48,1964,2016,F,505,New England and North West,5,QLD,"",Inner regional,32,0,ELS,81,S,"",Y,0,0,0,0,0,8,0,0,4,16812,184597,8019,0,0,0,0,1496,10616
+5242576891,25,1928,2018,F,313,West and North West,1,SA,"",Major city,53,0,ELS,31,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,27509,119490,102651,0,0,0,0,0,161
+4012117997,60,1968,2024,F,403,Bendigo,5,SA,In a significant urban area,Major city,62,1,ELS,74,A,"",Y,0,25,0,0,0,1073,0,0,0,45153,19521,5533,0,0,0,0,-102,5865
+7857205539,32,1928,2004,M,127,Melbourne - Outer East,2,QLD,"","",63,1,ELS,24,S,Secondary earner,Y,0,0,0,0,0,54,0,0,3,2907,-2201,32559,194,0,0,0,-64,9820
+4811347121,32,1951,2020,F,128,Western Australia - Wheat Belt,2,VIC,In a significant urban area,Remote area,22,1,ELS,85,S,"",Y,0,4074,0,783,0,0,0,0,17048,58652,10550,12144,0,0,113,7264,-229,2770
+5684499852,39,1974,2007,F,206,Sydney - Inner South West,3,VIC,"",Major city,31,4,ELS,27,A,"",Y,0,0,0,0,1388,169,0,10706,0,25423,68,98273,0,0,0,0,-3041,0
+4306213725,69,1983,2019,M,206,Richmond - Tweed,4,WA,In a significant urban area,Major city,25,3,ELS,39,S,"",Y,0,0,0,0,0,0,0,0,0,37403,67955,45745,0,0,599,0,-91,5810
+5351799752,52,1935,2023,M,303,Illawarra,6,WA,In a significant urban area,Major city,55,1,ETAX,24,A,"",Y,0,258,0,,182,0,0,4419,0,53995,21614,32792,0,0,0,0,12288,30404
+9832127047,53,1967,2015,F,211,Sydney - Blacktown,3,VIC,In a significant urban area,Inner regional,39,0,ETAX,32,S,"",Y,0,0,0,0,0,0,0,1,0,7255,10798,20071,0,0,0,0,1350,5656
+5963160542,18,1971,2018,F,209,Central Queensland,3,SA,Not in a significant urban area,"",26,1,ELS,33,A,"",Y,0,0,0,16,0,228,7972,0,44,54334,22596,11544,0,0,0,0,-2813,8719
+2687573606,72,1947,2004,F,210,Melbourne - Outer East,1,NSW,In a significant urban area,Major city,53,0,ETAX,42,S,Primary earner,Y,0,974,0,0,0,0,0,0,0,12169,49306,7352,44026,0,0,0,-265,6685
+3748934176,42,1962,2007,F,304,"",3,TAS,In a significant urban area,Major city,32,2,ELS,83,S,Secondary earner,Y,,13690,0,0,0,0,0,0,0,0,31939,68580,0,0,0,0,19,3249
+2064715872,23,1976,2003,M,509,New England and North West,3,VIC,"",Major city,83,1,ELS,33,A,"",Y,0,0,0,0,0,0,2759,0,42,28551,13938,50902,0,0,0,0,-11,2310
+5642593304,21,1971,2024,M,122,Queensland - Outback,1,QLD,"",Outer regional,13,0,PPR,23,A,Primary earner,Y,0,0,0,32,0,0,0,0,0,59725,18050,21136,8990,0,0,0,-5037,22097
+9096966835,35,1937,2023,M,210,Wide Bay,8,VIC,"","",61,0,ELS,85,S,Primary earner,Y,0,0,0,0,0,0,0,0,834,7340,18506,112089,0,0,0,0,7104,2369
+1933121817,67,1935,2022,F,212,Bunbury,1,QLD,In a significant urban area,Major city,53,1,ELS,22,A,"",Y,0,0,0,1673,0,0,0,0,0,5284,3332,8485,0,0,0,-34,-1506,0
+6625854230,31,1965,2024,M,504,New England and North West,2,NSW,In a significant urban area,Major city,42,2,ELS,53,A,Secondary earner,Y,0,0,0,391,0,63,0,0,2,10833,36108,47055,0,0,0,0,-49,14489
+2550466495,39,1974,2012,F,108,Mornington Peninsula,1,SA,In a significant urban area,Major city,53,0,PPR,89,A,"",Y,0,0,0,0,0,0,0,0,0,39758,53311,22809,0,0,0,0,-544,26052
+6861457200,42,1948,2018,F,401,Sydney - Parramatta,3,VIC,In a significant urban area,Major city,61,2,PPR,34,A,"",Y,0,0,0,1007,0,167,0,0,67,27305,22268,26358,0,0,0,0,-1154,2122
+5741024578,35,1979,2007,F,206,Adelaide - Central and Hills,3,VIC,In a significant urban area,Major city,56,1,ELS,52,S,"",Y,0,0,0,0,0,0,0,11,0,24304,2146,23901,0,0,0,-751,-762,5349
+7044091512,51,1977,2021,M,119,Bunbury,2,VIC,In a significant urban area,Inner regional,27,2,PPR,11,S,Primary earner,Y,0,0,0,511,0,0,0,0,0,67138,24177,40658,-1578,0,2073,0,766,54639
+4566098286,28,1986,2013,M,120,Bunbury,1,VIC,"","",27,0,ELS,53,A,"",Y,0,0,0,0,0,2584,0,,615,0,153038,78798,0,0,0,0,-1077,518
+6684436352,70,1987,2026,M,311,Sydney - Northern Beaches,2,NSW,In a significant urban area,Major city,61,6,ELS,43,A,"",Y,0,0,0,0,71,0,0,0,0,54792,22456,6585,0,0,0,0,-305,10407
+3592721871,47,1947,2023,M,212,Melbourne - West,1,VIC,In a significant urban area,Major city,25,1,ELS,26,A,"",Y,0,240,0,0,51,0,0,0,0,0,49,76695,1941,,0,0,-264,3251
+4783503593,26,1956,2010,F,119,Brisbane Inner City,1,NSW,In a significant urban area,"",25,2,ELS,81,A,"",Y,0,0,0,0,0,66,0,0,0,125388,51462,34818,0,0,0,0,-4100,166
+8741379746,17,1980,2008,M,210,Melbourne - North West,2,VIC,In a significant urban area,Major city,62,1,ELS,26,A,Secondary earner,Y,,197,0,0,0,0,451,0,0,0,14225,9642,0,0,0,0,1219,6229
+9242472625,56,1983,2022,F,103,Murray,5,QLD,In a significant urban area,Major city,63,4,ELS,61,A,Primary earner,Y,0,0,0,44,0,0,0,0,0,33601,1584,23122,17872,0,0,1255,-1343,2028
+4790292150,43,1959,2018,F,119,Sydney - Inner South West,3,QLD,"",Major city,43,2,ELS,85,A,"",Y,0,0,0,721,0,0,0,0,145,13642,20609,446,0,0,0,0,-500,7018
+7127765897,49,1947,2006,M,106,Melbourne - West,2,WA,In a significant urban area,"",22,3,ELS,83,A,"",Y,0,0,0,0,0,0,0,0,592,3306,96257,32229,0,0,0,0,-686,960
+9810525323,46,1966,2021,F,509,Sydney - Northern Beaches,3,VIC,"",Major city,55,0,ELS,14,A,Primary earner,Y,0,0,0,0,0,0,0,11020,2733,0,215,46493,,0,0,0,-149,2350
+6948694282,47,1962,2020,M,120,Townsville,1,NSW,"","",26,2,PPR,81,S,"",Y,0,0,0,0,12,0,0,5969,161,30393,47408,76635,0,0,0,0,-35,17519
+6865796885,42,1983,2022,M,507,Riverina,1,ACT,In a significant urban area,Inner regional,62,1,PPR,32,S,"",Y,0,0,0,,0,0,0,0,0,43946,5901,28576,0,0,183,12130,-91,2300
+3468313688,58,1981,2019,M,310,Hunter Valley exc Newcastle,3,NSW,Not in a significant urban area,Outer regional,32,3,ELS,85,A,"",Y,0,70,0,0,0,0,0,0,0,0,,36786,0,0,0,0,-564,8666
+6910730290,19,1973,2014,M,213,Adelaide - North,3,NSW,In a significant urban area,Inner regional,25,3,ELS,33,A,Secondary earner,Y,0,0,0,0,0,0,0,0,868,61122,19713,96748,0,0,0,-197,-671,0
+7813554606,54,1935,2009,F,214,Brisbane Inner City,3,NSW,Not in a significant urban area,Major city,33,0,ELS,35,A,Primary earner,Y,0,0,0,0,0,0,625,0,4,49624,48027,10276,0,0,0,0,0,1973
+4614100396,42,1954,2007,M,203,Capital Region,1,NSW,In a significant urban area,Inner regional,13,0,ELS,42,A,Secondary earner,Y,0,0,0,0,0,111,5143,3462,0,55761,31167,12461,0,0,0,0,-1596,853
+2794608022,43,1937,2016,F,122,Brisbane - East,3,QLD,"",Major city,55,0,ELS,22,A,"",Y,,0,0,559,0,0,0,0,4,74169,15129,31190,0,0,0,-15710,-1374,89304
+5016672734,36,1979,2003,M,211,Latrobe - Gippsland,2,NSW,In a significant urban area,Major city,1,0,ETAX,11,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,4983,1,15723,0,0,0,0,-1,0
+5962808208,33,1967,2027,M,128,Adelaide - West,8,NSW,In a significant urban area,"",23,0,ETAX,55,A,"",Y,0,0,,0,0,11250,0,0,0,14723,42298,14945,0,0,481,-1530,-2774,4767
+4968142366,39,1959,2020,F,102,Gold Coast,4,VIC,In a significant urban area,Inner regional,24,1,ELS,11,S,Primary earner,Y,0,0,0,800,0,0,0,5229,0,2836,15469,18768,0,0,0,0,-647,1767
+5191093496,65,1946,2020,M,406,Illawarra,7,WA,In a significant urban area,Major city,32,0,ELS,73,A,Primary earner,Y,0,0,0,0,0,0,0,0,0,40846,17320,21220,0,0,0,0,-932,8354
+8784817167,38,1937,2016,M,313,Hume,5,NSW,In a significant urban area,Major city,35,0,ELS,54,S,"",Y,0,0,0,1694,0,0,4662,0,0,0,29882,57720,0,0,0,0,-8222,8484
+5691292089,58,1962,2024,F,115,Sydney - Parramatta,2,NSW,"",Major city,36,2,ELS,84,A,"",Y,0,0,0,0,0,0,0,0,0,40186,12646,90987,0,0,0,0,0,1196
+1197084490,27,1969,2023,M,124,Sydney - Parramatta,5,VIC,"",Major city,42,0,ELS,35,S,"",Y,0,0,0,0,8,17,0,0,2783,65368,36847,34836,-451,0,0,0,-907,4886
+4998403642,53,1960,2008,M,311,Australian Capital Territory,1,NSW,In a significant urban area,Inner regional,24,0,ELS,11,S,"",Y,0,83,0,0,0,0,0,0,0,32286,32147,24111,0,0,0,0,-739,2680
+7809566188,43,1969,2023,M,314,"",5,NSW,In a significant urban area,Major city,41,0,ELS,73,A,"",Y,0,0,0,446,0,0,0,0,0,437,57016,73696,0,0,0,13788,-2,9041
+1164700571,36,1958,2019,F,319,Melbourne - West,2,NSW,In a significant urban area,Major city,61,1,ELS,13,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,20302,71374,12585,0,0,0,0,1371,3231
+2102052894,22,1981,2004,M,119,Gold Coast,1,VIC,In a significant urban area,Major city,34,1,ELS,22,A,"",Y,0,214,0,0,0,0,0,0,1998,6706,10357,89860,0,0,0,0,-1704,8237
+9563197044,16,1938,2026,M,306,Sydney - Blacktown,2,VIC,"",Major city,61,0,ELS,21,S,"",Y,0,0,0,0,0,0,2447,0,10,0,187537,9979,0,0,0,0,-537,11512
+8077244224,29,1950,2006,M,407,Sydney - Inner South West,2,NSW,"",Major city,22,0,ELS,13,A,Primary earner,Y,0,0,0,597,55,0,0,0,0,1064,2486,73511,0,0,85,0,-807,4144
+8816409382,64,1975,2023,M,309,Adelaide - West,2,QLD,Not in a significant urban area,Major city,39,3,ELS,22,A,"",Y,0,0,0,0,0,491,0,7204,1796,69907,1076,27794,0,0,0,0,-468,17654
+5665545547,51,1930,2025,F,318,Darling Downs - Maranoa,2,WA,Not in a significant urban area,Major city,53,2,ELS,33,A,Primary earner,Y,0,6394,0,10,0,0,0,2621,0,9575,8919,29537,0,0,0,0,-2527,2752
+4037545015,21,1926,2026,F,203,Sydney - Northern Beaches,1,SA,Not in a significant urban area,Major city,24,2,ELS,83,A,"",Y,0,0,0,0,0,7755,0,0,43,0,17028,39880,0,0,0,0,-1047,39259
+4919600506,43,1973,2021,F,213,Melbourne - South East,4,QLD,In a significant urban area,"",52,2,ELS,34,A,Secondary earner,Y,0,0,0,0,0,29,3548,0,0,,19041,19274,0,0,0,-439,-331,2022
+7332592064,16,1987,2026,M,402,"",5,QLD,In a significant urban area,Major city,25,0,ELS,34,A,Secondary earner,Y,0,708,0,0,0,0,0,0,10872,19227,-3045,442,0,0,0,0,-1734,852
+4693580780,58,1966,2008,F,213,Melbourne - South East,1,QLD,"",Outer regional,26,2,ELS,35,A,"",Y,0,0,0,481,0,0,0,0,0,50956,17138,24900,0,0,0,0,-319,
+4046310675,26,1989,2012,F,203,Melbourne - Inner South,2,VIC,In a significant urban area,Inner regional,71,0,PPR,51,S,Primary earner,Y,0,0,0,0,0,39,0,0,0,0,22550,29527,0,0,0,0,-807,84102
+4473114186,44,1949,2016,M,115,Coffs Harbour - Grafton,2,VIC,"",Major city,54,0,ELS,73,A,"",Y,0,0,0,0,0,0,0,0,1,42295,6332,22204,0,0,0,1455,-1370,7351
+9401641206,27,1949,2023,M,120,Townsville,1,QLD,In a significant urban area,"",59,0,ELS,59,A,"",Y,0,0,0,0,0,0,0,0,0,40470,38497,56380,0,0,0,0,-1879,25
+2668658779,32,1967,2022,M,203,Sydney - Parramatta,4,VIC,In a significant urban area,Inner regional,23,2,ELS,44,A,"",Y,0,0,0,0,0,5448,0,0,2583,0,619,49491,0,0,0,0,-5168,1168
+8571830137,45,1972,2005,M,107,South Australia - South East,2,WA,"","",22,2,PPR,89,A,Primary earner,Y,0,0,0,0,0,0,0,0,31,,4829,21723,0,0,0,0,-150,852
+6830907858,20,1945,2025,F,215,Sydney - Parramatta,8,NSW,In a significant urban area,Major city,45,0,ELS,63,A,"",Y,0,2689,0,0,0,0,0,0,0,1696,19121,17072,0,0,13766,0,-1936,8715
+2535833292,44,1955,2024,M,309,Melbourne - Outer East,3,ACT,"",Major city,84,0,PPR,32,A,"",Y,0,1277,,1545,0,1,0,0,30,2205,12515,10263,16931,0,0,0,-1061,823
+8593710027,70,1954,2016,M,212,Cairns,5,QLD,In a significant urban area,Inner regional,25,0,ELS,27,S,"",Y,0,0,0,4359,0,16,0,0,0,34208,65110,71766,0,,0,0,-1640,1244
+3134800075,56,1960,2021,M,206,Sydney - South West,1,"",In a significant urban area,Inner regional,22,0,PPR,21,S,Secondary earner,Y,0,0,0,39,0,0,0,0,1833,0,19491,36609,0,,0,-7369,-493,1814
+8959821080,61,1953,2004,F,201,Coffs Harbour - Grafton,1,QLD,In a significant urban area,Outer regional,62,0,PPR,32,A,Secondary earner,Y,0,0,0,521,0,0,0,0,973,13281,31339,18726,0,0,0,0,-1455,599
+7614348783,38,1971,2022,M,103,Murray,2,VIC,In a significant urban area,Major city,61,0,ELS,22,A,"",Y,0,0,0,0,0,0,0,0,1682,27907,12568,9737,0,0,0,0,-26,7128
+8231150603,68,1950,2006,F,309,Sydney - Ryde,1,NSW,"",Inner regional,25,1,ELS,89,A,Secondary earner,Y,0,0,0,0,0,0,0,0,8251,34941,84246,52675,0,0,130,0,-1757,9952
+8356005931,36,1945,2014,M,304,Latrobe - Gippsland,3,QLD,"","",61,1,ELS,23,S,"",Y,0,0,0,0,0,162,0,0,0,79053,34180,17860,0,0,0,0,-536,8362
+5477495391,39,1956,2023,M,507,Melbourne - Inner,1,NSW,In a significant urban area,Inner regional,1,0,ELS,32,S,"",Y,0,0,0,0,0,86,0,35,25,60298,17292,45207,0,0,0,0,423,9237
+4469639037,42,1970,2008,M,212,Sydney - Inner South West,1,ACT,In a significant urban area,Major city,22,0,ELS,23,A,"",Y,0,9039,0,0,0,0,0,0,0,0,38677,18803,0,0,0,0,-159,19473
+3395376817,75,1943,2021,F,507,New England and North West,3,TAS,"",Remote area,44,0,ELS,42,A,"",Y,0,0,0,418,0,0,0,0,0,0,41730,45904,0,0,0,0,966,11460
+1104043408,24,1938,2011,M,318,Sydney - Inner West,1,TAS,In a significant urban area,Major city,42,1,PPR,36,S,Secondary earner,Y,0,0,0,0,0,10764,0,0,0,57376,212731,43218,0,0,0,0,-9724,0
+6271035607,37,1960,2022,M,113,Brisbane - East,3,NSW,In a significant urban area,"",44,0,ELS,24,S,"",Y,0,0,0,0,0,1281,3369,0,0,0,44982,43873,0,0,0,0,-726,32858
+1625207284,22,1978,2009,M,307,Darling Downs - Maranoa,3,VIC,In a significant urban area,Major city,55,0,ELS,83,A,Primary earner,Y,0,0,0,0,0,0,0,0,128,0,36273,22128,0,0,0,0,-196,27159
+2779037305,54,1970,2021,M,801,Sydney - Eastern Suburbs,3,VIC,"","",62,3,PPR,55,S,Primary earner,Y,0,,0,28997,0,356,653,0,0,8954,52250,18534,0,0,0,0,7,2877
+1738990387,41,1976,2021,F,405,Perth - South West,6,NSW,In a significant urban area,Major city,53,0,ELS,22,A,"",Y,0,61,0,0,0,0,3720,0,0,26497,19373,36568,0,0,0,0,-498,10149
+7546589005,42,1980,2024,F,316,Melbourne - Outer East,2,WA,In a significant urban area,Major city,12,1,ELS,25,A,"",Y,0,0,0,331,0,534,0,0,4246,42335,80834,6481,,0,0,0,-65,0
+9255645854,17,1959,2024,F,311,Sunshine Coast,8,NSW,"",Inner regional,52,0,ELS,23,A,"",Y,0,0,26972,0,0,0,6668,8759,0,23448,22810,59291,0,0,0,0,3408,2668
+4298698606,82,1954,2003,M,501,Coffs Harbour - Grafton,4,VIC,"","",22,0,TELE,53,A,"",Y,0,1119,0,0,0,155,0,0,2,36169,10451,4674,0,0,817,0,-515,
+9249667496,24,1959,2017,M,303,New England and North West,1,TAS,In a significant urban area,Major city,61,0,ELS,42,A,"",Y,0,0,0,0,0,0,0,0,0,126997,20245,28184,0,0,0,0,-2606,2745
+4949525234,19,1964,2014,M,402,Gold Coast,3,QLD,In a significant urban area,"",84,0,ELS,43,S,Secondary earner,Y,0,0,0,0,0,0,0,0,277,49990,10086,19793,0,0,0,0,-1946,7246
+2042453195,32,1984,2021,M,401,Newcastle and Lake Macquarie,3,NSW,"","",35,0,ELS,11,S,Secondary earner,Y,0,0,0,104,0,25,3374,0,154,16029,10850,8,0,0,0,0,-206,2622
+3541124427,42,1950,2026,F,113,Gold Coast,3,"",In a significant urban area,Major city,84,0,ELS,11,A,"",Y,0,0,0,0,0,57,0,0,41,16861,50913,3253,,0,0,0,17428,772
+7340222872,35,1966,2024,M,104,Sydney - Baulkham Hills and Hawkesbury,5,QLD,In a significant urban area,"",11,1,ELS,81,S,"",Y,0,0,0,0,0,0,,0,0,14542,158596,45184,0,0,0,0,-376,8490
+9617615953,30,1961,2025,F,125,Latrobe - Gippsland,3,NSW,"",Major city,43,0,ELS,55,A,"",Y,0,0,0,0,0,0,0,0,10949,56276,14274,42347,-72,0,0,0,-2055,6182
+8651037044,34,1971,2009,M,214,Central Coast,2,NSW,"",Major city,89,0,ELS,25,S,Secondary earner,Y,0,0,0,33,0,0,0,0,0,55026,52059,2926,0,0,687,0,-544,7750
+8416637290,43,1948,2015,F,319,Brisbane - West,6,NSW,In a significant urban area,"",84,1,ELS,55,S,Primary earner,Y,0,0,0,0,0,0,0,0,0,58346,53124,12855,0,0,0,-2477,-696,9339
+1212797344,44,1966,2008,F,407,Logan - Beaudesert,2,VIC,In a significant urban area,"",14,1,PPR,53,A,"",Y,0,22494,0,149,1,0,0,0,0,43756,32786,37425,0,0,0,0,-7790,9588
+1657759406,37,1970,2010,F,402,Sydney - Sutherland,5,VIC,In a significant urban area,Outer regional,27,3,ETAX,32,S,Primary earner,Y,0,50,0,0,0,0,0,0,324,78093,35161,16357,0,0,0,0,-31,10394
+4510022953,49,1948,2006,F,212,Adelaide - Central and Hills,1,VIC,"",Major city,55,3,ELS,53,A,Primary earner,Y,0,0,0,242,0,0,0,0,0,0,40894,45972,0,0,0,0,1042,8780
+3959538922,25,1975,2018,M,303,Barossa - Yorke - Mid North,6,QLD,In a significant urban area,Major city,82,3,PPR,62,S,"",Y,0,0,0,0,0,0,0,0,0,15074,11884,29408,0,0,0,0,-799,8359
