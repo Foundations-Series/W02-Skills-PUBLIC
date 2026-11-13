@@ -1,9 +1,7 @@
-```yaml
 ---
 name: prepare-code
 description: Writes the code that loads the chosen variables from the chosen data files and merges them, for a person to review. Use when an analyst working with Australian Government microdata knows which variables and data files they need and wants the load-and-merge code.
 ---
-```
 
 ## Objective
 

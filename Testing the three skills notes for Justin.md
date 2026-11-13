@@ -14,7 +14,7 @@ The skills leave a few things blank, because they differ from team to team. The 
 
 Please type this: "I want a table of taxable income for 2015 and 2025."
 
-This request names an output and does not say what problem it solves. The skill should notice that. Before it asks about years or variables, it should ask what you are trying to find out and why it matters. It should ask a few numbered questions at a time, suggest an answer to each one, and then wait for your reply. At the end it should show you a short written summary and ask you to confirm it.
+This request names an output and does not say what l’s tax under each scenario, then summarize by income-percentile group.problem it solves. The skill should notice that. Before it asks about years or variables, it should ask what you are trying to find out and why it matters. It should ask a few numbered questions at a time, suggest an answer to each one, and then wait for your reply. At the end it should show you a short written summary and ask you to confirm it.
 
 **Test: **Did it ask about the problem before anything else? Did it ask too many questions, or miss something you always ask?
 

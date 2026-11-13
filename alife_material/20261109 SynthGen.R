@@ -2,8 +2,8 @@
 
 library(data.table)
 
-Dir.SynthData   <-  "C:/Users/justi/OneDrive/Work/CoLab_Workshop_2/SynthData"
-Dir.Main        <-  "C:/Users/justi/OneDrive/Work/CoLab_Workshop_2"
+Dir.SynthData   <-  "C:/Users/justi/OneDrive/Documents/GitHub/W02-Skills-PUBLIC/alife_material/SynthData/"
+Dir.Main        <-  "C:/Users/justi/OneDrive/Documents/GitHub/W02-Skills-PUBLIC/alife_material/"
 
 
 SizeFactor      <-  1000

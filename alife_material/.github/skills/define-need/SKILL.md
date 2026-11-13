@@ -1,9 +1,7 @@
-```yaml
 ---
 name: define-need
 description: Grills an analyst until their analysis question is clear: the problem, what type of question it is, for which years and people, with which variables, on what assumptions. Use when an analyst working with Australian Government microdata is working out what question to answer or what to analyse.
 ---
-```
 
 ## Objective
 

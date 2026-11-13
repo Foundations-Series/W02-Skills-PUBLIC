@@ -1,0 +1,5 @@
+what_was_requested,variable_name,table,dictionary_description
+taxable income,ic_taxable_income_loss,individuals,Taxable income or loss
+tax paid,tc_gross_tax,individuals,Calculated basic tax amount
+date of birth (proxy: birth financial year),c_birth_fy,individuals,Client: financial year in which client was born
+record ID (required for matching records),alife_id_001,individuals,ALIFE external ID

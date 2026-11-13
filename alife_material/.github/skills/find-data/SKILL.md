@@ -1,9 +1,7 @@
-```yaml
 ---
 name: find-data
 description: Turns what an analyst needs, said in plain words, into the exact ALife variable names from the data dictionary, then saves the agreed list for a person or another skill to use. Use when an analyst working with Australian Government microdata knows what they need and wants the real variable names.
 ---
-```
 
 ## Objective
 
