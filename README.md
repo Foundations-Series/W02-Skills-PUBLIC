@@ -12,8 +12,8 @@ You don't need to code to write one. You need to know how you'd do the task your
 
 | Folder | What it holds |
 |---|---|
-| `building-skills/` | Two skills for building skills, for any task. **skill-brief** asks you five questions about a skill you want and writes a brief. **skill-from-brief** builds the skill from that brief, or from your own pseudocode. |
-| `alife-example/` | A chain of three skills for one kind of work, each handing its output to the next. **define-need** asks you questions until your analysis question is clear. **find-data** finds the right variable names in the data dictionary. **prepare-code** writes the code to load and merge the data. They were built for ALife (the ATO Longitudinal Information Files), de-identified tax data used by researchers, and are here as a worked example. `define-need/tests.md` is an example of what tests for a skill can look like. |
+| [`building-skills/`](building-skills/) | Two skills for building skills, for any task. **[skill-brief](building-skills/skill-brief/SKILL.md)** asks you five questions about a skill you want and writes a brief. **[skill-from-brief](building-skills/skill-from-brief/SKILL.md)** builds the skill from that brief, or from your own pseudocode. |
+| [`example-skills/`](example-skills/) | The three skills from the workshop: a chain for one kind of work, each handing its output to the next. **[define-need](example-skills/define-need/SKILL.md)** asks you questions until your analysis question is clear. **[find-data](example-skills/find-data/SKILL.md)** finds the right variable names in the data dictionary. **[prepare-code](example-skills/prepare-code/SKILL.md)** writes the code to load and merge the data. They were built for ALife (the ATO Longitudinal Information Files), de-identified tax data used by researchers, and are here as a worked example. [`define-need/tests.md`](example-skills/define-need/tests.md) is an example of what tests for a skill can look like. |
 
 No data, data dictionary or code library is included. The ALife skills point at those, and you fill in where yours are.
 
