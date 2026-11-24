@@ -13,9 +13,7 @@ You don't need to code to write one. You need to know how you'd do the task your
 | Folder | What it holds |
 |---|---|
 | [`building-skills/`](building-skills/) | Two skills for building skills, for any task. **[skill-brief](building-skills/skill-brief/SKILL.md)** asks you five questions about a skill you want and writes a brief. **[skill-from-brief](building-skills/skill-from-brief/SKILL.md)** builds the skill from that brief, or from your own pseudocode. |
-| [`example-skills/`](example-skills/) | The three skills from the workshop: a chain for one kind of work, each handing its output to the next. **[define-need](example-skills/define-need/SKILL.md)** asks you questions until your analysis question is clear. **[find-data](example-skills/find-data/SKILL.md)** finds the right variable names in the data dictionary. **[prepare-code](example-skills/prepare-code/SKILL.md)** writes the code to load and merge the data. They were built for ALife (the ATO Longitudinal Information Files), de-identified tax data used by researchers, and are here as a worked example. [`define-need/tests.md`](example-skills/define-need/tests.md) is an example of what tests for a skill can look like. |
-
-No data, data dictionary or code library is included. The ALife skills point at those, and you fill in where yours are.
+| [`example-skills/`](example-skills/) | The three skills from the workshop: a chain for one kind of work, each handing its output to the next. **[define-need](example-skills/define-need/SKILL.md)** asks you questions until your analysis question is clear. **[find-data](example-skills/find-data/SKILL.md)** finds the right variable names in the data dictionary. **[prepare-code](example-skills/prepare-code/SKILL.md)** writes the code to load and merge the data. They were built for ALife (the ATO Longitudinal Information Files), de-identified tax data used by researchers, and are here as a worked example. In the workshop we used synthetic data laid out like ALife, not real tax data. No data, data dictionary or code library is included here. The skills point at those in square brackets, and you fill in where yours are. [`define-need/tests.md`](example-skills/define-need/tests.md) is an example of what tests for a skill can look like. |
 
 ## Build your own skill
 
@@ -32,20 +30,6 @@ Use the two skills in `building-skills/` when there's a task you keep doing with
 2. **skill-from-brief: run this second.** Give it your brief. It suggests a shape for the skill, checks it with you, then writes the full `SKILL.md`. It saves nothing until you approve it.
 
 Already know your steps, and what a pass and a fail look like? Skip skill-brief and give your own pseudocode straight to skill-from-brief.
-
-## Make them yours
-
-Some lines in the ALife skills are in square brackets, like this:
-
-`[FILL IN: where your data dictionary is, and which column holds the variable name. ALife example: ...]`
-
-Replace each one with your own, and remove the brackets. For example:
-
-- **Data dictionary:** the file that says what each variable holds.
-- **Data files:** where your data sits, and how it is laid out.
-- **ID variable:** the variable that matches a record across files.
-
-If you skip one, the skill asks you for it before it starts. It won't guess.
 
 ## How to use a skill
 
