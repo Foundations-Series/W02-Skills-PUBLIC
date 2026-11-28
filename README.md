@@ -1,6 +1,6 @@
 # Building Reusable Skills: example skills
 
-These are example skills from Building Reusable Skills, a Foundations Series workshop (Canberra, November 2026). They show what a skill looks like and how one is built. They are not finished products. Copy one, change it to fit your work, and test it before you rely on it.
+These are example skills from Building Reusable Skills, a Foundations Series workshop (Canberra, November 2026) presented by Gayatri Kotnala of [Pypline](https://pypline.com.au). They show what a skill looks like and how one is built. They are not finished products. Copy one, change it to fit your work, and test it before you rely on it.
 
 ## What's a skill?
 
@@ -46,10 +46,12 @@ These work in any AI tool that takes skills or custom instructions, such as Clau
 2. Write the steps as pseudocode: how you'd do the task yourself, one line per step, in plain words. Mark where the AI must STOP and wait for you, and what it must CHECK.
 3. Run it. Check each test. Fix one thing. Run it again.
 
-## Thanks
+## Acknowledgements
 
-The ALife skills were built from Justin Holland's way of working with ALife, and tested by him.
+A big thank you to Justin Holland at the ATO. The skills grew out of the way he works with his datasets, and he worked together with Gayatri Kotnala, the workshop facilitator, to co-design and create a set of skills that were fit for purpose.
+
+Gayatri designed and presented the workshop. She is the founder of [Pypline](https://pypline.com.au), a firm that builds the AI operating system for organisations, from strategic choices to tools, agents and work redesign, with human judgement at the centre.
 
 ## Licence
 
-[CC BY 4.0](LICENSE). You can copy and adapt these skills for any purpose, as long as you credit the Foundations Series.
+[CC BY 4.0](LICENSE). You can copy and adapt these skills for any purpose, as long as you credit the Foundations Series and Gayatri Kotnala.
